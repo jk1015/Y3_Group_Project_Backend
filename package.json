@@ -6,6 +6,9 @@
     "hashmap": "^2.3.0",
     "socket.io": "^2.1.1"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "devDependencies": {
     "mocha": "^5.2.0"
   }
