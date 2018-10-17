@@ -30,7 +30,7 @@ io.on('connection', (socket) => {
         else{
             questionsMap.set(message, 1);
         }
-        socket.emit('question received', { question: message, number: questionsMap.get(message)});
+        io.emit('question received', { question: message, number: questionsMap.get(message)});
     });
 
     socket.on('lecturer connect', () => {
