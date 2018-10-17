@@ -5,6 +5,9 @@
     "express": "^4.16.4",
     "socket.io": "^2.1.1"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "devDependencies": {
     "mocha": "^5.2.0"
   }
