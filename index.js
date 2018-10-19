@@ -25,6 +25,7 @@ let questionsMap = new HashMap();
 io.on('connection', (socket) => {
     socket.on('question asked', message => {
         if( questionsMap.has(message)){
+           console.log(message);
            questionsMap.set(message, questionsMap.get(message)+1);
         }
         else{
