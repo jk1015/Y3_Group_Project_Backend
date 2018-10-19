@@ -36,4 +36,9 @@ io.on('connection', (socket) => {
     socket.on('lecturer connect', () => {
         socket.emit('on lecturer connect', questionsMap);
     });
+
+    socket.on('clear all', () => {
+        questionsMap.clear();
+        io.emit('on clear all');
+    })
 });
