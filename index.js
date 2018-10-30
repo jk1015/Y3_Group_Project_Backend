@@ -43,22 +43,22 @@ io.on('connection', (socket) => {
 
     socket.on('question asked', message => {
         let room = Object.keys(socket.rooms)[1];
+        // console.log("Question asked in: " + Object.keys(socket.rooms));
         let questionMap = questionMaps.get(room);
-        console.log("Question asked in: " + room);
 
         if (questionMap.has(message)) {
            questionMap.set(message, questionMap.get(message)+1);
         } else {
             questionMap.set(message, 1);
         }
-        console.log("Question map after asking: " + questionMap.entries());
+        // console.log("Question map after asking: " + questionMap.entries());
         io.in(room).emit('question received', { question: message, number: questionMap.get(message)});
     });
 
     socket.on('lecturer connect', () => {
         let room = Object.keys(socket.rooms)[1];
         let questionMap = questionMaps.get(room);
-        console.log("Question map after lecturer connect: " + questionMaps.get(room).entries());
+        // console.log("Question map after lecturer connect: " + questionMaps.get(room).entries());
         socket.emit('on lecturer connect', questionMap);
     });
 
@@ -75,4 +75,18 @@ io.on('connection', (socket) => {
         questionMap.clear();
         io.in(room).emit('on clear all');
     })
+
+    socket.on('stop asking', message => {
+        let room = Object.keys(socket.rooms)[1];
+        let questionMap = questionMaps.get(room);
+
+        if (questionMap.has(message)) {
+           questionMap.set(message, questionMap.get(message)-1);
+           if(questionMap.get(message) <= 0)
+             questionMap.delete(message);
+        }
+
+        io.in(room).emit('question received', { question: message,
+          number: (questionMap.get(message)? questionMap.get(message) : 0)});
+    });
 });
