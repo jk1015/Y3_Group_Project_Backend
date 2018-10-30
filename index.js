@@ -20,26 +20,59 @@ app.get('/', (req, res) => {
 
 console.log(`App Runs on ${port}`);
 
-let questionsMap = new HashMap();
+let questionMaps = new HashMap();
+//let connections = 0;
 
 io.on('connection', (socket) => {
+    // socket.on('connect', () => {
+    //     connections += 1;
+    //     io.emit('connection', connections);
+    // });
+
+    // socket.on('disconnect', () => {
+    //     connections -= 1;
+    //     io.emit('disconnection', connections);
+    // });
+
+    socket.on('join room', room => {
+        socket.join(room);
+        if (!questionMaps.size || !questionMaps.has(room)) {
+            questionMaps.set(room, new HashMap());
+        }
+    });
+
     socket.on('question asked', message => {
-        if( questionsMap.has(message)){
-           console.log(message);
-           questionsMap.set(message, questionsMap.get(message)+1);
+        let room = Object.keys(socket.rooms)[1];
+        let questionMap = questionMaps.get(room);
+        console.log("Question asked in: " + room);
+
+        if (questionMap.has(message)) {
+           questionMap.set(message, questionMap.get(message)+1);
+        } else {
+            questionMap.set(message, 1);
         }
-        else{
-            questionsMap.set(message, 1);
-        }
-        io.emit('question received', { question: message, number: questionsMap.get(message)});
+        console.log("Question map after asking: " + questionMap.entries());
+        io.in(room).emit('question received', { question: message, number: questionMap.get(message)});
     });
 
     socket.on('lecturer connect', () => {
-        socket.emit('on lecturer connect', questionsMap);
+        let room = Object.keys(socket.rooms)[1];
+        let questionMap = questionMaps.get(room);
+        console.log("Question map after lecturer connect: " + questionMaps.get(room).entries());
+        socket.emit('on lecturer connect', questionMap);
+    });
+
+    socket.on('answer question', question => {
+        let room = Object.keys(socket.rooms)[1];
+        let questionMap = questionMaps.get(room);
+        questionMap.delete(question);
+        io.in(room).emit('question answered', question);
     });
 
     socket.on('clear all', () => {
-        questionsMap.clear();
-        io.emit('on clear all');
+        let room = Object.keys(socket.rooms)[1];
+        let questionMap = questionMaps.get(room);
+        questionMap.clear();
+        io.in(room).emit('on clear all');
     })
 });
