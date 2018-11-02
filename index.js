@@ -33,6 +33,14 @@ io.on('connection', (socket) => {
     //     connections -= 1;
     //     io.emit('disconnection', connections);
     // });
+    socket.on('disconnect', () => {
+       socket.emit('disconnected');
+    });
+
+    socket.on('disconnected', (questions, room) => {
+        let questionMap = questionMaps.get(room);
+        questions.forEach(q => questionMap.set(q, questionMap.get(q)-1));
+    });
 
     socket.on('join room', room => {
         socket.join(room);
