@@ -38,8 +38,8 @@ io.on('connection', (socket) => {
     });
 
     socket.on('disconnected', (questions, room) => {
-        let questionMap = questionMaps.get(room);
-        questions.forEach(q => questionMap.set(q, questionMap.get(q)-1));
+        //let questionMap = questionMaps.get(room);
+        //questions.forEach(q => questionMap.set(q, questionMap.get(q)-1));
     });
 
     socket.on('join room', room => {
