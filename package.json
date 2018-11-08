@@ -2,8 +2,10 @@
   "name": "backend",
   "version": "0.0.1",
   "dependencies": {
+    "assert": "^1.4.1",
     "express": "^4.16.4",
     "hashmap": "^2.3.0",
+    "ldapjs": "^1.0.2",
     "socket.io": "^2.1.1"
   },
   "scripts": {

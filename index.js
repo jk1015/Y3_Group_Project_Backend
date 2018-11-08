@@ -7,6 +7,10 @@ const server = require('http').createServer(app);
 const io = require('socket.io')(server);
 const port = process.env.PORT || 8080;
 const HashMap = require('hashmap');
+const ldap = require('ldapjs');
+const assert = require('assert');
+
+
 
 require('./routes')(router);
 
@@ -103,5 +107,45 @@ io.on('connection', (socket) => {
 
         io.in(room).emit('question received', { question: message,
           number: (questionMap.get(message)? questionMap.get(message) : 0)});
+    });
+
+    //TODO: Error handling on incorrect credentials and other issues
+    socket.on('login', (username, password) => {
+      let ldapclient = ldap.createClient({
+        url: 'ldaps://ldaps-vip.cc.ic.ac.uk:636'
+      });
+
+      let dn = 'CN=' + username + ',OU=doc,OU=Users,OU=Imperial College (London),DC=ic,DC=ac,DC=uk'
+
+      ldapclient.bind(dn, password, function(err) {
+        assert.ifError(err);
+      });
+
+      var opts = {
+        attributes: ['memberOf']
+      };
+
+      var membership = [];
+
+      ldapclient.search(dn, opts, function(err, res) {
+        assert.ifError(err);
+        res.on('searchEntry', function(entry) {
+          membership = entry.object.memberOf;
+          //console.log(membership);
+          var lectures = [];
+          let len = membership.length;
+
+          for (var i = 0; i < len; i++) {
+            let str = membership[i];
+            str = str.split(',')[0];
+            if (str.includes("doc-students")) {
+              str = str.split('students-')[1];
+              lectures.push(str);
+            }
+          }
+
+          socket.emit('courses received', {courses: lectures});
+        });
+      });
     });
 });
