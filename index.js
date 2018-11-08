@@ -111,30 +111,33 @@ io.on('connection', (socket) => {
 
     //TODO: Error handling on incorrect credentials and other issues
     socket.on('login', (username, password) => {
+      // Create new client pointing at the IC ldap server
       let ldapclient = ldap.createClient({
         url: 'ldaps://ldaps-vip.cc.ic.ac.uk:636'
       });
 
       let dn = 'CN=' + username + ',OU=doc,OU=Users,OU=Imperial College (London),DC=ic,DC=ac,DC=uk'
 
+      // Authenticate with the LDAP server
+      // TODO: Backend crashes here if credentials are invalid.
       ldapclient.bind(dn, password, function(err) {
         assert.ifError(err);
       });
 
+
+      // Search parameters - return list of all groups the user belongs to
       var opts = {
         attributes: ['memberOf']
       };
 
-      var membership = [];
-
       ldapclient.search(dn, opts, function(err, res) {
         assert.ifError(err);
         res.on('searchEntry', function(entry) {
-          membership = entry.object.memberOf;
-          //console.log(membership);
-          var lectures = [];
+          let membership = entry.object.memberOf;
+          let lectures = [];
           let len = membership.length;
 
+          // Return only groups containing 'doc-students' (enrolment groups)
           for (var i = 0; i < len; i++) {
             let str = membership[i];
             str = str.split(',')[0];
@@ -144,6 +147,7 @@ io.on('connection', (socket) => {
             }
           }
 
+          // Send list of courses to client
           socket.emit('courses received', {courses: lectures});
         });
       });
