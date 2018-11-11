@@ -9,8 +9,7 @@ const port = process.env.PORT || 8080;
 const HashMap = require('hashmap');
 const ldap = require('ldapjs');
 const assert = require('assert');
-
-
+const findSlot = require('./findLecture');
 
 require('./routes')(router);
 
@@ -26,6 +25,7 @@ console.log(`App Runs on ${port}`);
 
 let questionMaps = new HashMap();
 //let connections = 0;
+
 
 io.on('connection', (socket) => {
     // socket.on('connect', () => {
@@ -167,7 +167,9 @@ io.on('connection', (socket) => {
                   }
 
                   // Send list of courses to client
-                  socket.emit('courses received', {courses: lectures});
+                  // socket.emit('courses received', {courses: lectures});
+                  socket.emit('course received', findSlot(lectures));
+
                 });
               }
 
