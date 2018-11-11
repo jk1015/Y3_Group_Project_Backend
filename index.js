@@ -116,40 +116,68 @@ io.on('connection', (socket) => {
         url: 'ldaps://ldaps-vip.cc.ic.ac.uk:636'
       });
 
-      let dn = 'CN=' + username + ',OU=doc,OU=Users,OU=Imperial College (London),DC=ic,DC=ac,DC=uk'
-
-      // Authenticate with the LDAP server
-      // TODO: Backend crashes here if credentials are invalid.
-      ldapclient.bind(dn, password, function(err) {
-        assert.ifError(err);
+      // Register a LDAP client connection "error" handler
+      ldapclient.on( 'error', function( err ) {
+      	// The LDAP client connection has generated an error...
       });
 
+      // Register a LDAP client connection "connectTimeout" handler
+      ldapclient.on( 'connectTimeout', function( err ) {
+      	// The ldap connection attempt has been timed out...
+      });
 
-      // Search parameters - return list of all groups the user belongs to
-      var opts = {
-        attributes: ['memberOf']
-      };
+      // Register a LDAP client connection "connect" handler
+      ldapclient.on( 'connect', function( ) {
+      	// The ldap connection is ready to use. Place your subsequent ldapjs code here...
+        let dn = 'CN=' + username + ',OU=doc,OU=Users,OU=Imperial College (London),DC=ic,DC=ac,DC=uk'
 
-      ldapclient.search(dn, opts, function(err, res) {
-        assert.ifError(err);
-        res.on('searchEntry', function(entry) {
-          let membership = entry.object.memberOf;
-          let lectures = [];
-          let len = membership.length;
+        // Authenticate with the LDAP server
+        // TODO: Backend crashes here if credentials are invalid.
+        ldapclient.bind(dn, password, function(err) {
 
-          // Return only groups containing 'doc-students' (enrolment groups)
-          for (var i = 0; i < len; i++) {
-            let str = membership[i];
-            str = str.split(',')[0];
-            if (str.includes("doc-students")) {
-              str = str.split('students-')[1];
-              lectures.push(str);
-            }
+          if(err){
+            socket.emit('login error', "Invalid credentials");
+          }
+          else{
+
+            // Search parameters - return list of all groups the user belongs to
+            var opts = {
+              attributes: ['memberOf']
+            };
+
+            ldapclient.search(dn, opts, function(err, res) {
+
+              if(err){
+                socket.emit('login error', "Error");
+              }
+              else{
+                res.on('searchEntry', function(entry) {
+                  let membership = entry.object.memberOf;
+                  let lectures = [];
+                  let len = membership.length;
+
+                  // Return only groups containing 'doc-students' (enrolment groups)
+                  for (var i = 0; i < len; i++) {
+                    let str = membership[i];
+                    str = str.split(',')[0];
+                    if (str.includes("doc-students")) {
+                      str = str.split('students-')[1];
+                      lectures.push(str);
+                    }
+                  }
+
+                  // Send list of courses to client
+                  socket.emit('courses received', {courses: lectures});
+                });
+              }
+
+            });
+
           }
 
-          // Send list of courses to client
-          socket.emit('courses received', {courses: lectures});
         });
+
       });
+
     });
 });
