@@ -48,6 +48,13 @@ function searchFakeLecturer(username, password) {
   return null;
 }
 
+//Since LDAP gives us displayName with surnname, firstname format, below
+//function reorder it to firstname surnname format.
+function reorderDisplayName(name) {
+  let name_part = name.split(", ");
+  return name_part[1] + " " + name_part[0];
+}
+
 io.on('connection', (socket) => {
     // socket.on('connect', () => {
     //     connections += 1;
@@ -81,18 +88,24 @@ io.on('connection', (socket) => {
       socket.emit('on rooms lists', rooms);
     });
 
-    socket.on('question asked', (message, room) => {
+    socket.on('question asked', (message, user) => {
         //let room = Object.keys(socket.rooms)[1];
         //console.log("Question asked in: " + Object.keys(socket.rooms).length);
-        let questionMap = questionMaps.get(room);
+        let questionMap = questionMaps.get(user.room);
+        console.log(Object.keys(socket.rooms));
 
         if (questionMap.has(message)) {
-           questionMap.set(message, questionMap.get(message)+1);
+           let question = questionMap.get(message);
+           question.users.push({name: user.name, login: user.login});
+           question.count = question.count + 1;
+           questionMap.set(message, question);
         } else {
-            questionMap.set(message, 1);
+            questionMap.set(message,
+              {users: [{name: user.name, login: user.login}], count: 1});
         }
         // console.log("Question map after asking: " + questionMap.entries());
-        io.in(room).emit('question received', { question: message, number: questionMap.get(message)});
+        io.in(user.room).emit('question received', { question: message,
+          data: questionMap.get(message)});
     });
 
     socket.on('lecturer connect', room => {
@@ -116,18 +129,29 @@ io.on('connection', (socket) => {
         io.in(room).emit('on clear all');
     })
 
-    socket.on('stop asking', (message, room) => {
+    socket.on('stop asking', (message, user) => {
         //let room = Object.keys(socket.rooms)[1];
-        let questionMap = questionMaps.get(room);
+        let questionMap = questionMaps.get(user.room);
 
         if (questionMap.has(message)) {
-           questionMap.set(message, questionMap.get(message)-1);
-           if(questionMap.get(message) <= 0)
+           let question = questionMap.get(message);
+           question.count = question.count - 1;
+           let i, new_users, users = question.users;
+           new_users = [];
+           for (i = 0; i < users.length; i++) {
+             if (users[i].name !== user.name) {
+               new_users.push(users[i]);
+             }
+           }
+           question.users = new_users;
+           questionMap.set(message, question);
+
+           if(questionMap.get(message).count <= 0)
              questionMap.delete(message);
         }
 
-        io.in(room).emit('question received', { question: message,
-          number: (questionMap.get(message)? questionMap.get(message) : 0)});
+        io.in(user.room).emit('question received', { question: message,
+          data: questionMap.get(message)? questionMap.get(message) : null});
     });
 
     //TODO: Error handling on incorrect credentials and other issues
@@ -161,6 +185,8 @@ io.on('connection', (socket) => {
             let courses = searchFakeLecturer(username, password);
             if (courses) {
               socket.emit('course received', {doc_user: "lecturer",
+                login: username,
+                displayName: username,
                 lecture: findSlot(courses)});
             } else {
               socket.emit('login error', "Invalid credentials");
@@ -170,7 +196,7 @@ io.on('connection', (socket) => {
 
             // Search parameters - return list of all groups the user belongs to
             var opts = {
-              attributes: ['memberOf']
+              attributes: ['displayName', 'memberOf']
             };
 
             ldapclient.search(dn, opts, function(err, res) {
@@ -180,11 +206,12 @@ io.on('connection', (socket) => {
               }
               else{
                 res.on('searchEntry', function(entry) {
-                                    console.log(entry.object);
+                                    //console.log(entry.object);
                   let membership = entry.object.memberOf;
                   let lectures = [];
                   let len = membership.length;
-                  //console.log(membership);
+                  //console.log(entry.object);
+
                   // Return only groups containing 'doc-students' (enrolment groups)
                   for (var i = 0; i < len; i++) {
                     let str = membership[i];
@@ -202,6 +229,8 @@ io.on('connection', (socket) => {
                   // Send list of courses to client
                   // socket.emit('courses received', {courses: lectures});
                   socket.emit('course received', {doc_user: "student",
+                    login: username,
+                    displayName: reorderDisplayName(entry.object.displayName),
                     lecture: findSlot(lectures)});
 
                 });
