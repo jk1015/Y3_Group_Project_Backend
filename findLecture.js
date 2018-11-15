@@ -1,16 +1,23 @@
 const HashMap = require('hashmap');
 
 const slotsMap = new HashMap();
-
+//'Course', 'day-hour' (where 0 is Sunday, 24 hours clock)
 slotsMap.multi(
-  '475', ['1-19', '2-20'] //'Course', 'day-hour' (where 0 is Sunday, 24 hours clock)
+  '475', ['1-19', '2-20'],
+  '333', ['2-09', '4-11'],
+  '349', ['1-09', '3-09'],
+  '343', ['2-11', '4-14'],
+  '382', ['1-14', '5-14'],
+  '572', ['2-16', '5-09'],
+  '316', ['2-14', '4-09'],
+  'eie2', ['4-09', '4-15']
 );
 
 function findSlot(courses){
   var d = new Date();
   const currentSlot = d.getDay() + "-" + d.getHours();
 
-  let returnCourse;
+  let returnCourse = null;
 
   courses.forEach(course => {
     if(slotsMap.has(course)){

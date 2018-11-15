@@ -25,7 +25,28 @@ console.log(`App Runs on ${port}`);
 
 let questionMaps = new HashMap();
 //let connections = 0;
+let fake_lacturers = [
+    {user: "lec_1", pass: "123", courses: ['333', '11','12','13']},
+    {user: "lec_2", pass: "123", courses: ['343', '21','22','23']},
+    {user: "lec_3", pass: "123", courses: ['349', '31','32','33']},
+    {user: "lec_4", pass: "123", courses: ['382', '41','42','43']},
+    {user: "lec_5", pass: "123", courses: ['316', '51','52','53']},
+    {user: "lec_6", pass: "123", courses: ['572', '61','62','63']},
+    {user: "lec_7", pass: "123", courses: ['eie2', '71','72','73']},
+    {user: "lec_8", pass: "123", courses: ['475', '81','82','83']},
+    {user: "lec_9", pass: "123", courses: ['333', '91','92','93']}
+  ];
 
+function searchFakeLecturer(username, password) {
+  let lecturer;
+  for (let i = 0; i < fake_lacturers.length; i++) {
+    lecturer = fake_lacturers[i];
+    if (lecturer.user === username && lecturer.pass === password) {
+      return lecturer.courses;
+    }
+  }
+  return null;
+}
 
 io.on('connection', (socket) => {
     // socket.on('connect', () => {
@@ -133,10 +154,17 @@ io.on('connection', (socket) => {
 
         // Authenticate with the LDAP server
         // TODO: Backend crashes here if credentials are invalid.
+
         ldapclient.bind(dn, password, function(err) {
 
           if(err){
-            socket.emit('login error', "Invalid credentials");
+            let courses = searchFakeLecturer(username, password);
+            if (courses) {
+              socket.emit('course received', {doc_user: "lecturer",
+                lecture: findSlot(courses)});
+            } else {
+              socket.emit('login error', "Invalid credentials");
+            }
           }
           else{
 
@@ -152,10 +180,11 @@ io.on('connection', (socket) => {
               }
               else{
                 res.on('searchEntry', function(entry) {
+                                    console.log(entry.object);
                   let membership = entry.object.memberOf;
                   let lectures = [];
                   let len = membership.length;
-
+                  //console.log(membership);
                   // Return only groups containing 'doc-students' (enrolment groups)
                   for (var i = 0; i < len; i++) {
                     let str = membership[i];
@@ -164,11 +193,16 @@ io.on('connection', (socket) => {
                       str = str.split('students-')[1];
                       lectures.push(str);
                     }
+                    if (str.includes("doc-lecturers")) {
+                      str = str.split('lecturers-')[1];
+                      lectures.push(str);
+                    }
                   }
 
                   // Send list of courses to client
                   // socket.emit('courses received', {courses: lectures});
-                  socket.emit('course received', findSlot(lectures));
+                  socket.emit('course received', {doc_user: "student",
+                    lecture: findSlot(lectures)});
 
                 });
               }
