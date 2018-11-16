@@ -26,8 +26,8 @@ console.log(`App Runs on ${port}`);
 let questionMaps = new HashMap();
 //let connections = 0;
 let fake_lacturers = [
-    {user: "lec_1", pass: "123", courses: ['333', '11','12','13']},
-    {user: "lec_2", pass: "123", courses: ['343', '21','22','23']},
+    {user: "lec_1", pass: "123", courses: ['333', '11','12','13', '362']},
+    {user: "lec_2", pass: "123", courses: ['343', '21','22','23', '570']},
     {user: "lec_3", pass: "123", courses: ['349', '31','32','33']},
     {user: "lec_4", pass: "123", courses: ['382', '41','42','43']},
     {user: "lec_5", pass: "123", courses: ['316', '51','52','53']},
