@@ -26,8 +26,8 @@ console.log(`App Runs on ${port}`);
 let questionMaps = new HashMap();
 //let connections = 0;
 let fake_lacturers = [
-    {user: "lec_1", pass: "123", courses: ['333', '11','12','13']},
-    {user: "lec_2", pass: "123", courses: ['343', '21','22','23']},
+    {user: "lec_1", pass: "123", courses: ['333', '11','12','13', '362']},
+    {user: "lec_2", pass: "123", courses: ['343', '21','22','23', '570']},
     {user: "lec_3", pass: "123", courses: ['349', '31','32','33']},
     {user: "lec_4", pass: "123", courses: ['382', '41','42','43']},
     {user: "lec_5", pass: "123", courses: ['316', '51','52','53']},
@@ -37,12 +37,28 @@ let fake_lacturers = [
     {user: "lec_9", pass: "123", courses: ['333', '91','92','93']}
   ];
 
+  let fake_students = [
+      {user: "stu_1", pass: "123", courses: ['333', '11','12','13', '362']},
+      {user: "stu_2", pass: "123", courses: ['343', '21','22','23', '570']},
+    ];
+
 function searchFakeLecturer(username, password) {
   let lecturer;
   for (let i = 0; i < fake_lacturers.length; i++) {
     lecturer = fake_lacturers[i];
     if (lecturer.user === username && lecturer.pass === password) {
       return lecturer.courses;
+    }
+  }
+  return null;
+}
+
+function searchFakeStudent(username, password) {
+  let student;
+  for (let i = 0; i < fake_students.length; i++) {
+    student = fake_students[i];
+    if (student.user === username && student.pass === password) {
+      return student.courses;
     }
   }
   return null;
@@ -183,11 +199,17 @@ io.on('connection', (socket) => {
 
           if(err){
             let courses = searchFakeLecturer(username, password);
+            let courses2 = searchFakeStudent(username, password);
             if (courses) {
               socket.emit('course received', {doc_user: "lecturer",
                 login: username,
                 displayName: username,
                 lecture: findSlot(courses)});
+            } else if (courses2) {
+              socket.emit('course received', {doc_user: "student",
+                login: username,
+                displayName: username,
+                lecture: findSlot(courses2)});
             } else {
               socket.emit('login error', "Invalid credentials");
             }
