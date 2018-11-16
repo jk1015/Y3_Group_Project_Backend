@@ -206,7 +206,7 @@ io.on('connection', (socket) => {
               }
               else{
                 res.on('searchEntry', function(entry) {
-                                    //console.log(entry.object);
+                                    console.log(entry.object);
                   let membership = entry.object.memberOf;
                   let lectures = [];
                   let len = membership.length;
