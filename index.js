@@ -233,7 +233,7 @@ io.on('connection', (socket) => {
                   let lectures = [];
                   let len = membership.length;
                   //console.log(entry.object);
-
+                  let doc_user = "student";
                   // Return only groups containing 'doc-students' (enrolment groups)
                   for (var i = 0; i < len; i++) {
                     let str = membership[i];
@@ -242,15 +242,14 @@ io.on('connection', (socket) => {
                       str = str.split('students-')[1];
                       lectures.push(str);
                     }
-                    if (str.includes("doc-lecturers")) {
-                      str = str.split('lecturers-')[1];
-                      lectures.push(str);
+                    if (str.includes("doc-staff")) {
+                      doc_user = "lecturer";
                     }
                   }
 
                   // Send list of courses to client
                   // socket.emit('courses received', {courses: lectures});
-                  socket.emit('course received', {doc_user: "student",
+                  socket.emit('course received', {doc_user: doc_user,
                     login: username,
                     displayName: reorderDisplayName(entry.object.displayName),
                     lecture: findSlot(lectures)});
