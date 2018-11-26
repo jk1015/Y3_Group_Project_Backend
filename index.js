@@ -10,6 +10,7 @@ const HashMap = require('hashmap');
 const ldap = require('ldapjs');
 const assert = require('assert');
 const findSlot = require('./findLecture');
+const questionHandler = require('./questionHandler');
 
 require('./routes')(router);
 
@@ -108,8 +109,8 @@ io.on('connection', (socket) => {
         //let room = Object.keys(socket.rooms)[1];
         //console.log("Question asked in: " + Object.keys(socket.rooms).length);
         let questionMap = questionMaps.get(user.room);
-        console.log(Object.keys(socket.rooms));
-
+        // console.log(Object.keys(socket.rooms));
+//
         if (questionMap.has(message)) {
            let question = questionMap.get(message);
            question.users.push({name: user.name, login: user.login});
@@ -120,8 +121,18 @@ io.on('connection', (socket) => {
               {users: [{name: user.name, login: user.login}], count: 1});
         }
         // console.log("Question map after asking: " + questionMap.entries());
-        io.in(user.room).emit('question received', { question: message,
-          data: questionMap.get(message)});
+
+        questionHandler.create()
+
+        .then(() => {
+          io.in(user.room).emit('question received', { question: message,
+            data: questionMap.get(message)});
+        })
+
+        .catch(() => {
+          io.in(user.room).emit('question received', { question: message,
+            data: questionMap.get(message)});
+        })
     });
 
     socket.on('lecturer connect', room => {
@@ -228,7 +239,7 @@ io.on('connection', (socket) => {
               }
               else{
                 res.on('searchEntry', function(entry) {
-                                    console.log(entry.object);
+                  // console.log(entry.object);
                   let membership = entry.object.memberOf;
                   let lectures = [];
                   let len = membership.length;

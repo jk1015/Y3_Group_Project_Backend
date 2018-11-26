@@ -5,15 +5,18 @@ const Schema = mongoose.Schema;
 
 const questionSchema = mongoose.Schema({
 
-  timestamp: Number,
-  question: String
+  timestamp_added: Number,
+  question: String,
+  timestamp_stoped: Number,
+  reason: String,
+  course: String
 
 });
 
 mongoose.Promise = global.Promise;
 const options = {
-  useMongoClient: true
+  useNewUrlParser: true
 };
-mongoose.createConnection(FILL IT!!!, options);
+mongoose.createConnection("mongodb://cloud-vm-45-130.doc.ic.ac.uk:27107", options);
 
 module.exports = mongoose.model('question', questionSchema);
