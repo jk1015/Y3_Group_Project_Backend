@@ -6,6 +6,7 @@
     "express": "^4.16.4",
     "hashmap": "^2.3.0",
     "ldapjs": "^1.0.2",
+    "mongoose": "^5.3.13",
     "socket.io": "^2.1.1"
   },
   "scripts": {
