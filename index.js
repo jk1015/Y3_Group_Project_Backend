@@ -22,6 +22,20 @@ app.get('/', (req, res) => {
     res.send('Backend');
 });
 
+app.get('/data', (req, res) => {
+	console.log("IN");
+
+  questionHandler.getAllQuestions(410)
+
+  .then(result =>{
+    console.log(result);
+    res.status(200).json(result);
+  })
+
+  .catch(err => res.status(err.status).json({ message: "Error" }));
+
+});
+
 console.log(`App Runs on ${port}`);
 
 let questionMaps = new HashMap();

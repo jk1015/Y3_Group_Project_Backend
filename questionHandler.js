@@ -6,12 +6,14 @@ exports.create = (question, course) =>
 
 	new Promise((resolve,reject) => {
 
+		console.log("1");
 		const newQuestion = new questionModel({
 			timestamp_added: new Date().getTime(),
 			question: question,
 			course: course
 		});
 
+	console.log("2");
 	 	newQuestion.save()
 
 		.then(questionReturned => {
@@ -30,15 +32,17 @@ exports.create = (question, course) =>
 exports.getAllQuestions = (course) =>
 
 	new Promise((resolve,reject) => {
+		console.log("IN2");
 
 		// const newQuestion = new questionModel({
 		// 	timestamp_added: new Date().getTime(),
 		// 	question: question
 		// });
 
-	 questionModel.find({course: course})
+	 questionModel.find({})
 
 		.then(questions => {
+			console.log("IN3");
 			// console.log(questionReturned);
 			resolve({ questions: questions})
 		})
