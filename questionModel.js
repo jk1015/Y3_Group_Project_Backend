@@ -17,6 +17,6 @@ mongoose.Promise = global.Promise;
 const options = {
   useNewUrlParser: true
 };
-mongoose.createConnection("mongodb://cloud-vm-45-130.doc.ic.ac.uk:27107", options);
+mongoose.createConnection("mongodb://cloud-vm-45-130.doc.ic.ac.uk:27107/myapp", options);
 
 module.exports = mongoose.model('question', questionSchema);
