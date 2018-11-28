@@ -23,9 +23,8 @@ app.get('/', (req, res) => {
 });
 
 app.get('/data', (req, res) => {
-	console.log("IN");
 
-  questionHandler.getAllQuestions(410)
+  questionHandler.getAllQuestions(410) //req.body.code
 
   .then(result =>{
     console.log(result);
@@ -120,11 +119,12 @@ io.on('connection', (socket) => {
     });
 
     socket.on('question asked', (message, user) => {
-        //let room = Object.keys(socket.rooms)[1];
-        //console.log("Question asked in: " + Object.keys(socket.rooms).length);
+
+      questionHandler.create(message, user.room)
+      .then((id) => {
+
         let questionMap = questionMaps.get(user.room);
-        // console.log(Object.keys(socket.rooms));
-//
+
         if (questionMap.has(message)) {
            let question = questionMap.get(message);
            question.users.push({name: user.name, login: user.login});
@@ -132,21 +132,17 @@ io.on('connection', (socket) => {
            questionMap.set(message, question);
         } else {
             questionMap.set(message,
-              {users: [{name: user.name, login: user.login}], count: 1});
+              {users: [{name: user.name, login: user.login, question_id: id}], count: 1});
         }
-        // console.log("Question map after asking: " + questionMap.entries());
 
-        questionHandler.create()
+        io.in(user.room).emit('question received', { question: message,
+          data: questionMap.get(message), id: id, user: user.login});
+      })
+      .catch((err) => {
+        // io.in(user.room).emit('question received', { question: message,
+        //   data: questionMap.get(message)});
+      })
 
-        .then(() => {
-          io.in(user.room).emit('question received', { question: message,
-            data: questionMap.get(message)});
-        })
-
-        .catch(() => {
-          io.in(user.room).emit('question received', { question: message,
-            data: questionMap.get(message)});
-        })
     });
 
     socket.on('lecturer connect', room => {
