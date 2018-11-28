@@ -56,7 +56,7 @@ exports.stopAsking = (id, reason) =>
 		// });
 
 	 questionModel.update({_id: id},
-		 {$set: {reason: reason, timestamp_stoped: new Date().getTime()}})
+		 {$set: {reason: reason, timestamp_stopped: new Date().getTime()}})
 
 		.then(questionReturned => {
 			// console.log(questionReturned);

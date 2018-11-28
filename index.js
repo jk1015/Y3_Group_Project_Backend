@@ -127,7 +127,7 @@ io.on('connection', (socket) => {
 
         if (questionMap.has(message)) {
            let question = questionMap.get(message);
-           question.users.push({name: user.name, login: user.login});
+           question.users.push({name: user.name, login: user.login, question_id: id});
            question.count = question.count + 1;
            questionMap.set(message, question);
         } else {
@@ -136,7 +136,7 @@ io.on('connection', (socket) => {
         }
 
         io.in(user.room).emit('question received', { question: message,
-          data: questionMap.get(message), id: id, user: user.login});
+          data: questionMap.get(message), question_id: id, user: user.login});
       })
       .catch((err) => {
         // io.in(user.room).emit('question received', { question: message,
@@ -155,8 +155,18 @@ io.on('connection', (socket) => {
     socket.on('answer question', (question, room) => {
         //let room = Object.keys(socket.rooms)[1];
         let questionMap = questionMaps.get(room);
-        questionMap.delete(question);
-        io.in(room).emit('question answered', question);
+        let questions = questionMap.get(question)
+
+        questions.users.forEach( user => {
+            var p = questionHandler.stopAsking(user.question_id, "Lecturer answered question")
+              .then(
+                questions.
+              )
+              .catch((err) => {
+                // io.in(user.room).emit('question received', { question: message,
+                //   data: questionMap.get(message)});
+              });
+        });
     });
 
     socket.on('clear all', room => {
@@ -168,27 +178,33 @@ io.on('connection', (socket) => {
 
     socket.on('stop asking', (message, user) => {
         //let room = Object.keys(socket.rooms)[1];
-        let questionMap = questionMaps.get(user.room);
+        questionHandler.stopAsking(user.question_id, "Student withdrew question")
+          .then((id) => {
+            let questionMap = questionMaps.get(user.room);
 
-        if (questionMap.has(message)) {
-           let question = questionMap.get(message);
-           question.count = question.count - 1;
-           let i, new_users, users = question.users;
-           new_users = [];
-           for (i = 0; i < users.length; i++) {
-             if (users[i].name !== user.name) {
-               new_users.push(users[i]);
-             }
-           }
-           question.users = new_users;
-           questionMap.set(message, question);
+            if (questionMap.has(message)) {
+               let question = questionMap.get(message);
+               question.count = question.count - 1;
+               let i, new_users, users = question.users;
+               new_users = [];
+               for (i = 0; i < users.length; i++) {
+                 if (users[i].name !== user.name) {
+                   new_users.push(users[i]);
+                 }
+               }
+               question.users = new_users;
+               questionMap.set(message, question);
 
-           if(questionMap.get(message).count <= 0)
-             questionMap.delete(message);
-        }
-
-        io.in(user.room).emit('question received', { question: message,
-          data: questionMap.get(message)? questionMap.get(message) : null});
+               if(questionMap.get(message).count <= 0)
+                 questionMap.delete(message);
+            }
+            io.in(user.room).emit('question received', { question: message,
+              data: questionMap.get(message)? questionMap.get(message) : null});
+          })
+          .catch((err) => {
+            // io.in(user.room).emit('question received', { question: message,
+            //   data: questionMap.get(message)});
+          })
     });
 
     //TODO: Error handling on incorrect credentials and other issues
