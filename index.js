@@ -40,7 +40,7 @@ console.log(`App Runs on ${port}`);
 let questionMaps = new HashMap();
 //let connections = 0;
 let fake_lacturers = [
-    {user: "lec_1", pass: "123", courses: ['333', '11','12','13', '362']},
+    {user: "lec_1", pass: "123", courses: ['333', '11','12','13', '362', 'test']},
     {user: "lec_2", pass: "123", courses: ['343', '21','22','23', '570']},
     {user: "lec_3", pass: "123", courses: ['349', '31','32','33']},
     {user: "lec_4", pass: "123", courses: ['382', '41','42','43']},
@@ -52,8 +52,8 @@ let fake_lacturers = [
   ];
 
   let fake_students = [
-      {user: "stu_1", pass: "123", courses: ['333', '11','12','13', '362']},
-      {user: "stu_2", pass: "123", courses: ['343', '21','22','23', '570']},
+      {user: "stu_1", pass: "123", courses: ['333', '11','12','13', '362', 'test']},
+      {user: "stu_2", pass: "123", courses: ['343', '21','22','23', '570', 'test']},
     ];
 
 function searchFakeLecturer(username, password) {
@@ -225,12 +225,14 @@ io.on('connection', (socket) => {
               socket.emit('course received', {doc_user: "lecturer",
                 login: username,
                 displayName: username,
-                lecture: findSlot(courses)});
+                lecture: findSlot(courses),
+                courses: courses});
             } else if (courses2) {
               socket.emit('course received', {doc_user: "student",
                 login: username,
                 displayName: username,
-                lecture: findSlot(courses2)});
+                lecture: findSlot(courses2),
+                courses: courses2});
             } else {
               socket.emit('login error', "Invalid credentials");
             }
@@ -273,7 +275,8 @@ io.on('connection', (socket) => {
                   socket.emit('course received', {doc_user: doc_user,
                     login: username,
                     displayName: reorderDisplayName(entry.object.displayName),
-                    lecture: findSlot(lectures)});
+                    lecture: findSlot(lectures),
+                    courses: lectures});
 
                 });
               }

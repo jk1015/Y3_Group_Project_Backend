@@ -18,10 +18,13 @@ slotsMap.multi(
 function findSlot(courses){
   var d = new Date();
   const currentSlot = d.getDay() + "-" + d.getHours();
-
+  let testFlag = false;
   let returnCourse = null;
 
   courses.forEach(course => {
+    if (course == 'test') {
+      testFlag = true;
+    }
     if(slotsMap.has(course)){
       let timeSlots = slotsMap.get(course);
       if(timeSlots.includes(currentSlot)){
@@ -29,6 +32,10 @@ function findSlot(courses){
       }
     }
   })
+
+  if (returnCourse == null && testFlag) {
+    returnCourse = 'test';
+  }
 
   return returnCourse;
 }
