@@ -7,7 +7,7 @@ const questionSchema = mongoose.Schema({
 
   timestamp_added: Number,
   question: String,
-  timestamp_stoped: Number,
+  timestamp_stopped: Number,
   reason: String,
   course: String
 

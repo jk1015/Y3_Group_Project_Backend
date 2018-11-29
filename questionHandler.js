@@ -24,7 +24,7 @@ exports.create = (question, course) =>
 			reject({ status: 500, message: 'Internal Server Error !' })
 		})
 
-	})
+	});
 
 
 exports.getAllQuestions = (course) =>
@@ -32,7 +32,7 @@ exports.getAllQuestions = (course) =>
 	new Promise((resolve,reject) => {
 
 	 questionModel.find({course: course})
-
+	 //questionModel.find()
 		.then(questions => {
 			// console.log(questionReturned);
 			resolve({ questions: questions})
@@ -43,7 +43,7 @@ exports.getAllQuestions = (course) =>
 			reject({ status: 500, message: 'Internal Server Error !' })
 		})
 
-	})
+	});
 
 
 exports.stopAsking = (id, reason) =>
@@ -55,8 +55,8 @@ exports.stopAsking = (id, reason) =>
 		// 	question: question
 		// });
 
-	 questionModel.update({_id: id},
-		 {$set: {reason: reason, timestamp_stoped: new Date().getTime()}})
+	 questionModel.updateOne({_id: id},
+		 {$set: {reason: reason, timestamp_stopped: new Date().getTime()}})
 
 		.then(questionReturned => {
 			// console.log(questionReturned);
@@ -68,4 +68,23 @@ exports.stopAsking = (id, reason) =>
 			reject({ status: 500, message: 'Internal Server Error !' })
 		})
 
-	})
+	});
+
+exports.stopAskingBatch = (ids, reason) =>
+    new Promise((resolve,reject) => {
+
+        let t = new Date().getTime();
+
+        questionModel.updateMany({_id: {$in : ids}},
+			{$set: {reason: reason, timestamp_stopped: t}})
+
+			.then(questionReturned => {
+				// console.log(questionReturned);
+				resolve({})
+			})
+
+			.catch(err => {
+				console.log(err);
+				reject({status: 500, message: 'Internal Server Error !'})
+			})
+    });
