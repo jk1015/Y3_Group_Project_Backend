@@ -40,7 +40,7 @@ console.log(`App Runs on ${port}`);
 let questionMaps = new HashMap();
 //let connections = 0;
 let fake_lacturers = [
-    {user: "lec_1", pass: "123", courses: ['333', '11','12','13', '362']},
+    {user: "lec_1", pass: "123", courses: ['000', '333', '11','12','13', '362']},
     {user: "lec_2", pass: "123", courses: ['343', '21','22','23', '570']},
     {user: "lec_3", pass: "123", courses: ['349', '31','32','33']},
     {user: "lec_4", pass: "123", courses: ['382', '41','42','43']},
@@ -52,8 +52,8 @@ let fake_lacturers = [
   ];
 
   let fake_students = [
-      {user: "stu_1", pass: "123", courses: ['333', '11','12','13', '362']},
-      {user: "stu_2", pass: "123", courses: ['343', '21','22','23', '570']},
+      {user: "stu_1", pass: "123", courses: ['000', '333', '11','12','13', '362']},
+      {user: "stu_2", pass: "123", courses: ['000', '343', '21','22','23', '570']},
     ];
 
 function searchFakeLecturer(username, password) {
@@ -96,7 +96,7 @@ io.on('connection', (socket) => {
     //     io.emit('disconnection', connections);
     // });
     socket.on('disconnect', () => {
-       socket.emit('disconnected');
+        socket.emit('disconnected');
     });
 
     socket.on('disconnected', (questions, room) => {
@@ -114,34 +114,36 @@ io.on('connection', (socket) => {
     });
 
     socket.on('get rooms lists', () => {
-      let rooms = Object.keys(socket.rooms);
-      socket.emit('on rooms lists', rooms);
+        let rooms = Object.keys(socket.rooms);
+        socket.emit('on rooms lists', rooms);
     });
 
     socket.on('question asked', (message, user) => {
 
-      questionHandler.create(message, user.room)
-      .then((id) => {
+        questionHandler.create(message, user.room)
+            .then((id) => {
 
-        let questionMap = questionMaps.get(user.room);
+                let questionMap = questionMaps.get(user.room);
 
-        if (questionMap.has(message)) {
-           let question = questionMap.get(message);
-           question.users.push({name: user.name, login: user.login, question_id: id});
-           question.count = question.count + 1;
-           questionMap.set(message, question);
-        } else {
-            questionMap.set(message,
-              {users: [{name: user.name, login: user.login, question_id: id}], count: 1});
-        }
+                if (questionMap.has(message)) {
+                    let question = questionMap.get(message);
+                    question.users.push({name: user.name, login: user.login, question_id: id});
+                    question.count = question.count + 1;
+                    questionMap.set(message, question);
+                } else {
+                    questionMap.set(message,
+                        {users: [{name: user.name, login: user.login, question_id: id}], count: 1});
+                }
 
-        io.in(user.room).emit('question received', { question: message,
-          data: questionMap.get(message), question_id: id, user: user.login});
-      })
-      .catch((err) => {
-        // io.in(user.room).emit('question received', { question: message,
-        //   data: questionMap.get(message)});
-      })
+                io.in(user.room).emit('question received', {
+                    question: message,
+                    data: questionMap.get(message), question_id: id, user: user.login
+                });
+            })
+            .catch((err) => {
+                // io.in(user.room).emit('question received', { question: message,
+                //   data: questionMap.get(message)});
+            })
 
     });
 
@@ -153,154 +155,165 @@ io.on('connection', (socket) => {
     });
 
     socket.on('answer question', (question, room) => {
-        //let room = Object.keys(socket.rooms)[1];
         let questionMap = questionMaps.get(room);
-        let questions = questionMap.get(question)
-
-        questions.users.forEach( user => {
-            var p = questionHandler.stopAsking(user.question_id, "Lecturer answered question")
-              .then(
-                questions.
-              )
-              .catch((err) => {
+        let question_ids = questionMap.get(question).users.map(x => x.question_id.id);
+        //console.log(question_ids);
+        questionHandler.stopAskingBatch(question_ids, "Lecturer answered question")
+            .then(id => {
+                questionMap.delete(question);
+                io.in(room).emit('question answered', question);
+            })
+            .catch(err => {
                 // io.in(user.room).emit('question received', { question: message,
                 //   data: questionMap.get(message)});
-              });
-        });
+            });
     });
 
     socket.on('clear all', room => {
-        //let room = Object.keys(socket.rooms)[1];
         let questionMap = questionMaps.get(room);
-        questionMap.clear();
-        io.in(room).emit('on clear all');
-    })
+        let question_ids = [].concat(...questionMap.values().map(x =>
+            x.users.map(y => y.question_id.id)
+        ));
+        //console.log(question_ids);
+        questionHandler.stopAskingBatch(question_ids, "Lecturer cleared question")
+            .then(id => {
+                questionMap.clear();
+                io.in(room).emit('on clear all');
+            })
+            .catch(err => {
+                // io.in(user.room).emit('question received', { question: message,
+                //   data: questionMap.get(message)});
+            });
+    });
 
     socket.on('stop asking', (message, user) => {
         //let room = Object.keys(socket.rooms)[1];
+        //console.log(user.question_id);
         questionHandler.stopAsking(user.question_id, "Student withdrew question")
-          .then((id) => {
-            let questionMap = questionMaps.get(user.room);
+            .then(id => {
+                let questionMap = questionMaps.get(user.room);
 
-            if (questionMap.has(message)) {
-               let question = questionMap.get(message);
-               question.count = question.count - 1;
-               let i, new_users, users = question.users;
-               new_users = [];
-               for (i = 0; i < users.length; i++) {
-                 if (users[i].name !== user.name) {
-                   new_users.push(users[i]);
-                 }
-               }
-               question.users = new_users;
-               questionMap.set(message, question);
+                if (questionMap.has(message)) {
+                    let question = questionMap.get(message);
 
-               if(questionMap.get(message).count <= 0)
-                 questionMap.delete(message);
-            }
-            io.in(user.room).emit('question received', { question: message,
-              data: questionMap.get(message)? questionMap.get(message) : null});
-          })
-          .catch((err) => {
-            // io.in(user.room).emit('question received', { question: message,
-            //   data: questionMap.get(message)});
-          })
+                    if (--question.count <= 0) {
+                        questionMap.delete(message);
+                    } else {
+                        question.users = question.users.filter(x => x.name !== user.name);
+                        questionMap.set(message, question);
+                    }
+                }
+                io.in(user.room).emit('question received', {
+                    question: message,
+                    data: questionMap.get(message) ? questionMap.get(message) : null
+                });
+            })
+            .catch((err) => {
+                // io.in(user.room).emit('question received', { question: message,
+                //   data: questionMap.get(message)});
+
+            });
     });
+
 
     //TODO: Error handling on incorrect credentials and other issues
     socket.on('login', (username, password) => {
-      // Create new client pointing at the IC ldap server
-      let ldapclient = ldap.createClient({
-        url: 'ldaps://ldaps-vip.cc.ic.ac.uk:636'
-      });
-
-      // Register a LDAP client connection "error" handler
-      ldapclient.on( 'error', function( err ) {
-      	// The LDAP client connection has generated an error...
-      });
-
-      // Register a LDAP client connection "connectTimeout" handler
-      ldapclient.on( 'connectTimeout', function( err ) {
-      	// The ldap connection attempt has been timed out...
-      });
-
-      // Register a LDAP client connection "connect" handler
-      ldapclient.on( 'connect', function( ) {
-      	// The ldap connection is ready to use. Place your subsequent ldapjs code here...
-        let dn = 'CN=' + username + ',OU=doc,OU=Users,OU=Imperial College (London),DC=ic,DC=ac,DC=uk'
-
-        // Authenticate with the LDAP server
-        // TODO: Backend crashes here if credentials are invalid.
-
-        ldapclient.bind(dn, password, function(err) {
-
-          if(err){
-            let courses = searchFakeLecturer(username, password);
-            let courses2 = searchFakeStudent(username, password);
-            if (courses) {
-              socket.emit('course received', {doc_user: "lecturer",
-                login: username,
-                displayName: username,
-                lecture: findSlot(courses)});
-            } else if (courses2) {
-              socket.emit('course received', {doc_user: "student",
-                login: username,
-                displayName: username,
-                lecture: findSlot(courses2)});
-            } else {
-              socket.emit('login error', "Invalid credentials");
-            }
-          }
-          else{
-
-            // Search parameters - return list of all groups the user belongs to
-            var opts = {
-              attributes: ['displayName', 'memberOf']
-            };
-
-            ldapclient.search(dn, opts, function(err, res) {
-
-              if(err){
-                socket.emit('login error', "Error");
-              }
-              else{
-                res.on('searchEntry', function(entry) {
-                  // console.log(entry.object);
-                  let membership = entry.object.memberOf;
-                  let lectures = [];
-                  let len = membership.length;
-                  //console.log(entry.object);
-                  let doc_user = "student";
-                  // Return only groups containing 'doc-students' (enrolment groups)
-                  for (var i = 0; i < len; i++) {
-                    let str = membership[i];
-                    str = str.split(',')[0];
-                    if (str.includes("doc-students")) {
-                      str = str.split('students-')[1];
-                      lectures.push(str);
-                    }
-                    if (str.includes("doc-staff")) {
-                      doc_user = "lecturer";
-                    }
-                  }
-
-                  // Send list of courses to client
-                  // socket.emit('courses received', {courses: lectures});
-                  socket.emit('course received', {doc_user: doc_user,
-                    login: username,
-                    displayName: reorderDisplayName(entry.object.displayName),
-                    lecture: findSlot(lectures)});
-
-                });
-              }
-
-            });
-
-          }
-
+        // Create new client pointing at the IC ldap server
+        let ldapclient = ldap.createClient({
+            url: 'ldaps://ldaps-vip.cc.ic.ac.uk:636'
         });
 
-      });
+        // Register a LDAP client connection "error" handler
+        ldapclient.on('error', function (err) {
+            // The LDAP client connection has generated an error...
+        });
 
+        // Register a LDAP client connection "connectTimeout" handler
+        ldapclient.on('connectTimeout', function (err) {
+            // The ldap connection attempt has been timed out...
+        });
+
+        // Register a LDAP client connection "connect" handler
+        ldapclient.on('connect', function () {
+            // The ldap connection is ready to use. Place your subsequent ldapjs code here...
+            let dn = 'CN=' + username + ',OU=doc,OU=Users,OU=Imperial College (London),DC=ic,DC=ac,DC=uk'
+
+            // Authenticate with the LDAP server
+            // TODO: Backend crashes here if credentials are invalid.
+
+            ldapclient.bind(dn, password, function (err) {
+
+                if (err) {
+                    let courses = searchFakeLecturer(username, password);
+                    let courses2 = searchFakeStudent(username, password);
+                    if (courses) {
+                        socket.emit('course received', {
+                            doc_user: "lecturer",
+                            login: username,
+                            displayName: username,
+                            lecture: findSlot(courses)
+                        });
+                    } else if (courses2) {
+                        socket.emit('course received', {
+                            doc_user: "student",
+                            login: username,
+                            displayName: username,
+                            lecture: findSlot(courses2)
+                        });
+                    } else {
+                        socket.emit('login error', "Invalid credentials");
+                    }
+                }
+                else {
+
+                    // Search parameters - return list of all groups the user belongs to
+                    var opts = {
+                        attributes: ['displayName', 'memberOf']
+                    };
+
+                    ldapclient.search(dn, opts, function (err, res) {
+
+                        if (err) {
+                            socket.emit('login error', "Error");
+                        }
+                        else {
+                            res.on('searchEntry', function (entry) {
+                                // console.log(entry.object);
+                                let membership = entry.object.memberOf;
+                                let lectures = [];
+                                let len = membership.length;
+                                //console.log(entry.object);
+                                let doc_user = "student";
+                                // Return only groups containing 'doc-students' (enrolment groups)
+                                for (var i = 0; i < len; i++) {
+                                    let str = membership[i];
+                                    str = str.split(',')[0];
+                                    if (str.includes("doc-students")) {
+                                        str = str.split('students-')[1];
+                                        lectures.push(str);
+                                    }
+                                    if (str.includes("doc-staff")) {
+                                        doc_user = "lecturer";
+                                    }
+                                }
+
+                                // Send list of courses to client
+                                // socket.emit('courses received', {courses: lectures});
+                                socket.emit('course received', {
+                                    doc_user: doc_user,
+                                    login: username,
+                                    displayName: reorderDisplayName(entry.object.displayName),
+                                    lecture: findSlot(lectures)
+                                });
+
+                            });
+                        }
+
+                    });
+
+                }
+
+            });
+        });
     });
 });
