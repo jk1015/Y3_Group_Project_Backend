@@ -99,3 +99,5 @@ function findSlot(courses){
 }
 
 module.exports = findSlot;
+
+module.exports.getTimetableSlot = getTimetableSlot;

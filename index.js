@@ -12,6 +12,7 @@ const assert = require('assert');
 const findSlot = require('./findLecture');
 const questionHandler = require('./questionHandler');
 const timetable = require('./new_timetable');
+const getTimetableSlot = require('./findLecture');
 require('./routes')(router);
 
 app.use('/api', router);
@@ -218,6 +219,9 @@ io.on('connection', (socket) => {
             });
     });
 
+    socket.on('request course data', (course) => {
+      socket.emit('course data received', findSlot.getTimetableSlot(course));
+    });
 
     //TODO: Error handling on incorrect credentials and other issues
     socket.on('login', (username, password) => {
