@@ -221,6 +221,10 @@ io.on('connection', (socket) => {
 
     //TODO: Error handling on incorrect credentials and other issues
     socket.on('login', (username, password) => {
+        if (username == "" || password == "") {
+          socket.emit('login error', "Please enter a username and password");
+          return;
+        }
         // Create new client pointing at the IC ldap server
         let ldapclient = ldap.createClient({
             url: 'ldaps://ldaps-vip.cc.ic.ac.uk:636'
