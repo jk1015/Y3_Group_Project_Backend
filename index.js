@@ -37,6 +37,9 @@ app.get('/data', (req, res) => {
 
 console.log(`App Runs on ${port}`);
 //console.log(timetable.modules[730].subheading);
+
+// console.log(checkCourseSlot('382', startDate, endDate));
+
 let questionMaps = new HashMap();
 //let connections = 0;
 let fake_lacturers = [

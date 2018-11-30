@@ -19,6 +19,7 @@
         xhttp.send();
       }
 
+      //non-necessary information are commented out!
       function readTimetableData(xml) {
           var xmlDoc = xml.responseXML;
           let module = newModule();
@@ -42,6 +43,7 @@
           }
       }
 
+      //non-necessary information are commented out!
       function constructEvent(events) {
         let i, event, newEvents = [];
         for (i = 0; i < events.length; i++) {
