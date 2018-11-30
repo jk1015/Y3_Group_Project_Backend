@@ -1,0 +1,2991 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="g1834.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 12/10/2018 15:16:36 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Group timetable - CO-MSc in Advanced Computing</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1286102" timesort="09001200" colour="7F7FBF" date="01/10/2018">
+<day>0</day>
+<prettytimes>09:00-12:00 Registration</prettytimes>
+<starttime>09:00</starttime>
+<endtime>12:00</endtime>
+<category>Registration</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Sadri, Fariba</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Dept New Student Registration (PG)</item></module></resources>
+<eventname>CO Dept New Student Registration (PG)</eventname></event>
+<event id="1286136" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>0</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO349-a5 (MSc)</item>
+<item>CO349-c3 (3)</item>
+<item>CO349-j3 (3)</item>
+<item>CO349-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Cheraghchi, Mahdi</item>
+<item>Wiklicky, Herbert</item></staff>
+<room title="Rooms">
+<item>HXLY 144 (Week 2)</item>
+<item>HXLY 340 (Weeks 3-9)</item></room>
+<module title="Module">
+<item>CO349 Information and Coding Theory</item></module></resources>
+<eventname>CO349 Information and Coding Theory</eventname></event>
+<event id="1286409" timesort="09001100" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>0</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO417-a5 (MSc)</item>
+<item>CO417-c4 (4)</item>
+<item>CO417-j4 (4)</item>
+<item>CO417-s5 (MSc)</item>
+<item>CO417-v5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C417AGV (4)</item></group>
+<staff title="Staff">
+<item>Ghosh, Abhijeet</item></staff>
+<room title="Room">
+<item>HXLY 140</item></room>
+<module title="Module">
+<item>CO417 Advanced Computer Graphics</item></module></resources>
+<eventname>CO417 Advanced Computer Graphics</eventname></event>
+<event id="1286487" timesort="09001100" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>0</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO447H-a5 (4)</item>
+<item>CO447H-c4 (4)</item>
+<item>CO447H-j4 (4)</item>
+<item>CO447H-s5 (4)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Demetriou, Soteris</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO447H Advanced Security in Smartphone and IoT Systems</item></module></resources>
+<eventname>CO447H Advanced Security in Smartphone and IoT Systems</eventname></event>
+<event id="1286172" timesort="10001100" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>0</day>
+<prettytimes>10:00-11:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO531-a5 (MSc)</item>
+<item>CO531-s5 (MSc)</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>CO531 Prolog</item></module></resources>
+<eventname>CO531 Prolog</eventname></event>
+<event id="1286123" timesort="11001300" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>0</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO477-a5 (MSc)</item>
+<item>CO477-c4 (4)</item>
+<item>CO477-j4 (4)</item>
+<item>CO477-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C477COD (4)</item></group>
+<staff title="Staff">
+<item>Misener, Ruth</item>
+<item>Parpas, Panos</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO477 Computational Optimisation</item></module></resources>
+<eventname>CO477 Computational Optimisation</eventname></event>
+<event id="1286125" timesort="11001300" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>0</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO499H-a5 (MSc)</item>
+<item>CO499H-c4 (4)</item>
+<item>CO499H-j4 (4)</item>
+<item>CO499H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Hodkinson, Ian</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO499H Modal Logic</item></module></resources>
+<eventname>CO499H Modal Logic</eventname></event>
+<event id="1286405" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>0</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO409 External (4)</item>
+<item>CO409-a5 (MSc)</item>
+<item>CO409-c4 (4)</item>
+<item>CO409-j4 (4)</item>
+<item>CO409-s5 (MSc)</item>
+<item>CO409-v5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C409CE (4)</item></group>
+<staff title="Staff">
+<item>Huth, Michael R A</item></staff>
+<room title="Room">
+<item>HXLY 340</item></room>
+<module title="Module">
+<item>CO409 Cryptography Engineering</item></module></resources>
+<eventname>CO409 Cryptography Engineering</eventname></event>
+<event id="1286418" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>0</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO468H-a5 (MSc)</item>
+<item>CO468H-c4 (4)</item>
+<item>CO468H-j4 (4)</item>
+<item>CO468H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Filieri, Antonio</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO468H Probabilistic Programming</item></module></resources>
+<eventname>CO468H Probabilistic Programming</eventname></event>
+<event id="1286120" timesort="12001300" colour="FFFFBF" date="01/10/2018">
+<day>0</day>
+<prettytimes>12:00-13:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Group">
+<item>CO-MSc in Advanced Computing (5)</item></group>
+<staff title="Staff">
+<item>Rueckert, Daniel</item>
+<item>Sadri, Fariba</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Welcome to MAC</item></module></resources>
+<eventname>CO Welcome to MAC by PG Director of Studies and Head of  Dept</eventname></event>
+<event id="1387562" timesort="13001400" colour="BFBFFF" date="05/11/2018">
+<day>0</day>
+<prettytimes>13:00-14:00 Seminar</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Jack Hidary Talk (Google X)</eventname></event>
+<event id="1286139" timesort="14001600" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>0</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO382-a5 (MSc)</item>
+<item>CO382-c3 (3)</item>
+<item>CO382-j3 (3)</item>
+<item>CO382-j4 (4)</item>
+<item>CO382-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C382TSPL (4)</item></group>
+<staff title="Staff">
+<item>van Bakel, Steffen</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO382 Type Systems for Programming Languages</item></module></resources>
+<eventname>CO382 Type Systems for Programming Languages</eventname></event>
+<event id="1286153" timesort="14001600" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>0</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO496-a5 (MSc)</item>
+<item>CO496-c4 (4)</item>
+<item>CO496-j4 (4)</item>
+<item>CO496-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C496MIML (4)</item></group>
+<staff title="Staff">
+<item>Karri, Senanayak S K</item>
+<item>Zafeiriou, Stefanos</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO496 Mathematics for Machine Learning</item></module></resources>
+<eventname>CO496 Mathematics for Machine Learning</eventname></event>
+<event id="1286398" timesort="14001600" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>0</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO331-a5 (MSc)</item>
+<item>CO331-c3 (3)</item>
+<item>CO331-j3 (3)</item>
+<item>CO331-j4 (4)</item>
+<item>CO331-s5 (MSc)</item>
+<item>CO331-v5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EEE4 - C331NWS (4)</item>
+<item>EE-EIE4 - C331NWS (4)</item>
+<item>EE-MScCSP - C331NWS (1)</item></group>
+<staff title="Staff">
+<item>Maffeis, Sergio</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO331 Network and Web Security</item></module></resources>
+<eventname>CO331 Network and Web Security</eventname></event>
+<event id="1286408" timesort="14001600" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>0</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO416-a5 (MSc)</item>
+<item>CO416-c4 (4)</item>
+<item>CO416-j4 (4)</item>
+<item>CO416-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Glocker, Ben</item>
+<item>Rueckert, Daniel</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO416 Machine Learning for Imaging</item></module></resources>
+<eventname>CO416 Machine Learning for Imaging</eventname></event>
+<event id="1286451" timesort="14001600" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>0</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO422-a5 (MSc)</item>
+<item>CO422-c4 (4)</item>
+<item>CO422-j4 (4)</item>
+<item>CO422-s5 (MSc)</item>
+<item>CO422-v5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C422CF (4)</item></group>
+<staff title="Staff">
+<item>Parpas, Panos</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO422 Computational Finance</item></module></resources>
+<eventname>CO422 Computational Finance</eventname></event>
+<event id="1286177" timesort="15001530" colour="FFFFBF" date="01/10/2018">
+<day>0</day>
+<prettytimes>15:00-15:30 Lecture</prettytimes>
+<starttime>15:00</starttime>
+<endtime>15:30</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO512-a5 (MSc)</item>
+<item>CO512-s5 (MSc)</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item>
+<item>Sadri, Fariba</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO512 Independent Study Option (ISO)</item></module></resources>
+<eventname>CO512 Independent Study Option (ISO)</eventname></event>
+<event id="1286117" timesort="16001700" colour="FFFFBF" date="01/10/2018">
+<day>0</day>
+<prettytimes>16:00-17:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Breza, Michael J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Security/Safety/Fire Lecture (MSc)</item></module></resources>
+<eventname>CO Security, Safety &amp; Fire (MSc)</eventname></event>
+<event id="1286148" timesort="16001800" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>0</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO445H-a5 (MSc)</item>
+<item>CO445H-c4 (4)</item>
+<item>CO445H-j4 (4)</item>
+<item>CO445H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Livshits, Ben</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>CO445H Advanced Security</item></module></resources>
+<eventname>CO445H Advanced Security</eventname></event>
+<event id="1286416" timesort="16001800" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>0</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO467-a5 (MSc)</item>
+<item>CO467-c4 (4)</item>
+<item>CO467-j4 (4)</item>
+<item>CO467-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Gervais, Arthur H C</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO467 Principles of Distributed Ledgers</item></module></resources>
+<eventname>CO467 Principles of Distributed Ledgers</eventname></event>
+<event id="1286419" timesort="16001800" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>0</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO469-a5 (MSc)</item>
+<item>CO469-c4 (4)</item>
+<item>CO469-j4 (4)</item>
+<item>CO469-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Filieri, Antonio</item>
+<item>Wiklicky, Herbert</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO469 Probabilistic Model Checking and Analysis</item></module></resources>
+<eventname>CO469 Probabilistic Model Checking and Analysis</eventname></event>
+<event id="1286129" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>1</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO438-a5 (MSc)</item>
+<item>CO438-c4 (4)</item>
+<item>CO438-j4 (4)</item>
+<item>CO438-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C438C (4)</item></group>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO438 Complexity</item></module></resources>
+<eventname>CO438 Complexity</eventname></event>
+<event id="1286396" timesort="09001100" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO318-a5 (MSc)</item>
+<item>CO318-c3 (3)</item>
+<item>CO318-j3 (3)</item>
+<item>CO318-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C318CC (3)</item></group>
+<staff title="Staff">
+<item>Luk, Wayne</item>
+<item>Todman, Timothy J</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO318 Custom Computing</item></module></resources>
+<eventname>CO318 Custom Computing</eventname></event>
+<event id="1286414" timesort="09001100" colour="D6AEFF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>09:00-11:00 Class</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO460-a5 (MSc)</item>
+<item>CO460-c4 (4)</item>
+<item>CO460-j4 (4)</item>
+<item>CO460-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Bronstein, Michael</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item>
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO460 Deep Learning</item></module></resources>
+<eventname>CO460 Deep Learning</eventname></event>
+<event id="1286144" timesort="11001300" colour="D6AEFF" date="08/10/2018 - 26/11/2018">
+<day>1</day>
+<prettytimes>11:00-13:00 Class</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO408-a5 (MSc)</item>
+<item>CO408-c4 (4)</item>
+<item>CO408-j4 (4)</item>
+<item>CO408-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>de Montjoye, Yves-Alexandre</item>
+<item>Dulay, Naranker</item></staff>
+<room title="Rooms">
+<item>HXLY 140</item>
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO408 Privacy Engineering</item></module></resources>
+<eventname>CO408 Privacy Engineering</eventname></event>
+<event id="1286210" timesort="11001300" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>1</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO474-a5 (MSc)</item>
+<item>CO474-c4 (4)</item>
+<item>CO474-j4 (4)</item>
+<item>CO474-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C474MAS (4)</item></group>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>CO474 Machine Arguing</item></module></resources>
+<eventname>CO474 Machine Arguing</eventname></event>
+<event id="1286393" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO304-a5 (MSc)</item>
+<item>CO304-c3 (3)</item>
+<item>CO304-j3 (3)</item>
+<item>CO304-s5 (MSc)</item>
+<item>CO304-v5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Law, Mark</item>
+<item>Russo, Alessandra M</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO304 Logic-Based Learning</item></module></resources>
+<eventname>CO304 Logic-Based Learning</eventname></event>
+<event id="1286437" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO339-a5 (MSc)</item>
+<item>CO339-c3</item>
+<item>CO339-j3</item>
+<item>CO339-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Casale, Giuliano</item>
+<item>Pirk, Holger</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO339 Performance Engineering</item></module></resources>
+<eventname>CO339 Performance Engineering</eventname></event>
+<event id="1286439" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO433-a5 (MSc)</item>
+<item>CO433-c4 (4)</item>
+<item>CO433-j4 (4)</item>
+<item>CO433-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C433AR (4)</item></group>
+<staff title="Staff">
+<item>Leutenegger, Stefan</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>CO433 Advanced Robotics</item></module></resources>
+<eventname>CO433 Advanced Robotics</eventname></event>
+<event id="1286438" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO475-a5 (MSc)</item>
+<item>CO475-c4 (4)</item>
+<item>CO475-j4 (4)</item>
+<item>CO475-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C475ATSE (4)</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Room">
+<item>HXLY 340</item></room>
+<module title="Module">
+<item>CO475 Software Engineering for Industry</item></module></resources>
+<eventname>CO475 Software Engineering for Industry</eventname></event>
+<event id="1286118" timesort="12001300" colour="FFFFBF" date="01/10/2018">
+<day>1</day>
+<prettytimes>12:00-13:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Brew, Ann E</item>
+<item>Carruthers, Richard J</item>
+<item>Kimber, Timothy</item>
+<item>Perkonigg, Fidelis</item>
+<item>Sadri, Fariba</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Intro to services for MScs</item></module></resources>
+<eventname>CO Intro to Careers, ACM Student Chapter, Library, DoCSoc</eventname></event>
+<event id="1286035" timesort="12001400" colour="FFFFBF" date="08/10/2018 ... 11/02/2019">
+<day>1</day>
+<prettytimes>12:00-14:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>14:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYNNNNNNNNNYYYYYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1286318" timesort="12001600" colour="FFFFBF" date="07/01/2019">
+<day>1</day>
+<prettytimes>12:00-16:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1286034" timesort="13001700" colour="FFFFBF" date="01/10/2018">
+<day>1</day>
+<prettytimes>13:00-17:00 Lecture</prettytimes>
+<starttime>13:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1286183" timesort="13001400" colour="FF7FFF" date="08/10/2018 ... 11/03/2019">
+<day>1</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>Non-Standard Room (see event details)</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers-1-2-1 (Huxley 219A)</eventname></event>
+<event id="1286131" timesort="14001600" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>1</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO316-a5 (MSc)</item>
+<item>CO316-c3 (3)</item>
+<item>CO316-j3 (3)</item>
+<item>CO316-j4 (4)</item>
+<item>CO316-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C316CV (3)</item></group>
+<staff title="Staff">
+<item>Bai, Wenjia</item></staff>
+<room title="Room">
+<item>HXLY 340</item></room>
+<module title="Module">
+<item>CO316 Computer Vision</item></module></resources>
+<eventname>CO316 Computer Vision</eventname></event>
+<event id="1286145" timesort="14001600" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>1</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO410-a5 (MSc)</item>
+<item>CO410-c4 (4)</item>
+<item>CO410-j4 (4)</item>
+<item>CO410-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Giceva, Jana</item>
+<item>Pietzuch, Peter R</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO410 Scalable Systems for the Cloud</item></module></resources>
+<eventname>CO410 Scalable Systems for the Cloud</eventname></event>
+<event id="1286142" timesort="14001600" colour="FFFFBF" date="08/10/2018 - 05/11/2018">
+<day>1</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO404H-a5 (MSc)</item>
+<item>CO404H-c4 (4)</item>
+<item>CO404H-j4 (4)</item>
+<item>CO404H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Gardner, Philippa A</item></staff>
+<room title="Room">
+<item>HXLY 140</item></room>
+<module title="Module">
+<item>CO404H Separation Logic: Local Reasoning about Programs</item></module></resources>
+<eventname>CO404H Separation Logic: Local Reasoning about Programs</eventname></event>
+<event id="1286141" timesort="14001600" colour="D6AEFF" date="12/11/2018 - 26/11/2018">
+<day>1</day>
+<prettytimes>14:00-16:00 Class</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO404H-a5 (MSc)</item>
+<item>CO404H-c4 (4)</item>
+<item>CO404H-j4 (4)</item>
+<item>CO404H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Gardner, Philippa A</item></staff>
+<room title="Rooms">
+<item>HXLY 140</item>
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO404H Separation Logic: Local Reasoning about Programs</item></module></resources>
+<eventname>CO404H Separation Logic: Facebook Lab</eventname></event>
+<event id="1286466" timesort="14001800" colour="7FFF7F" date="07/01/2019">
+<day>1</day>
+<prettytimes>14:00-18:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Lexis Test (CO531 Prolog)</item></module></resources>
+<eventname>CO Lexis Test (CO531 Prolog)</eventname></event>
+<event id="1286444" timesort="14001500" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO332-a5 (MSc)</item>
+<item>CO332-c3 (3)</item>
+<item>CO332-j3 (3)</item>
+<item>CO332-j4 (4)</item>
+<item>CO332-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EEE4 - C332ACA (4)</item>
+<item>EE-EIE4 - C332ACA (4)</item>
+<item>MScA - C332ACA (1)</item></group>
+<staff title="Staff">
+<item>Kelly, Paul H J</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO332 Advanced Computer Architecture</item></module></resources>
+<eventname>CO332 Advanced Computer Architecture</eventname></event>
+<event id="1286455" timesort="14001600" colour="FFFFBF" date="21/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Muggleton, Stephen H</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>CO466H Inductive Programming</item></module></resources>
+<eventname>CO466H Inductive Programming</eventname></event>
+<event id="1286400" timesort="15001600" colour="D6AEFF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>15:00-16:00 Class</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO332-a5 (MSc)</item>
+<item>CO332-c3 (3)</item>
+<item>CO332-j3 (3)</item>
+<item>CO332-j4 (4)</item>
+<item>CO332-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EEE4 - C332ACA (4)</item>
+<item>EE-EIE4 - C332ACA (4)</item>
+<item>MScA - C332ACA (1)</item></group>
+<staff title="Staff">
+<item>Kelly, Paul H J</item></staff>
+<room title="Rooms">
+<item>HXLY 139</item>
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO332 Advanced Computer Architecture</item></module></resources>
+<eventname>CO332 Advanced Computer Architecture</eventname></event>
+<event id="1286149" timesort="16001800" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>1</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO471-a5 (MSc)</item>
+<item>CO471-c4 (4)</item>
+<item>CO471-j4 (4)</item>
+<item>CO471-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Drossopoulou, Sophia</item></staff>
+<room title="Room">
+<item>HXLY 340</item></room>
+<module title="Module">
+<item>CO471 Advanced Issues in Object Oriented Programming</item></module></resources>
+<eventname>CO471 Advanced Issues in Object Oriented Programming</eventname></event>
+<event id="1286151" timesort="16001800" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>1</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO484-a5 (MSc)</item>
+<item>CO484-c4 (4)</item>
+<item>CO484-j4 (4)</item>
+<item>CO484-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Berta, Mario A</item>
+<item>Wiklicky, Herbert</item></staff>
+<room title="Room">
+<item>HXLY 140</item></room>
+<module title="Module">
+<item>CO484 Quantum Computing</item></module></resources>
+<eventname>CO484 Quantum Computing</eventname></event>
+<event id="1286173" timesort="16001800" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>1</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO572-a5 (MSc)</item>
+<item>CO572-c3 (3)</item>
+<item>CO572-j3 (3)</item>
+<item>CO572-j4 (4)</item>
+<item>CO572-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C572AD (3)</item></group>
+<staff title="Staff">
+<item>McBrien, Peter</item>
+<item>Pirk, Holger</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO572 Advanced Databases</item></module></resources>
+<eventname>CO572 Advanced Databases</eventname></event>
+<event id="1286440" timesort="16001800" colour="D6AEFF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 Class</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO347-a5 (MSc)</item>
+<item>CO347-c3 (3)</item>
+<item>CO347-j3 (3)</item>
+<item>CO347-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C347DA (3)</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Gopalan, Anandha</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 340</item></room>
+<module title="Module">
+<item>CO347 Distributed Algorithms</item></module></resources>
+<eventname>CO347 Distributed Algorithms</eventname></event>
+<event id="1286407" timesort="16001800" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO412H-a5 (MSc)</item>
+<item>CO412H-c4 (4)</item>
+<item>CO412H-j4 (4)</item>
+<item>CO412H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Heinis, Thomas</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO412H Large Scale Data Management</item></module></resources>
+<eventname>CO412H Large Scale Data Management</eventname></event>
+<event id="1286441" timesort="16001800" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO493-a5 (MSc)</item>
+<item>CO493-c4 (4)</item>
+<item>CO493-j4 (4)</item>
+<item>CO493-s5 (MSc)</item>
+<item>CO493-v5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C493IDPI (4)</item></group>
+<staff title="Staff">
+<item>Deisenroth, Marc P</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO493 Probabilistic Inference</item></module></resources>
+<eventname>CO493 Probabilistic Inference</eventname></event>
+<event id="1379976" timesort="17002000" colour="FF7FFF" date="08/10/2018">
+<day>1</day>
+<prettytimes>17:00-20:00 Careers Event</prettytimes>
+<starttime>17:00</starttime>
+<endtime>20:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO PhDS</item>
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>DOCSOC</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Room">
+<item>Non-Standard Room (see event details)</item></room>
+<module title="Module">
+<item>CO DoCSoc</item></module></resources>
+<eventname>DoCSoc Sponsors Exhibition (Queen's Tower Rooms)</eventname></event>
+<event id="1286122" timesort="09001000" colour="D6AEFF" date="08/10/2018 - 26/11/2018">
+<day>2</day>
+<prettytimes>09:00-10:00 Class</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO424H-a5 (MSc)</item>
+<item>CO424H-c4 (4)</item>
+<item>CO424H-j4 (4)</item>
+<item>CO424H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Faisal, Aldo A</item></staff>
+<room title="Rooms">
+<item>HXLY 145</item>
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO424H Reinforcement Learning</item></module></resources>
+<eventname>CO424H Reinforcement Learning</eventname></event>
+<event id="1286137" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>2</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO349-a5 (MSc)</item>
+<item>CO349-c3 (3)</item>
+<item>CO349-j3 (3)</item>
+<item>CO349-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Cheraghchi, Mahdi</item>
+<item>Wiklicky, Herbert</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO349 Information and Coding Theory</item></module></resources>
+<eventname>CO349 Information and Coding Theory</eventname></event>
+<event id="1286180" timesort="10001200" colour="FFFFBF" date="01/10/2018">
+<day>2</day>
+<prettytimes>10:00-12:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO534-a5 (MSc)</item>
+<item>CO534-s5 (MSc)</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO534 Short Intro to Prolog</item></module></resources>
+<eventname>CO534 Short Intro to Prolog</eventname></event>
+<event id="1286126" timesort="10001100" colour="D77FAB" date="08/10/2018 - 26/11/2018">
+<day>2</day>
+<prettytimes>10:00-11:00 Laboratory Session</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO424H-a5 (MSc)</item>
+<item>CO424H-c4 (4)</item>
+<item>CO424H-j4 (4)</item>
+<item>CO424H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Faisal, Aldo A</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO424H Reinforcement Learning</item></module></resources>
+<eventname>CO424H Reinforcement Learning</eventname></event>
+<event id="1286389" timesort="10001100" colour="FFFFBF" date="07/01/2019">
+<day>2</day>
+<prettytimes>10:00-11:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item>
+<item>Perkonigg, Fidelis</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO MSc Individual Project (for all MScs)</item></module></resources>
+<eventname>CO MSc Individual Project (for all MScs)</eventname></event>
+<event id="1286417" timesort="10001200" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>2</day>
+<prettytimes>10:00-12:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO467-a5 (MSc)</item>
+<item>CO467-c4 (4)</item>
+<item>CO467-j4 (4)</item>
+<item>CO467-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Gervais, Arthur H C</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO467 Principles of Distributed Ledgers</item></module></resources>
+<eventname>CO467 Principles of Distributed Ledgers</eventname></event>
+<event id="1286420" timesort="10001200" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>2</day>
+<prettytimes>10:00-12:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO469-a5 (MSc)</item>
+<item>CO469-c4 (4)</item>
+<item>CO469-j4 (4)</item>
+<item>CO469-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Filieri, Antonio</item>
+<item>Wiklicky, Herbert</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO469 Probabilistic Model Checking and Analysis</item></module></resources>
+<eventname>CO469 Probabilistic Model Checking and Analysis</eventname></event>
+<event id="1286256" timesort="11001200" colour="D6AEFF" date="08/10/2018 - 26/11/2018">
+<day>2</day>
+<prettytimes>11:00-12:00 Class</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO424H-a5 (MSc)</item>
+<item>CO424H-c4 (4)</item>
+<item>CO424H-j4 (4)</item>
+<item>CO424H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Faisal, Aldo A</item></staff>
+<room title="Rooms">
+<item>HXLY 145</item>
+<item>HXLY 202 (Weeks 2-8)</item>
+<item>HXLY 206 (Weeks 2-8)</item></room>
+<module title="Module">
+<item>CO424H Reinforcement Learning</item></module></resources>
+<eventname>CO424H Reinforcement Learning (supplementary)</eventname></event>
+<event id="1286038" timesort="13001700" colour="FFFFBF" date="01/10/2018">
+<day>2</day>
+<prettytimes>13:00-17:00 Lecture</prettytimes>
+<starttime>13:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1286364" timesort="13001700" colour="FFFFBF" date="07/01/2019">
+<day>2</day>
+<prettytimes>13:00-17:00 Lecture</prettytimes>
+<starttime>13:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1286195" timesort="14001600" colour="BFBFFF" date="05/11/2018 ... 11/03/2019">
+<day>2</day>
+<prettytimes>14:00-16:00 Seminar</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNYNNYNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Deisenroth, Marc P</item>
+<item>Sharmanska, Viktoriia</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Machine Learning Seminar</item></module></resources>
+<eventname>CO Machine Learning Seminar</eventname></event>
+<event id="1286178" timesort="09001100" colour="D77FAB" date="01/10/2018">
+<day>3</day>
+<prettytimes>09:00-11:00 Laboratory Session</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO534-a5 (MSc)</item>
+<item>CO534-s5 (MSc)</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO534 Short Intro to Prolog</item></module></resources>
+<eventname>CO534 Short Intro to Prolog</eventname></event>
+<event id="1286211" timesort="09001000" colour="D6AEFF" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>09:00-10:00 Class</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO316-a5 (MSc)</item>
+<item>CO316-c3 (3)</item>
+<item>CO316-j3 (3)</item>
+<item>CO316-j4 (4)</item>
+<item>CO316-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C316CV (3)</item></group>
+<staff title="Staff">
+<item>Bai, Wenjia</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item>
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO316 Computer Vision</item></module></resources>
+<eventname>CO316 Computer Vision</eventname></event>
+<event id="1286254" timesort="09001000" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>09:00-10:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO406H-a5 (MSc)</item>
+<item>CO406H-c4 (4)</item>
+<item>CO406H-j4 (4)</item>
+<item>CO406H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Yoshida, Nobuko</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO406H Concurrent Processes</item></module></resources>
+<eventname>CO406H Concurrent Processes</eventname></event>
+<event id="1286146" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO410-a5 (MSc)</item>
+<item>CO410-c4 (4)</item>
+<item>CO410-j4 (4)</item>
+<item>CO410-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Giceva, Jana</item>
+<item>Pietzuch, Peter R</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO410 Scalable Systems for the Cloud</item></module></resources>
+<eventname>CO410 Scalable Systems for the Cloud</eventname></event>
+<event id="836996" timesort="09001100" colour="7FBF9F" date="03/12/2018">
+<day>3</day>
+<prettytimes>09:00-11:00 Revision</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Revision</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO406H-a5 (MSc)</item>
+<item>CO406H-c4 (4)</item>
+<item>CO406H-j4 (4)</item>
+<item>CO406H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Yoshida, Nobuko</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO406H Concurrent Processes</item></module></resources>
+<eventname>CO406H Concurrent Processes</eventname></event>
+<event id="1286397" timesort="09001100" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>3</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO318-a5 (MSc)</item>
+<item>CO318-c3 (3)</item>
+<item>CO318-j3 (3)</item>
+<item>CO318-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C318CC (3)</item></group>
+<staff title="Staff">
+<item>Luk, Wayne</item>
+<item>Todman, Timothy J</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>CO318 Custom Computing</item></module></resources>
+<eventname>CO318 Custom Computing</eventname></event>
+<event id="1286415" timesort="09001100" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>3</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO460-a5 (MSc)</item>
+<item>CO460-c4 (4)</item>
+<item>CO460-j4 (4)</item>
+<item>CO460-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Bronstein, Michael</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO460 Deep Learning</item></module></resources>
+<eventname>CO460 Deep Learning</eventname></event>
+<event id="1388260" timesort="10001100" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>10:00-11:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO316-a5 (MSc)</item>
+<item>CO316-c3 (3)</item>
+<item>CO316-j3 (3)</item>
+<item>CO316-j4 (4)</item>
+<item>CO316-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C316CV (3)</item></group>
+<staff title="Staff">
+<item>Bai, Wenjia</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO316 Computer Vision</item></module></resources>
+<eventname>CO316 Computer Vision</eventname></event>
+<event id="1286143" timesort="10001100" colour="D6AEFF" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>10:00-11:00 Class</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO406H-a5 (MSc)</item>
+<item>CO406H-c4 (4)</item>
+<item>CO406H-j4 (4)</item>
+<item>CO406H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Yoshida, Nobuko</item></staff>
+<room title="Rooms">
+<item>HXLY 145</item>
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO406H Concurrent Processes</item></module></resources>
+<eventname>CO406H Concurrent Processes</eventname></event>
+<event id="1286147" timesort="11001300" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO438-a5 (MSc)</item>
+<item>CO438-c4 (4)</item>
+<item>CO438-j4 (4)</item>
+<item>CO438-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C438C (4)</item></group>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>CO438 Complexity</item></module></resources>
+<eventname>CO438 Complexity</eventname></event>
+<event id="1286406" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>3</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO409 External (4)</item>
+<item>CO409-a5 (MSc)</item>
+<item>CO409-c4 (4)</item>
+<item>CO409-j4 (4)</item>
+<item>CO409-s5 (MSc)</item>
+<item>CO409-v5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C409CE (4)</item></group>
+<staff title="Staff">
+<item>Huth, Michael R A</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO409 Cryptography Engineering</item></module></resources>
+<eventname>CO409 Cryptography Engineering</eventname></event>
+<event id="1286422" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>3</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO498H-a5 (MSc)</item>
+<item>CO498H-c4 (4)</item>
+<item>CO498H-j4 (4)</item>
+<item>CO498H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Belardinelli, Francesco</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO498H Logics for Strategic Reasoning in AI</item></module></resources>
+<eventname>CO498H Logics for Strategic Reasoning in AI</eventname></event>
+<event id="1286036" timesort="13001400" colour="BFBFFF" date="05/11/2018 ... 04/03/2019">
+<day>3</day>
+<prettytimes>13:00-14:00 Seminar</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNYNNYNNNNNNNNYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO iPr0gram (Imperial Programming Lectures)</item></module></resources>
+<eventname>CO iPr0gram (Imperial Programming Lectures)</eventname></event>
+<event id="1123883" timesort="14001500" colour="FFFFBF" date="06/08/2018">
+<day>3</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item>
+<item>Perkonigg, Fidelis</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO MSc Individual Project (for all MScs)</item></module></resources>
+<eventname>MSc Project Completion</eventname></event>
+<event id="1286181" timesort="14001600" colour="FFFFBF" date="01/10/2018">
+<day>3</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO534-a5 (MSc)</item>
+<item>CO534-s5 (MSc)</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO534 Short Intro to Prolog</item></module></resources>
+<eventname>CO534 Short Intro to Prolog</eventname></event>
+<event id="1286219" timesort="14001500" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO474-a5 (MSc)</item>
+<item>CO474-c4 (4)</item>
+<item>CO474-j4 (4)</item>
+<item>CO474-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C474MAS (4)</item></group>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO474 Machine Arguing</item></module></resources>
+<eventname>CO474 Machine Arguing</eventname></event>
+<event id="1286222" timesort="14001600" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO408-a5 (MSc)</item>
+<item>CO408-c4 (4)</item>
+<item>CO408-j4 (4)</item>
+<item>CO408-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>de Montjoye, Yves-Alexandre</item>
+<item>Dulay, Naranker</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO408 Privacy Engineering</item></module></resources>
+<eventname>CO408 Privacy Engineering</eventname></event>
+<event id="1286399" timesort="14001500" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>3</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO331-a5 (MSc)</item>
+<item>CO331-c3 (3)</item>
+<item>CO331-j3 (3)</item>
+<item>CO331-j4 (4)</item>
+<item>CO331-s5 (MSc)</item>
+<item>CO331-v5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EEE4 - C331NWS (4)</item>
+<item>EE-EIE4 - C331NWS (4)</item>
+<item>EE-MScCSP - C331NWS (1)</item></group>
+<staff title="Staff">
+<item>Maffeis, Sergio</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO331 Network and Web Security</item></module></resources>
+<eventname>CO331 Network and Web Security</eventname></event>
+<event id="1286453" timesort="14001500" colour="D6AEFF" date="14/01/2019 - 04/03/2019">
+<day>3</day>
+<prettytimes>14:00-15:00 Class</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO416-a5 (MSc)</item>
+<item>CO416-c4 (4)</item>
+<item>CO416-j4 (4)</item>
+<item>CO416-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Glocker, Ben</item>
+<item>Rueckert, Daniel</item></staff>
+<room title="Rooms">
+<item>HXLY 144</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO416 Machine Learning for Imaging</item></module></resources>
+<eventname>CO416 Machine Learning for Imaging</eventname></event>
+<event id="1286411" timesort="14001600" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>3</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO422-a5 (MSc)</item>
+<item>CO422-c4 (4)</item>
+<item>CO422-j4 (4)</item>
+<item>CO422-s5 (MSc)</item>
+<item>CO422-v5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C422CF (4)</item></group>
+<staff title="Staff">
+<item>Parpas, Panos</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO422 Computational Finance</item></module></resources>
+<eventname>CO422 Computational Finance</eventname></event>
+<event id="1286220" timesort="15001600" colour="D6AEFF" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>15:00-16:00 Class</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO474-a5 (MSc)</item>
+<item>CO474-c4 (4)</item>
+<item>CO474-j4 (4)</item>
+<item>CO474-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C474MAS (4)</item></group>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Rooms">
+<item>HXLY 145</item>
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO474 Machine Arguing</item></module></resources>
+<eventname>CO474 Machine Arguing</eventname></event>
+<event id="1286450" timesort="15001600" colour="D77FAB" date="14/01/2019 - 04/03/2019">
+<day>3</day>
+<prettytimes>15:00-16:00 Laboratory Session</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO331-a5 (MSc)</item>
+<item>CO331-c3 (3)</item>
+<item>CO331-j3 (3)</item>
+<item>CO331-j4 (4)</item>
+<item>CO331-s5 (MSc)</item>
+<item>CO331-v5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EEE4 - C331NWS (4)</item>
+<item>EE-EIE4 - C331NWS (4)</item>
+<item>EE-MScCSP - C331NWS (1)</item></group>
+<staff title="Staff">
+<item>Maffeis, Sergio</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO331 Network and Web Security</item></module></resources>
+<eventname>CO331 Network and Web Security</eventname></event>
+<event id="1286495" timesort="15001600" colour="D6AEFF" date="14/01/2019 - 04/03/2019">
+<day>3</day>
+<prettytimes>15:00-16:00 Class</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO416-a5 (MSc)</item>
+<item>CO416-c4 (4)</item>
+<item>CO416-j4 (4)</item>
+<item>CO416-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Glocker, Ben</item>
+<item>Rueckert, Daniel</item></staff>
+<room title="Rooms">
+<item>HXLY 144</item>
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO416 Machine Learning for Imaging</item></module></resources>
+<eventname>CO416 Machine Learning for Imaging</eventname></event>
+<event id="1286207" timesort="16001700" colour="D77FAB" date="01/10/2018">
+<day>3</day>
+<prettytimes>16:00-17:00 Laboratory Session</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO534-a5 (MSc)</item>
+<item>CO534-s5 (MSc)</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO534 Short Intro to Prolog</item></module></resources>
+<eventname>CO534 Short Intro to Prolog</eventname></event>
+<event id="1286171" timesort="16001800" colour="D77FAB" date="08/10/2018 - 26/11/2018">
+<day>3</day>
+<prettytimes>16:00-18:00 Laboratory Session</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO531-a5 (MSc)</item>
+<item>CO531-s5 (MSc)</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO531 Prolog</item></module></resources>
+<eventname>CO531 Prolog</eventname></event>
+<event id="1286179" timesort="09001100" colour="D77FAB" date="01/10/2018">
+<day>4</day>
+<prettytimes>09:00-11:00 Laboratory Session</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO534-a5 (MSc)</item>
+<item>CO534-s5 (MSc)</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Kimber, Timothy</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO534 Short Intro to Prolog</item></module></resources>
+<eventname>CO534 Short Intro to Prolog</eventname></event>
+<event id="1286150" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>4</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO471-a5 (MSc)</item>
+<item>CO471-c4 (4)</item>
+<item>CO471-j4 (4)</item>
+<item>CO471-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Drossopoulou, Sophia</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO471 Advanced Issues in Object Oriented Programming</item></module></resources>
+<eventname>CO471 Advanced Issues in Object Oriented Programming</eventname></event>
+<event id="1286152" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>4</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO484-a5 (MSc)</item>
+<item>CO484-c4 (4)</item>
+<item>CO484-j4 (4)</item>
+<item>CO484-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Berta, Mario A</item>
+<item>Wiklicky, Herbert</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>CO484 Quantum Computing</item></module></resources>
+<eventname>CO484 Quantum Computing</eventname></event>
+<event id="1286174" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>4</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO572-a5 (MSc)</item>
+<item>CO572-c3 (3)</item>
+<item>CO572-j3 (3)</item>
+<item>CO572-j4 (4)</item>
+<item>CO572-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C572AD (3)</item></group>
+<staff title="Staff">
+<item>McBrien, Peter</item>
+<item>Pirk, Holger</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO572 Advanced Databases</item></module></resources>
+<eventname>CO572 Advanced Databases</eventname></event>
+<event id="1286394" timesort="09001100" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO304-a5 (MSc)</item>
+<item>CO304-c3 (3)</item>
+<item>CO304-j3 (3)</item>
+<item>CO304-s5 (MSc)</item>
+<item>CO304-v5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Law, Mark</item>
+<item>Russo, Alessandra M</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO304 Logic-Based Learning</item></module></resources>
+<eventname>CO304 Logic-Based Learning</eventname></event>
+<event id="1286403" timesort="09001100" colour="D6AEFF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>09:00-11:00 Class</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO339-a5 (MSc)</item>
+<item>CO339-c3</item>
+<item>CO339-j3</item>
+<item>CO339-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Casale, Giuliano</item>
+<item>Pirk, Holger</item></staff>
+<room title="Rooms">
+<item>HXLY 140</item>
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO339 Performance Engineering</item></module></resources>
+<eventname>CO339 Performance Engineering</eventname></event>
+<event id="1286454" timesort="09001100" colour="D77FAB" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>09:00-11:00 Laboratory Session</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO433-a5 (MSc)</item>
+<item>CO433-c4 (4)</item>
+<item>CO433-j4 (4)</item>
+<item>CO433-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C433AR (4)</item></group>
+<staff title="Staff">
+<item>Leutenegger, Stefan</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO433 Advanced Robotics</item></module></resources>
+<eventname>CO433 Advanced Robotics</eventname></event>
+<event id="1286421" timesort="09001100" colour="D77FAB" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>09:00-11:00 Laboratory Session</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO475-a5 (MSc)</item>
+<item>CO475-c4 (4)</item>
+<item>CO475-j4 (4)</item>
+<item>CO475-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C475ATSE (4)</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO475 Software Engineering for Industry</item></module></resources>
+<eventname>CO475 Software Engineering for Industry</eventname></event>
+<event id="1286124" timesort="11001300" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>4</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO477-a5 (MSc)</item>
+<item>CO477-c4 (4)</item>
+<item>CO477-j4 (4)</item>
+<item>CO477-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C477COD (4)</item></group>
+<staff title="Staff">
+<item>Misener, Ruth</item>
+<item>Parpas, Panos</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO477 Computational Optimisation</item></module></resources>
+<eventname>CO477 Computational Optimisation</eventname></event>
+<event id="1286404" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO347-a5 (MSc)</item>
+<item>CO347-c3 (3)</item>
+<item>CO347-j3 (3)</item>
+<item>CO347-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C347DA (3)</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Gopalan, Anandha</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO347 Distributed Algorithms</item></module></resources>
+<eventname>CO347 Distributed Algorithms</eventname></event>
+<event id="1286412" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO440H-a5 (MSc)</item>
+<item>CO440H-c4 (4)</item>
+<item>CO440H-j4 (4)</item>
+<item>CO440H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Cadar, Cristian</item></staff>
+<room title="Room">
+<item>HXLY 140</item></room>
+<module title="Module">
+<item>CO440H Software Reliability</item></module></resources>
+<eventname>CO440H Software Reliability</eventname></event>
+<event id="1286442" timesort="11001300" colour="D6AEFF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>11:00-13:00 Class</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO493-a5 (MSc)</item>
+<item>CO493-c4 (4)</item>
+<item>CO493-j4 (4)</item>
+<item>CO493-s5 (MSc)</item>
+<item>CO493-v5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C493IDPI (4)</item></group>
+<staff title="Staff">
+<item>Deisenroth, Marc P</item></staff>
+<room title="Rooms">
+<item>HXLY 219</item>
+<item>HXLY 340</item></room>
+<module title="Module">
+<item>CO493 Probabilistic Inference</item></module></resources>
+<eventname>CO493 Probabilistic Inference</eventname></event>
+<event id="1286184" timesort="13001400" colour="FF7FFF" date="08/10/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (CVs &amp; Cover Letters)</eventname></event>
+<event id="1381445" timesort="13001400" colour="FF7FFF" date="15/10/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Application Forms - How To Ace Them)</eventname></event>
+<event id="1381563" timesort="13001400" colour="FF7FFF" date="29/10/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Finding Internships, Insight Weeks, Projects and Vacation Opportunities)</eventname></event>
+<event id="1381744" timesort="13001400" colour="FF7FFF" date="05/11/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Psychometric Tests &amp; Assessment Centres)</eventname></event>
+<event id="1381755" timesort="13001400" colour="FF7FFF" date="12/11/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Interviews – The Guide To Success)</eventname></event>
+<event id="1381780" timesort="13001400" colour="FF7FFF" date="19/11/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Postgraduate Study – Options &amp; Applications)</eventname></event>
+<event id="1381782" timesort="13001400" colour="FF7FFF" date="26/11/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (LinkedIn – Leverage The Power Of Social Media)</eventname></event>
+<event id="1380884" timesort="13001400" colour="FF7FFF" date="14/01/2019 - 11/03/2019">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (details TBC)</eventname></event>
+<event id="1286140" timesort="14001600" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>4</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO382-a5 (MSc)</item>
+<item>CO382-c3 (3)</item>
+<item>CO382-j3 (3)</item>
+<item>CO382-j4 (4)</item>
+<item>CO382-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C382TSPL (4)</item></group>
+<staff title="Staff">
+<item>van Bakel, Steffen</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO382 Type Systems for Programming Languages</item></module></resources>
+<eventname>CO382 Type Systems for Programming Languages</eventname></event>
+<event id="1286154" timesort="14001600" colour="FFFFBF" date="08/10/2018 - 26/11/2018">
+<day>4</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO496-a5 (MSc)</item>
+<item>CO496-c4 (4)</item>
+<item>CO496-j4 (4)</item>
+<item>CO496-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C496MIML (4)</item></group>
+<staff title="Staff">
+<item>Karri, Senanayak S K</item>
+<item>Zafeiriou, Stefanos</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO496 Mathematics for Machine Learning</item></module></resources>
+<eventname>CO496 Mathematics for Machine Learning</eventname></event>
+<event id="1286410" timesort="14001600" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO417-a5 (MSc)</item>
+<item>CO417-c4 (4)</item>
+<item>CO417-j4 (4)</item>
+<item>CO417-s5 (MSc)</item>
+<item>CO417-v5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE4 - C417AGV (4)</item></group>
+<staff title="Staff">
+<item>Ghosh, Abhijeet</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO417 Advanced Computer Graphics</item></module></resources>
+<eventname>CO417 Advanced Computer Graphics</eventname></event>
+<event id="1286413" timesort="14001600" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO446H-a5 (MSc)</item>
+<item>CO446H-c4 (4)</item>
+<item>CO446H-j4 (4)</item>
+<item>CO446H-s5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Maffeis, Sergio</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO446H Applied Network Security</item></module></resources>
+<eventname>CO446H Applied Network Security</eventname></event>
+<event id="1286443" timesort="16001800" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO332-a5 (MSc)</item>
+<item>CO332-c3 (3)</item>
+<item>CO332-j3 (3)</item>
+<item>CO332-j4 (4)</item>
+<item>CO332-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EEE4 - C332ACA (4)</item>
+<item>EE-EIE4 - C332ACA (4)</item>
+<item>MScA - C332ACA (1)</item></group>
+<staff title="Staff">
+<item>Kelly, Paul H J</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO332 Advanced Computer Architecture</item></module></resources>
+<eventname>CO332 Advanced Computer Architecture</eventname></event>
+<event id="1286456" timesort="16001800" colour="D6AEFF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>16:00-18:00 Class</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO490-a5 (MSc)</item>
+<item>CO490-c4 (4)</item>
+<item>CO490-j4 (4)</item>
+<item>CO490-s5 (MSc)</item>
+<item>CO490-v5 (MSc)</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Staff to be confirmed</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item>
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO490H Natural Language Processing</item></module></resources>
+<eventname>CO490H Natural Language Processing</eventname></event></timetable>

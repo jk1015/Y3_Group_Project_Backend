@@ -1,0 +1,818 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m633277.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - CO Computing Ad Hoc</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1415443" timesort="10001100" colour="7F7FFF" date="15/10/2018 - 03/12/2018">
+<day>0</day>
+<prettytimes>10:00-11:00 Academic Tutorial</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Academic Tutorial</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Room">
+<item>HXLY 642</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>PPT Tutorial</eventname></event>
+<event id="1291029" timesort="11001200" colour="BFBFFF" date="01/10/2018">
+<day>0</day>
+<prettytimes>11:00-12:00 Seminar</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Misener, Ruth</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1445113" timesort="13001400" colour="AFE9FC" date="05/11/2018">
+<day>0</day>
+<prettytimes>13:00-14:00 Drop-in</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Drop-in</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item></group>
+<staff title="Staff">
+<item>Lancaster, Thomas E</item></staff>
+<room title="Room">
+<item>HXLY 642</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>DAS Study Efficiency (Drop-In Session) </eventname></event>
+<event id="1387562" timesort="13001400" colour="BFBFFF" date="05/11/2018">
+<day>0</day>
+<prettytimes>13:00-14:00 Seminar</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Jack Hidary Talk (Google X)</eventname></event>
+<event id="1445134" timesort="13001400" colour="AFE9FC" date="12/11/2018">
+<day>0</day>
+<prettytimes>13:00-14:00 Drop-in</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Drop-in</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Lancaster, Thomas E</item></staff>
+<room title="Room">
+<item>HXLY 642</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>DAS Study Efficiency (Drop-In Session) </eventname></event>
+<event id="1445143" timesort="13001400" colour="AFE9FC" date="19/11/2018">
+<day>0</day>
+<prettytimes>13:00-14:00 Drop-in</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Drop-in</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Lancaster, Thomas E</item></staff>
+<room title="Room">
+<item>HXLY 642</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>DAS Exam Techniques (Drop-In Session) </eventname></event>
+<event id="1338726" timesort="14001500" colour="9FBFBF" date="08/10/2018">
+<day>0</day>
+<prettytimes>14:00-15:00 Meeting</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Field, Anthony J</item>
+<item>Sadri, Fariba</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Tony's briefing</eventname></event>
+<event id="1331734" timesort="17001830" colour="BFBFFF" date="15/10/2018">
+<day>0</day>
+<prettytimes>17:00-18:30 Seminar</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Zero Waste Campaign</eventname></event>
+<event id="1094596" timesort="08002359" colour="9FBFBF" date="02/07/2018">
+<day>1</day>
+<prettytimes>08:00-23:59 Meeting</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>YNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Hann, Nicola</item></staff>
+<room title="Room">
+<item>RSM- G41 - Teaching Room</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1443971" timesort="13001400" colour="7F7FFF" date="22/10/2018 - 03/12/2018">
+<day>1</day>
+<prettytimes>13:00-14:00 Academic Tutorial</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Academic Tutorial</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Computing Tutorials</eventname></event>
+<event id="1286294" timesort="14001600" colour="BFBFDF" date="10/09/2018">
+<day>1</day>
+<prettytimes>14:00-16:00 Presentation</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>MSc presentation</eventname></event>
+<event id="1402545" timesort="17001800" colour="BFBFFF" date="08/10/2018">
+<day>1</day>
+<prettytimes>17:00-18:00 Seminar</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Ng, Teresa W M</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Industry Talk by Dr Alan Nichol about Chatbots</eventname></event>
+<event id="1365286" timesort="17001930" colour="9FBFBF" date="08/10/2018">
+<day>1</day>
+<prettytimes>17:00-19:30 Meeting</prettytimes>
+<starttime>17:00</starttime>
+<endtime>19:30</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gopalan, Anandha</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Outreach event (DoC)</eventname></event>
+<event id="1401518" timesort="12001300" colour="9FBFBF" date="08/10/2018">
+<day>2</day>
+<prettytimes>12:00-13:00 Meeting</prettytimes>
+<starttime>12:00</starttime>
+<endtime>13:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Field, Anthony J</item>
+<item>Sadri, Fariba</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Tony's briefing</eventname></event>
+<event id="1435436" timesort="12001300" colour="FFFFBF" date="15/10/2018">
+<day>2</day>
+<prettytimes>12:00-13:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>144 Audio Test</eventname></event>
+<event id="1352839" timesort="13001500" colour="BFBFFF" date="12/11/2018">
+<day>2</day>
+<prettytimes>13:00-15:00 Seminar</prettytimes>
+<starttime>13:00</starttime>
+<endtime>15:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Pirk, Holger</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Computing Talk</eventname></event>
+<event id="1420972" timesort="13001800" colour="BFBFFF" date="11/03/2019">
+<day>2</day>
+<prettytimes>13:00-18:00 Seminar</prettytimes>
+<starttime>13:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Rueckert, Daniel</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1224838" timesort="14001700" colour="FFFFFF" date="01/10/2018">
+<day>2</day>
+<prettytimes>14:00-17:00 Workshop</prettytimes>
+<starttime>14:00</starttime>
+<endtime>17:00</endtime>
+<category>Workshop</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Rueckert, Daniel</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1215472" timesort="09001400" colour="9FBFBF" date="13/08/2018">
+<day>3</day>
+<prettytimes>09:00-14:00 Meeting</prettytimes>
+<starttime>09:00</starttime>
+<endtime>14:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gardner, Philippa A</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1383577" timesort="10001200" colour="7F7FFF" date="08/10/2018 - 03/12/2018">
+<day>3</day>
+<prettytimes>10:00-12:00 Academic Tutorial</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Academic Tutorial</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Room">
+<item>HXLY 642</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>MMT tutorial </eventname></event>
+<event id="1386249" timesort="11001300" colour="BFBFFF" date="15/10/2018">
+<day>3</day>
+<prettytimes>11:00-13:00 Seminar</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Drossopoulou, Sophia</item></staff>
+<room title="Room">
+<item>BLKT 112 - Lecture Theatre 3</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Alan Mycroft Talk </eventname></event>
+<event id="1468345" timesort="13001400" colour="BFBFFF" date="29/10/2018 ... 26/11/2018">
+<day>3</day>
+<prettytimes>13:00-14:00 Seminar</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYNYNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cohen, Jeremy</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1310328" timesort="16001800" colour="BFBFDF" date="10/09/2018">
+<day>3</day>
+<prettytimes>16:00-18:00 Presentation</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>MSc presentations (Kollias)</eventname></event>
+<event id="1460867" timesort="16001800" colour="BFBFFF" date="19/11/2018">
+<day>3</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Ng, Teresa W M</item>
+<item>Pantic, Maja</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Talk by Prof Papalexakis (iBUG group in CO and EEE)</eventname></event>
+<event id="1439022" timesort="08001000" colour="BFBFFF" date="22/10/2018">
+<day>4</day>
+<prettytimes>08:00-10:00 Seminar</prettytimes>
+<starttime>08:00</starttime>
+<endtime>10:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Halford, Ann E</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1300819" timesort="09001800" colour="9FBFBF" date="06/05/2019">
+<day>4</day>
+<prettytimes>09:00-18:00 Meeting</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Wallace, Amanda T</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Booking for Amanda Wallace</eventname></event>
+<event id="1309433" timesort="10001500" colour="BFBFDF" date="10/09/2018">
+<day>4</day>
+<prettytimes>10:00-15:00 Presentation</prettytimes>
+<starttime>10:00</starttime>
+<endtime>15:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Faisal, Aldo A</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>MSc presentations</eventname></event>
+<event id="1378907" timesort="10001200" colour="BFBFFF" date="01/10/2018">
+<day>4</day>
+<prettytimes>10:00-12:00 Seminar</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Pietzuch, Peter R</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1467318" timesort="11301200" colour="FFB096" date="29/10/2018">
+<day>4</day>
+<prettytimes>11:30-12:00 Set up/take down</prettytimes>
+<starttime>11:30</starttime>
+<endtime>12:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Room prep</eventname></event>
+<event id="1255666" timesort="12001400" colour="BFBFFF" date="01/10/2018">
+<day>4</day>
+<prettytimes>12:00-14:00 Seminar</prettytimes>
+<starttime>12:00</starttime>
+<endtime>14:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Rueckert, Daniel</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1405411" timesort="12001300" colour="7F7FFF" date="08/10/2018">
+<day>4</day>
+<prettytimes>12:00-13:00 Academic Tutorial</prettytimes>
+<starttime>12:00</starttime>
+<endtime>13:00</endtime>
+<category>Academic Tutorial</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Broda, Krysia B</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Group tutorial (KB)</eventname></event>
+<event id="1405353" timesort="12001300" colour="7F7FFF" date="15/10/2018 - 03/12/2018">
+<day>4</day>
+<prettytimes>12:00-13:00 Academic Tutorial</prettytimes>
+<starttime>12:00</starttime>
+<endtime>13:00</endtime>
+<category>Academic Tutorial</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Broda, Krysia B</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>PMT Tutorial</eventname></event>
+<event id="1459173" timesort="13001400" colour="9FBFBF" date="29/10/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Meeting</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Staff-student committee (C) option</eventname></event>
+<event id="1469984" timesort="13001400" colour="9FBFBF" date="29/10/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Meeting</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Sadri, Fariba</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>Staff-student meeting (CO)</eventname></event>
+<event id="1477364" timesort="14001500" colour="BFBFFF" date="29/10/2018">
+<day>4</day>
+<prettytimes>14:00-15:00 Seminar</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Davison, Andrew J</item>
+<item>Kelly, Paul H J</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1310378" timesort="15001700" colour="BFBFDF" date="10/09/2018">
+<day>4</day>
+<prettytimes>15:00-17:00 Presentation</prettytimes>
+<starttime>15:00</starttime>
+<endtime>17:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>MSc presentations (Kollias)</eventname></event>
+<event id="1453234" timesort="16001800" colour="BFBFFF" date="08/10/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO337 Cancellation</eventname></event>
+<event id="1453236" timesort="16001800" colour="BFBFFF" date="15/10/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO337 Cancellation</eventname></event>
+<event id="1453442" timesort="16001800" colour="9F7FBF" date="22/10/2018 - 17/12/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Induction</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Induction</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1453238" timesort="16001800" colour="BFBFFF" date="22/10/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 340</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO Computing Ad Hoc</eventname></event>
+<event id="1453240" timesort="16001800" colour="BFBFFF" date="29/10/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO337 Cancellation</eventname></event>
+<event id="1453242" timesort="16001800" colour="BFBFFF" date="05/11/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO337 Cancellation</eventname></event>
+<event id="1453244" timesort="16001800" colour="BFBFFF" date="12/11/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO337 Cancellation</eventname></event>
+<event id="1453246" timesort="16001800" colour="BFBFFF" date="19/11/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO337 Cancellation</eventname></event>
+<event id="1453248" timesort="16001800" colour="BFBFFF" date="26/11/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO337 Cancellation</eventname></event>
+<event id="1453250" timesort="16001800" colour="BFBFFF" date="03/12/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Seminar</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Computing Ad Hoc</item></module></resources>
+<eventname>CO337 Cancellation</eventname></event></timetable>

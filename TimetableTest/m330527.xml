@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m330527.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - Statistics Seminar</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1255739" timesort="14001700" colour="BFBFFF" date="01/10/2018 ... 24/06/2019">
+<day>4</day>
+<prettytimes>14:00-17:00 Seminar</prettytimes>
+<starttime>14:00</starttime>
+<endtime>17:00</endtime>
+<category>Seminar</category>
+<prettyweeks>Academic Year</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYYYYYYYYYYYNNNYYYYYYYYYYYNNNNNYYYYYYYYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Crisan, Dan O</item>
+<item>Fissler, Tobias</item>
+<item>Kantas, Nikolas</item>
+<item>McCoy, Emma J</item>
+<item>Stenning, David C</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>Statistics Seminar</item></module></resources>
+<eventname>Statistics Seminar</eventname></event></timetable>

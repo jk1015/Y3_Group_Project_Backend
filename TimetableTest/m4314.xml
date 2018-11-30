@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m4314.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - CO Dept New Student Registration (PG)</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1286102" timesort="09001200" colour="7F7FBF" date="01/10/2018">
+<day>0</day>
+<prettytimes>09:00-12:00 Registration</prettytimes>
+<starttime>09:00</starttime>
+<endtime>12:00</endtime>
+<category>Registration</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Sadri, Fariba</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Dept New Student Registration (PG)</item></module></resources>
+<eventname>CO Dept New Student Registration (PG)</eventname></event></timetable>

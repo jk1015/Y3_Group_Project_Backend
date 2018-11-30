@@ -1,7 +1,7 @@
 const HashMap = require('hashmap');
 
 const slotsMap = new HashMap();
-//'Course', 'day-hour' (where 0 is Sunday, 24 hours clock)
+//'Course', 'day-hour' (where 1 is Monday, 24 hours clock)
 slotsMap.multi(
   '475', ['1-19', '2-20'],
   '333', ['2-09', '4-12', '4-13'],
@@ -11,7 +11,7 @@ slotsMap.multi(
   '572', ['2-16', '5-09'],
   '316', ['2-14', '4-09'],
   'eie2', ['4-09', '4-15'],
-  '362', ['5-15', '5-16', '5-17'],
+  '362', ['5-15', '5-16', '5-17', '4-12'],
   '570', ['5-15', '5-16', '5-17']
 );
 

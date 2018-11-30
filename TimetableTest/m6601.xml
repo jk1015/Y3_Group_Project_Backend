@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m6601.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - M2PM1 - Real Analysis</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1206304" timesort="10001200" colour="7FFF7F" date="03/09/2018">
+<day>0</day>
+<prettytimes>10:00-12:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Group">
+<item>MA_M2PM1_Sept2018</item></group>
+<staff title="Staff">
+<item>Mohammed, Jabed H</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 EXAM</eventname></event>
+<event id="1244981" timesort="10001200" colour="7FFF7F" date="03/09/2018">
+<day>0</day>
+<prettytimes>10:00-12:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Baker, Tom</item>
+<item>Mohammed, Jabed H</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module>
+<student title="Student">
+<item>Kondragunta, Vivek (UG2)</item></student></resources>
+<eventname>M2PM1 EXAM AEA</eventname></event>
+<event id="1255683" timesort="15001600" colour="FFFFBF" date="08/10/2018 - 10/12/2018">
+<day>0</day>
+<prettytimes>15:00-16:00 Lecture</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM1 - Real Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nicaise, Johannes</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Lecture 1</eventname></event>
+<event id="1255684" timesort="14001500" colour="FFFFBF" date="08/10/2018 - 10/12/2018">
+<day>1</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM1 - Real Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nicaise, Johannes</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Lecture 2</eventname></event>
+<event id="1287258" timesort="14001500" colour="7FFF7F" date="07/01/2019">
+<day>2</day>
+<prettytimes>14:00-15:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item></group>
+<staff title="Staff">
+<item>Staff to be confirmed</item></staff>
+<room title="Rooms">
+<item>HXLY 340</item>
+<item>HXLY 341</item>
+<item>HXLY 342</item>
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Voluntary Test</eventname></event>
+<event id="1454480" timesort="10001100" colour="9FBFBF" date="22/10/2018 - 03/12/2018">
+<day>3</day>
+<prettytimes>10:00-11:00 Meeting</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Nicaise, Johannes</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>Office Hour</eventname></event>
+<event id="1255686" timesort="11001200" colour="BFFFBF" date="15/10/2018 - 10/12/2018">
+<day>3</day>
+<prettytimes>11:00-12:00 Problem Based Learning</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>Problem Based Learning</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM1 - Real Analysis (2)</item></group>
+<staff title="Staff">
+<item>Lawn, Marie-Amelie</item>
+<item>Mauri, Mirko</item>
+<item>Nicaise, Johannes</item></staff>
+<room title="Rooms">
+<item>HXLY 311 (Week 11)</item>
+<item>HXLY 340</item>
+<item>HXLY 341 (Weeks 3-10)</item>
+<item>HXLY 342 (Weeks 3-10)</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Problems Class</eventname></event>
+<event id="1255685" timesort="17001800" colour="FFFFBF" date="08/10/2018 - 10/12/2018">
+<day>3</day>
+<prettytimes>17:00-18:00 Lecture</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM1 - Real Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nicaise, Johannes</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Lecture 3</eventname></event></timetable>

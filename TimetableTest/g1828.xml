@@ -1,0 +1,2659 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="g1828.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 12/10/2018 15:16:36 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Group timetable - CO-BEng/MEng Joint Maths &amp; Computing Year 2</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1314734" timesort="09001000" colour="FFFFBF" date="08/10/2018 - 03/12/2018">
+<day>0</day>
+<prettytimes>09:00-10:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Group">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Stenning, David C</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>M2SJ - Statistics for JMC</item></module></resources>
+<eventname>M2SJ Statistical Methods</eventname></event>
+<event id="1286321" timesort="09001000" colour="FFFFBF" date="14/01/2019 - 18/02/2019">
+<day>0</day>
+<prettytimes>09:00-10:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Kelly, Paul H J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO221 Compilers</item></module></resources>
+<eventname>CO221 Compilers</eventname></event>
+<event id="457784" timesort="09001800" colour="BFBFDF" date="17/06/2019">
+<day>0</day>
+<prettytimes>09:00-18:00 Presentation</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 144</item>
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>2nd year Group Project Presentations</eventname></event>
+<event id="1286026" timesort="10001100" colour="FFFFBF" date="08/10/2018 - 19/11/2018">
+<day>0</day>
+<prettytimes>10:00-11:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO261L Laboratory Support</item></module></resources>
+<eventname>CO261L Laboratory Support</eventname></event>
+<event id="1286319" timesort="10001200" colour="FFFFBF" date="07/01/2019">
+<day>0</day>
+<prettytimes>10:00-12:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Kelly, Paul H J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO221 Compilers</item></module></resources>
+<eventname>CO221 Compilers</eventname></event>
+<event id="1286328" timesort="10001100" colour="FFFFBF" date="14/01/2019 - 18/02/2019">
+<day>0</day>
+<prettytimes>10:00-11:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO261L Laboratory Support</item></module></resources>
+<eventname>CO261L Laboratory Support</eventname></event>
+<event id="632362" timesort="10001300" colour="FFFFBF" date="20/05/2019 ... 10/06/2019">
+<day>0</day>
+<prettytimes>10:00-13:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNYYNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>WebApps Software Engineering</eventname></event>
+<event id="1286024" timesort="11001300" colour="D77FAB" date="08/10/2018 - 19/11/2018">
+<day>0</day>
+<prettytimes>11:00-13:00 Laboratory Session</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Laboratory 2</eventname></event>
+<event id="1286327" timesort="11001300" colour="D77FAB" date="14/01/2019 - 18/02/2019">
+<day>0</day>
+<prettytimes>11:00-13:00 Laboratory Session</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Laboratory 2</eventname></event>
+<event id="1287256" timesort="12001300" colour="7FFF7F" date="07/01/2019">
+<day>0</day>
+<prettytimes>12:00-13:00 Examination</prettytimes>
+<starttime>12:00</starttime>
+<endtime>13:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item></group>
+<staff title="Staff">
+<item>Staff to be confirmed</item></staff>
+<room title="Rooms">
+<item>HXLY 340</item>
+<item>HXLY 341</item>
+<item>HXLY 342</item>
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>M2AA2 - Multivariable Calculus</item></module></resources>
+<eventname>M2AA2 Voluntary Test</eventname></event>
+<event id="1286090" timesort="12301400" colour="9FBFBF" date="08/10/2018">
+<day>0</day>
+<prettytimes>12:30-14:00 Meeting</prettytimes>
+<starttime>12:30</starttime>
+<endtime>14:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item></group>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item>
+<item>Valera-Espina, Maria</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Buddies Meeting</item></module></resources>
+<eventname>CO Buddies Meeting</eventname></event>
+<event id="1286196" timesort="13001400" colour="9FBFBF" date="15/10/2018 ... 27/05/2019">
+<day>0</day>
+<prettytimes>13:00-14:00 Meeting</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYNNNNNYNNNNNNNYNNNNNYNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Room">
+<item>Personal Tutor Office (as advised)</item></room>
+<module title="Module">
+<item>CO Tutorials (Personal) Year 2</item></module>
+<team title="Team">
+<item>CO Academic Staff</item></team></resources>
+<eventname>CO Personal Tutor Meeting (Year 2)</eventname></event>
+<event id="1255681" timesort="14001500" colour="FFFFBF" date="08/10/2018 - 10/12/2018">
+<day>0</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AA2 - Multivariable Calculus (2)</item></group>
+<staff title="Staff">
+<item>Walton, Andrew G</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2AA2 - Multivariable Calculus</item></module></resources>
+<eventname>M2AA2 Lecture 1</eventname></event>
+<event id="1286320" timesort="14001600" colour="FFFFBF" date="07/01/2019">
+<day>0</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Kelly, Paul H J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO221 Compilers</item></module></resources>
+<eventname>CO221 Compilers</eventname></event>
+<event id="1287234" timesort="14001600" colour="FFFFBF" date="14/01/2019 - 18/03/2019">
+<day>0</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM3 - Complex Analysis (2)</item></group>
+<staff title="Staff">
+<item>Laptev, Ari</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2PM3 - Complex Analysis</item></module></resources>
+<eventname>M2PM3 - Lecture 1</eventname></event>
+<event id="457819" timesort="14001700" colour="D77FAB" date="20/05/2019 ... 10/06/2019">
+<day>0</day>
+<prettytimes>14:00-17:00 Laboratory Session</prettytimes>
+<starttime>14:00</starttime>
+<endtime>17:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNYYNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>WebApps - Clinic Hours</eventname></event>
+<event id="1255683" timesort="15001600" colour="FFFFBF" date="08/10/2018 - 10/12/2018">
+<day>0</day>
+<prettytimes>15:00-16:00 Lecture</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM1 - Real Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nicaise, Johannes</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Lecture 1</eventname></event>
+<event id="1286224" timesort="16001800" colour="FF7FBF" date="08/10/2018 ... 11/03/2019">
+<day>0</day>
+<prettytimes>16:00-18:00 For Information Only</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYYNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Room">
+<item>-</item></room>
+<module title="Module">
+<item>CO Horizons Courses Year 2</item></module></resources>
+<eventname>CO Horizons Courses Year 2</eventname></event>
+<event id="1286382" timesort="16001800" colour="7FFF7F" date="18/03/2019">
+<day>0</day>
+<prettytimes>16:00-18:00 Examination</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Room">
+<item>-</item></room>
+<module title="Module">
+<item>CO Horizons Exams (Languages)</item></module></resources>
+<eventname>CO Horizons Language exams Ge/Ja/Ar/It</eventname></event>
+<event id="1286016" timesort="09001000" colour="FFFFBF" date="01/10/2018">
+<day>1</day>
+<prettytimes>09:00-10:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item>
+<item>Field, Anthony J</item>
+<item>Parpas, Panos</item>
+<item>Valera-Espina, Maria</item>
+<item>Wheelhouse, Mark J</item>
+<item>Wiklicky, Herbert</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Welcome to Year 2</item></module></resources>
+<eventname>CO Welcome to 2nd Year</eventname></event>
+<event id="457788" timesort="09001800" colour="BFBFDF" date="17/06/2019">
+<day>1</day>
+<prettytimes>09:00-18:00 Presentation</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 144</item>
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>2nd Year Group Projects Presentations</eventname></event>
+<event id="1255687" timesort="09301030" colour="7FFF7F" date="22/10/2018 ... 10/12/2018">
+<day>1</day>
+<prettytimes>09:30-10:30 Examination</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:30</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNYYYNYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>Maths Year 2 Test (2)</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Rooms">
+<item>HXLY 145 (Week 11)</item>
+<item>HXLY 213 - Clore Lecture Theatre</item>
+<item>HXLY 340</item>
+<item>HXLY 341 (Weeks 4-6,8-10)</item>
+<item>HXLY 342 (Weeks 4-6,8-10)</item>
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>Second Year Tests (2)</item></module></resources>
+<eventname>Second Year Tests</eventname></event>
+<event id="1287236" timesort="09301030" colour="7FFF7F" date="28/01/2019 - 18/03/2019">
+<day>1</day>
+<prettytimes>09:30-10:30 Examination</prettytimes>
+<starttime>09:30</starttime>
+<endtime>10:30</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>Maths Year 2 Test (2)</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Rooms">
+<item>HXLY 213 - Clore Lecture Theatre</item>
+<item>HXLY 340</item>
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>Second Year Tests (2)</item></module></resources>
+<eventname>Seond Year Tests (Spring)</eventname></event>
+<event id="1286022" timesort="10001200" colour="FFFFBF" date="01/10/2018">
+<day>1</day>
+<prettytimes>10:00-12:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 C Refresher</eventname></event>
+<event id="777280" timesort="10001200" colour="FFFFBF" date="20/05/2019">
+<day>1</day>
+<prettytimes>10:00-12:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>12:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>CO271 Introduction to Human-Centred Design</eventname></event>
+<event id="632738" timesort="10001300" colour="FFFFBF" date="27/05/2019">
+<day>1</day>
+<prettytimes>10:00-13:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>WebApps Software Engineering</eventname></event>
+<event id="1286392" timesort="10301100" colour="FFFFBF" date="18/03/2019">
+<day>1</day>
+<prettytimes>10:30-11:00 Lecture</prettytimes>
+<starttime>10:30</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Shah, Madasar</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>CO271 Introduction to WebApps Group Projects</eventname></event>
+<event id="1255682" timesort="11001200" colour="BFFFBF" date="15/10/2018 - 10/12/2018">
+<day>1</day>
+<prettytimes>11:00-12:00 Problem Based Learning</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>Problem Based Learning</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AA2 - Multivariable Calculus (2)</item></group>
+<staff title="Staff">
+<item>Bertrand, Thibault</item>
+<item>Dell, Imogen M</item>
+<item>Walton, Andrew G</item></staff>
+<room title="Rooms">
+<item>HXLY 311 (Week 11)</item>
+<item>HXLY 340</item>
+<item>HXLY 341 (Weeks 3-10)</item>
+<item>HXLY 342 (Weeks 3-10)</item></room>
+<module title="Module">
+<item>M2AA2 - Multivariable Calculus</item></module></resources>
+<eventname>M2AA2 Problems Class</eventname></event>
+<event id="1286335" timesort="11001300" colour="D77FAB" date="14/01/2019 - 18/02/2019">
+<day>1</day>
+<prettytimes>11:00-13:00 Laboratory Session</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Laboratory 2</eventname></event>
+<event id="1286385" timesort="11001200" colour="FFFFBF" date="18/03/2019">
+<day>1</day>
+<prettytimes>11:00-12:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Field, Anthony J</item>
+<item>Gopalan, Anandha</item>
+<item>Valera-Espina, Maria</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO BEng v MEng choice</item></module></resources>
+<eventname>CO BEng vs MEng choice</eventname></event>
+<event id="1286035" timesort="12001400" colour="FFFFBF" date="08/10/2018 ... 11/02/2019">
+<day>1</day>
+<prettytimes>12:00-14:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>14:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYNNNNNNNNNYYYYYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1286263" timesort="12001400" colour="FFFFBF" date="10/12/2018">
+<day>1</day>
+<prettytimes>12:00-14:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>14:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Pietzuch, Peter R</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO211 Operating Systems</item></module></resources>
+<eventname>CO211 Operating Systems [make-up class]</eventname></event>
+<event id="1286318" timesort="12001600" colour="FFFFBF" date="07/01/2019">
+<day>1</day>
+<prettytimes>12:00-16:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1286034" timesort="13001700" colour="FFFFBF" date="01/10/2018">
+<day>1</day>
+<prettytimes>13:00-17:00 Lecture</prettytimes>
+<starttime>13:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1286183" timesort="13001400" colour="FF7FFF" date="08/10/2018 ... 11/03/2019">
+<day>1</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>Non-Standard Room (see event details)</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers-1-2-1 (Huxley 219A)</eventname></event>
+<event id="777281" timesort="13001500" colour="FFFFBF" date="20/05/2019">
+<day>1</day>
+<prettytimes>13:00-15:00 Lecture</prettytimes>
+<starttime>13:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>CO271 Introduction to Human-Centred Design</eventname></event>
+<event id="612384" timesort="13001400" colour="9FBFBF" date="27/05/2019">
+<day>1</day>
+<prettytimes>13:00-14:00 Meeting</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<module title="Module">
+<item>CO Tutorials (Personal) Year 2</item></module>
+<team title="Team">
+<item>CO Academic Staff</item></team></resources>
+<eventname>Personal Tutor Meeting (Year 2)</eventname></event>
+<event id="1255684" timesort="14001500" colour="FFFFBF" date="08/10/2018 - 10/12/2018">
+<day>1</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM1 - Real Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nicaise, Johannes</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Lecture 2</eventname></event>
+<event id="1286391" timesort="14001600" colour="FFFFBF" date="18/03/2019">
+<day>1</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Shah, Madasar</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>CO271 Introduction to Human-Centred Design - Lecture 1</eventname></event>
+<event id="457951" timesort="14001600" colour="FFFFBF" date="27/05/2019">
+<day>1</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Ham, David A</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO273 An Introduction to Law for Computer Scientists</item></module></resources>
+<eventname>CO273 Principles of Copyright in Software</eventname></event>
+<event id="1286017" timesort="15001600" colour="FFFFBF" date="08/10/2018 - 03/12/2018">
+<day>1</day>
+<prettytimes>15:00-16:00 Lecture</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO220 Software Engineering Design</item></module></resources>
+<eventname>CO220 Software Engineering Design</eventname></event>
+<event id="1286019" timesort="16001700" colour="D77FAB" date="08/10/2018 - 03/12/2018">
+<day>1</day>
+<prettytimes>16:00-17:00 Laboratory Session</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO220 Software Engineering Design</item></module></resources>
+<eventname>CO220 Software Engineering Design</eventname></event>
+<event id="1286226" timesort="16001700" colour="FF7FBF" date="08/10/2018">
+<day>1</day>
+<prettytimes>16:00-17:00 For Information Only</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Room">
+<item>Non-Standard Room (see event details)</item></room>
+<module title="Module">
+<item>CO Horizons Year-in-Europe Language Classes</item></module></resources>
+<eventname>(OPTIONAL) Year-in-Europe Introduction (Sherfield 303A) - For Info</eventname></event>
+<event id="1287229" timesort="16001700" colour="FFFFBF" date="14/01/2019 - 18/03/2019">
+<day>1</day>
+<prettytimes>16:00-17:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AA3 - Intro to Numerical Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nurnberg, Robert</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2AA3 - Intro to Numerical Analysis</item></module></resources>
+<eventname>M2AA3 - Lecture 1</eventname></event>
+<event id="1286381" timesort="16001800" colour="7FFF7F" date="18/03/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 Examination</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Room">
+<item>-</item></room>
+<module title="Module">
+<item>CO Horizons Exams (Languages)</item></module></resources>
+<eventname>CO Horizons Language exams Fr/Sp/Ma/Ko</eventname></event>
+<event id="1286069" timesort="17001800" colour="FFFFBF" date="08/10/2018 - 03/12/2018">
+<day>1</day>
+<prettytimes>17:00-18:00 Lecture</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Cheraghchi, Mahdi</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO202 Software Engineering - Algorithms</item></module></resources>
+<eventname>CO202 Algorithms II</eventname></event>
+<event id="1379976" timesort="17002000" colour="FF7FFF" date="08/10/2018">
+<day>1</day>
+<prettytimes>17:00-20:00 Careers Event</prettytimes>
+<starttime>17:00</starttime>
+<endtime>20:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO PhDS</item>
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>DOCSOC</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Room">
+<item>Non-Standard Room (see event details)</item></room>
+<module title="Module">
+<item>CO DoCSoc</item></module></resources>
+<eventname>DoCSoc Sponsors Exhibition (Queen's Tower Rooms)</eventname></event>
+<event id="1286325" timesort="17001800" colour="D77FAB" date="14/01/2019 - 11/03/2019">
+<day>1</day>
+<prettytimes>17:00-18:00 Laboratory Session</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-MSc in Computer Science (5)</item></group>
+<staff title="Staff">
+<item>Russo, Alessandra M</item>
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO231 Introduction to Model-Based AI</item></module></resources>
+<eventname>CO231 Introduction to Model-Based AI - Lab Session</eventname></event>
+<event id="1286075" timesort="09001100" colour="FFFFBF" date="01/10/2018">
+<day>2</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Pintos Introduction</eventname></event>
+<event id="1286021" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 03/12/2018">
+<day>2</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item></group>
+<staff title="Staff">
+<item>Gardner, Philippa A</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO240 Models of Computation</item></module></resources>
+<eventname>CO240 Models of Computation</eventname></event>
+<event id="457972" timesort="09001800" colour="D77FAB" date="20/05/2019">
+<day>2</day>
+<prettytimes>09:00-18:00 Laboratory Session</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>WebApps - Human-Centred Design Clinic</eventname></event>
+<event id="457801" timesort="09001800" colour="BFBFDF" date="17/06/2019">
+<day>2</day>
+<prettytimes>09:00-18:00 Presentation</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 144</item>
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>2nd Year Group Projects Presentations</eventname></event>
+<event id="1287221" timesort="10001100" colour="BFFFBF" date="21/01/2019 - 18/03/2019">
+<day>2</day>
+<prettytimes>10:00-11:00 Problem Based Learning</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Problem Based Learning</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AM - Non-linear Waves (2)</item></group>
+<staff title="Staff">
+<item>Carrillo de la Plata, Jose Antonio</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>M2AM - Non-linear Waves</item></module></resources>
+<eventname>M2AM - Problems Class</eventname></event>
+<event id="1287227" timesort="10001100" colour="BFFFBF" date="21/01/2019 - 18/03/2019">
+<day>2</day>
+<prettytimes>10:00-11:00 Problem Based Learning</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Problem Based Learning</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2S2 - Stats Modelling I (2)</item></group>
+<staff title="Staff">
+<item>Calderhead, Ben</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>M2S2 - Statistical Modelling I (2)</item></module></resources>
+<eventname>M2S2 - Problems Class</eventname></event>
+<event id="632779" timesort="10001300" colour="D77FAB" date="27/05/2019">
+<day>2</day>
+<prettytimes>10:00-13:00 Laboratory Session</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>WebApps - Clinic Hours</eventname></event>
+<event id="793417" timesort="10001300" colour="FFFFBF" date="27/05/2019">
+<day>2</day>
+<prettytimes>10:00-13:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>WebApps - JavaScript Talks</eventname></event>
+<event id="1286071" timesort="11001200" colour="FFFFBF" date="08/10/2018 - 03/12/2018">
+<day>2</day>
+<prettytimes>11:00-12:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Pietzuch, Peter R</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO211 Operating Systems</item></module></resources>
+<eventname>CO211 Operating Systems</eventname></event>
+<event id="1286330" timesort="11001300" colour="FFFFBF" date="07/01/2019">
+<day>2</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Alrajeh, Dalal</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO276 Introduction to Prolog</item></module></resources>
+<eventname>CO276 Introduction to Prolog</eventname></event>
+<event id="1287232" timesort="11001200" colour="BFFFBF" date="21/01/2019 - 18/03/2019">
+<day>2</day>
+<prettytimes>11:00-12:00 Problem Based Learning</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>Problem Based Learning</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AA3 - Intro to Numerical Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nurnberg, Robert</item></staff>
+<room title="Rooms">
+<item>HXLY 145 (Week 25)</item>
+<item>HXLY 340</item>
+<item>HXLY 341 (Weeks 17-24)</item>
+<item>HXLY 342 (Weeks 17-24)</item></room>
+<module title="Module">
+<item>M2AA3 - Intro to Numerical Analysis</item></module></resources>
+<eventname>M2AA3 - Problems Class</eventname></event>
+<event id="1286479" timesort="12001400" colour="FFFFBF" date="18/03/2019">
+<day>2</day>
+<prettytimes>12:00-14:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>14:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Shah, Madasar</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>CO271 Introduction to Human-Centred Design - Lecture 2</eventname></event>
+<event id="1286038" timesort="13001700" colour="FFFFBF" date="01/10/2018">
+<day>2</day>
+<prettytimes>13:00-17:00 Lecture</prettytimes>
+<starttime>13:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1286364" timesort="13001700" colour="FFFFBF" date="07/01/2019">
+<day>2</day>
+<prettytimes>13:00-17:00 Lecture</prettytimes>
+<starttime>13:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Applications of Computing in Industry</item></module></resources>
+<eventname>CO Applications of Computing in Industry</eventname></event>
+<event id="1287258" timesort="14001500" colour="7FFF7F" date="07/01/2019">
+<day>2</day>
+<prettytimes>14:00-15:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item></group>
+<staff title="Staff">
+<item>Staff to be confirmed</item></staff>
+<room title="Rooms">
+<item>HXLY 340</item>
+<item>HXLY 341</item>
+<item>HXLY 342</item>
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Voluntary Test</eventname></event>
+<event id="459845" timesort="14001800" colour="FFFFFF" date="27/05/2019">
+<day>2</day>
+<prettytimes>14:00-18:00 Workshop</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Workshop</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item></group>
+<staff title="Staff">
+<item>Gopalan, Anandha</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Undergraduate Fair</item></module></resources>
+<eventname>CO Undergraduate Fair</eventname></event>
+<event id="1286477" timesort="15001630" colour="FFFFBF" date="18/03/2019">
+<day>2</day>
+<prettytimes>15:00-16:30 Lecture</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:30</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item>
+<item>Shah, Madasar</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>CO271 Industrial Project Pitches</eventname></event>
+<event id="1286478" timesort="16301730" colour="FFBFFF" date="18/03/2019">
+<day>2</day>
+<prettytimes>16:30-17:30 Social Event</prettytimes>
+<starttime>16:30</starttime>
+<endtime>17:30</endtime>
+<category>Social Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Knottenbelt, William J</item>
+<item>Shah, Madasar</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>CO271 Industrial Project Pitches</eventname></event>
+<event id="1286070" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 03/12/2018">
+<day>3</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Cheraghchi, Mahdi</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO202 Software Engineering - Algorithms</item></module></resources>
+<eventname>CO202 Algorithms II</eventname></event>
+<event id="1287254" timesort="09001100" colour="FFFFBF" date="07/01/2019">
+<day>3</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AM - Non-linear Waves (2)</item></group>
+<staff title="Staff">
+<item>Carrillo de la Plata, Jose Antonio</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>M2AM - Non-linear Waves</item></module></resources>
+<eventname>M2AM - Lecture 1</eventname></event>
+<event id="1286322" timesort="09001000" colour="FFFFBF" date="14/01/2019 - 18/02/2019">
+<day>3</day>
+<prettytimes>09:00-10:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Kelly, Paul H J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO221 Compilers</item></module></resources>
+<eventname>CO221 Compilers</eventname></event>
+<event id="457803" timesort="09001800" colour="BFBFDF" date="17/06/2019">
+<day>3</day>
+<prettytimes>09:00-18:00 Presentation</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 144</item>
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>2nd Year Group Projects Presentations</eventname></event>
+<event id="1286323" timesort="10001100" colour="FFFFBF" date="14/01/2019 - 18/02/2019">
+<day>3</day>
+<prettytimes>10:00-11:00 Lecture</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Kelly, Paul H J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO221 Compilers</item></module></resources>
+<eventname>CO221 Compilers</eventname></event>
+<event id="1255686" timesort="11001200" colour="BFFFBF" date="15/10/2018 - 10/12/2018">
+<day>3</day>
+<prettytimes>11:00-12:00 Problem Based Learning</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>Problem Based Learning</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM1 - Real Analysis (2)</item></group>
+<staff title="Staff">
+<item>Lawn, Marie-Amelie</item>
+<item>Mauri, Mirko</item>
+<item>Nicaise, Johannes</item></staff>
+<room title="Rooms">
+<item>HXLY 311 (Week 11)</item>
+<item>HXLY 340</item>
+<item>HXLY 341 (Weeks 3-10)</item>
+<item>HXLY 342 (Weeks 3-10)</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Problems Class</eventname></event>
+<event id="1286331" timesort="11001300" colour="FFFFBF" date="07/01/2019">
+<day>3</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Alrajeh, Dalal</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO276 Introduction to Prolog</item></module></resources>
+<eventname>CO276 Introduction to Prolog</eventname></event>
+<event id="1286362" timesort="11001200" colour="D77FAB" date="14/01/2019 - 18/02/2019">
+<day>3</day>
+<prettytimes>11:00-12:00 Laboratory Session</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Laboratory 2</eventname></event>
+<event id="1286020" timesort="12001300" colour="FFFFBF" date="08/10/2018 - 03/12/2018">
+<day>3</day>
+<prettytimes>12:00-13:00 Lecture</prettytimes>
+<starttime>12:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item></group>
+<staff title="Staff">
+<item>Gardner, Philippa A</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO240 Models of Computation</item></module></resources>
+<eventname>CO240 Models of Computation</eventname></event>
+<event id="1286499" timesort="12001300" colour="D77FAB" date="14/01/2019 - 18/02/2019">
+<day>3</day>
+<prettytimes>12:00-13:00 Laboratory Session</prettytimes>
+<starttime>12:00</starttime>
+<endtime>13:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Laboratory 2</eventname></event>
+<event id="1286023" timesort="13001400" colour="FFFFBF" date="01/10/2018">
+<day>3</day>
+<prettytimes>13:00-14:00 Lecture</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Pintos Introduction</eventname></event>
+<event id="1286036" timesort="13001400" colour="BFBFFF" date="05/11/2018 ... 04/03/2019">
+<day>3</day>
+<prettytimes>13:00-14:00 Seminar</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNYNNYNNNNNNNNYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO iPr0gram (Imperial Programming Lectures)</item></module></resources>
+<eventname>CO iPr0gram (Imperial Programming Lectures)</eventname></event>
+<event id="1387482" timesort="13001400" colour="D77FAB" date="07/01/2019">
+<day>3</day>
+<prettytimes>13:00-14:00 Laboratory Session</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Group">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Alrajeh, Dalal</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO276J Introduction to Prolog (JMC)</item></module></resources>
+<eventname>CO276J Introduction to Prolog (for JMC only)</eventname></event>
+<event id="1286084" timesort="14001600" colour="D77FAB" date="01/10/2018">
+<day>3</day>
+<prettytimes>14:00-16:00 Laboratory Session</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Laboratory 2 - Pintos Lab</eventname></event>
+<event id="1286025" timesort="14001600" colour="D77FAB" date="08/10/2018 - 19/11/2018">
+<day>3</day>
+<prettytimes>14:00-16:00 Laboratory Session</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Laboratory 2</eventname></event>
+<event id="1287226" timesort="14001600" colour="FFFFBF" date="07/01/2019 - 11/03/2019">
+<day>3</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2S2 - Stats Modelling I (2)</item></group>
+<staff title="Staff">
+<item>Calderhead, Ben</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2S2 - Statistical Modelling I (2)</item></module></resources>
+<eventname>M2S2 - Lecture 1</eventname></event>
+<event id="1286329" timesort="14001600" colour="D77FAB" date="07/01/2019">
+<day>3</day>
+<prettytimes>14:00-16:00 Laboratory Session</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Alrajeh, Dalal</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO276 Introduction to Prolog</item></module></resources>
+<eventname>CO276 Introduction to Prolog</eventname></event>
+<event id="1287220" timesort="14001600" colour="FFFFBF" date="14/01/2019 - 11/03/2019">
+<day>3</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AM - Non-linear Waves (2)</item></group>
+<staff title="Staff">
+<item>Carrillo de la Plata, Jose Antonio</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>M2AM - Non-linear Waves</item></module></resources>
+<eventname>M2AM - Lecture 1</eventname></event>
+<event id="457953" timesort="14001600" colour="FFFFBF" date="27/05/2019">
+<day>3</day>
+<prettytimes>14:00-16:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Ham, David A</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO273 An Introduction to Law for Computer Scientists</item></module></resources>
+<eventname>CO273 Principles of Copyright in Software</eventname></event>
+<event id="1255679" timesort="16001700" colour="FFFFBF" date="01/10/2018 - 10/12/2018">
+<day>3</day>
+<prettytimes>16:00-17:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks>Autumn Term</prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYYYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AA2 - Multivariable Calculus (2)</item></group>
+<staff title="Staff">
+<item>Walton, Andrew G</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2AA2 - Multivariable Calculus</item></module></resources>
+<eventname>M2AA2 Lecture 2</eventname></event>
+<event id="1287230" timesort="16001700" colour="FFFFBF" date="07/01/2019 - 11/03/2019">
+<day>3</day>
+<prettytimes>16:00-17:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AA3 - Intro to Numerical Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nurnberg, Robert</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2AA3 - Intro to Numerical Analysis</item></module></resources>
+<eventname>M2AA3 - Lecture 2</eventname></event>
+<event id="1255685" timesort="17001800" colour="FFFFBF" date="08/10/2018 - 10/12/2018">
+<day>3</day>
+<prettytimes>17:00-18:00 Lecture</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM1 - Real Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nicaise, Johannes</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2PM1 - Real Analysis</item></module></resources>
+<eventname>M2PM1 Lecture 3</eventname></event>
+<event id="1314764" timesort="09001100" colour="FFFFBF" date="08/10/2018 - 03/12/2018">
+<day>4</day>
+<prettytimes>09:00-11:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Group">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Stenning, David C</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>M2SJ - Statistics for JMC</item></module></resources>
+<eventname>M2SJ Statistical Methods</eventname></event>
+<event id="1286324" timesort="09001000" colour="FFFFBF" date="14/01/2019 - 18/02/2019">
+<day>4</day>
+<prettytimes>09:00-10:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Kelly, Paul H J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO221 Compilers</item></module></resources>
+<eventname>CO221 Compilers</eventname></event>
+<event id="632813" timesort="09001800" colour="BFBFDF" date="20/05/2019">
+<day>4</day>
+<prettytimes>09:00-18:00 Presentation</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>WebApps Milestone Review</eventname></event>
+<event id="856592" timesort="09001400" colour="BFBFDF" date="27/05/2019 - 10/06/2019">
+<day>4</day>
+<prettytimes>09:00-14:00 Presentation</prettytimes>
+<starttime>09:00</starttime>
+<endtime>14:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item>
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>WebApps Milestone Review</eventname></event>
+<event id="1287235" timesort="10001100" colour="BFFFBF" date="21/01/2019 - 18/03/2019">
+<day>4</day>
+<prettytimes>10:00-11:00 Problem Based Learning</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>Problem Based Learning</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM3 - Complex Analysis (2)</item></group>
+<staff title="Staff">
+<item>Laptev, Ari</item></staff>
+<room title="Rooms">
+<item>HXLY 213 - Clore Lecture Theatre (Week 25)</item>
+<item>HXLY 340</item>
+<item>HXLY 341 (Weeks 17-24)</item>
+<item>HXLY 342 (Weeks 17-24)</item></room>
+<module title="Module">
+<item>M2PM3 - Complex Analysis</item></module></resources>
+<eventname>M2PM3 - Problems Class</eventname></event>
+<event id="1286480" timesort="10001700" colour="FFFFFF" date="18/03/2019">
+<day>4</day>
+<prettytimes>10:00-17:00 Workshop</prettytimes>
+<starttime>10:00</starttime>
+<endtime>17:00</endtime>
+<category>Workshop</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Shah, Madasar</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>CO271 Introduction to Human-Centred Design - Workshop</eventname></event>
+<event id="1286039" timesort="11001300" colour="D77FAB" date="08/10/2018 - 19/11/2018">
+<day>4</day>
+<prettytimes>11:00-13:00 Laboratory Session</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO261 Laboratory 2</item></module></resources>
+<eventname>CO261 Laboratory 2</eventname></event>
+<event id="1286333" timesort="11001300" colour="FFFFBF" date="07/01/2019">
+<day>4</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Alrajeh, Dalal</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO276 Introduction to Prolog</item></module></resources>
+<eventname>CO276 Introduction to Prolog</eventname></event>
+<event id="1286326" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 11/03/2019">
+<day>4</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-MSc in Computer Science (5)</item></group>
+<staff title="Staff">
+<item>Russo, Alessandra M</item>
+<item>Toni, Francesca</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO231 Introduction to Model-Based AI</item></module></resources>
+<eventname>CO231 Introduction to Model-Based AI - Lecture</eventname></event>
+<event id="1286184" timesort="13001400" colour="FF7FFF" date="08/10/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (CVs &amp; Cover Letters)</eventname></event>
+<event id="1381445" timesort="13001400" colour="FF7FFF" date="15/10/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Application Forms - How To Ace Them)</eventname></event>
+<event id="1381570" timesort="13001400" colour="BFBFFF" date="22/10/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Seminar</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Seminar</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item></group>
+<staff title="Staff">
+<item>Field, Anthony J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Mindful Learning and Resilience Skills</item></module></resources>
+<eventname>Mindful Learning and Resilience Skills Training</eventname></event>
+<event id="1381563" timesort="13001400" colour="FF7FFF" date="29/10/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Finding Internships, Insight Weeks, Projects and Vacation Opportunities)</eventname></event>
+<event id="1381744" timesort="13001400" colour="FF7FFF" date="05/11/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Psychometric Tests &amp; Assessment Centres)</eventname></event>
+<event id="1381755" timesort="13001400" colour="FF7FFF" date="12/11/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Interviews – The Guide To Success)</eventname></event>
+<event id="1381780" timesort="13001400" colour="FF7FFF" date="19/11/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (Postgraduate Study – Options &amp; Applications)</eventname></event>
+<event id="1381782" timesort="13001400" colour="FF7FFF" date="26/11/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (LinkedIn – Leverage The Power Of Social Media)</eventname></event>
+<event id="1387528" timesort="13001400" colour="D77FAB" date="07/01/2019">
+<day>4</day>
+<prettytimes>13:00-14:00 Laboratory Session</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Group">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Alrajeh, Dalal</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO276J Introduction to Prolog (JMC)</item></module></resources>
+<eventname>CO276J Introduction to Prolog (for JMC only)</eventname></event>
+<event id="1380884" timesort="13001400" colour="FF7FFF" date="14/01/2019 - 11/03/2019">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computer Science (5)</item>
+<item>CO-MSc in Computing (Specialism)</item></group>
+<staff title="Staff">
+<item>Carruthers, Richard J</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Careers Talk</item></module></resources>
+<eventname>CO Careers Talk (details TBC)</eventname></event>
+<event id="1255680" timesort="14001500" colour="FFFFBF" date="01/10/2018 - 03/12/2018">
+<day>4</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AA2 - Multivariable Calculus (2)</item></group>
+<staff title="Staff">
+<item>Walton, Andrew G</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2AA2 - Multivariable Calculus</item></module></resources>
+<eventname>M2AA2 Lecture 3</eventname></event>
+<event id="1287233" timesort="14001500" colour="FFFFBF" date="07/01/2019 - 11/03/2019">
+<day>4</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2PM3 - Complex Analysis (2)</item></group>
+<staff title="Staff">
+<item>Laptev, Ari</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2PM3 - Complex Analysis</item></module></resources>
+<eventname>M2PM3 - Lecture 2</eventname></event>
+<event id="1286370" timesort="14001600" colour="D77FAB" date="07/01/2019">
+<day>4</day>
+<prettytimes>14:00-16:00 Laboratory Session</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Alrajeh, Dalal</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO276 Introduction to Prolog</item></module></resources>
+<eventname>CO276 Introduction to Prolog</eventname></event>
+<event id="856606" timesort="14001800" colour="BFBFDF" date="27/05/2019 - 10/06/2019">
+<day>4</day>
+<prettytimes>14:00-18:00 Presentation</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Presentation</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO271 2nd Year Computing Group Project</item></module></resources>
+<eventname>WebApps Milestone Review</eventname></event>
+<event id="1054297" timesort="14001500" colour="FFFFBF" date="17/06/2019">
+<day>4</day>
+<prettytimes>14:00-15:00 Lecture</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Gopalan, Anandha</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Year 2 Preparation for Year 3</item></module></resources>
+<eventname>CO Year 2 Preparation for Year 3</eventname></event>
+<event id="1286018" timesort="15001600" colour="FFFFBF" date="08/10/2018 - 03/12/2018">
+<day>4</day>
+<prettytimes>15:00-16:00 Lecture</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Chatley, Robert B</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO220 Software Engineering Design</item></module></resources>
+<eventname>CO220 Software Engineering Design</eventname></event>
+<event id="1287231" timesort="15001600" colour="FFFFBF" date="07/01/2019 - 11/03/2019">
+<day>4</day>
+<prettytimes>15:00-16:00 Lecture</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AA3 - Intro to Numerical Analysis (2)</item></group>
+<staff title="Staff">
+<item>Nurnberg, Robert</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2AA3 - Intro to Numerical Analysis</item></module></resources>
+<eventname>M2AA3 - Lecture 3</eventname></event>
+<event id="1054299" timesort="15001600" colour="9FBFBF" date="17/06/2019">
+<day>4</day>
+<prettytimes>15:00-16:00 Meeting</prettytimes>
+<starttime>15:00</starttime>
+<endtime>16:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Field, Anthony J</item>
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Year 2 Town Hall Meeting</item></module></resources>
+<eventname>CO Year 2 Town Hall Meeting</eventname></event>
+<event id="1286227" timesort="16001700" colour="FF7FBF" date="08/10/2018">
+<day>4</day>
+<prettytimes>16:00-17:00 For Information Only</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 1 (1)</item>
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 1</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MEng Computing Year 4 (4)</item>
+<item>CO-MEng/MSci Joint Maths &amp; Computing Year 4</item></group>
+<staff title="Staff">
+<item>-</item></staff>
+<room title="Room">
+<item>Non-Standard Room (see event details)</item></room>
+<module title="Module">
+<item>CO Horizons Year-in-Europe Language Classes</item></module></resources>
+<eventname>(OPTIONAL) Year-in-Europe Introduction (Sherfield 303A) - For Info</eventname></event>
+<event id="1286072" timesort="16001800" colour="FFFFBF" date="15/10/2018 - 03/12/2018">
+<day>4</day>
+<prettytimes>16:00-18:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Pietzuch, Peter R</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO211 Operating Systems</item></module></resources>
+<eventname>CO211 Operating Systems</eventname></event>
+<event id="1255880" timesort="16001700" colour="FFFFBF" date="10/12/2018">
+<day>4</day>
+<prettytimes>16:00-17:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item></group>
+<staff title="Staff">
+<item>Walton, Andrew G</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2AA2 - Multivariable Calculus</item></module></resources>
+<eventname>M2AA2 Lecture 3</eventname></event>
+<event id="1287228" timesort="16001700" colour="FFFFBF" date="07/01/2019 - 11/03/2019">
+<day>4</day>
+<prettytimes>16:00-17:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2AM - Non-linear Waves (2)</item></group>
+<staff title="Staff">
+<item>Carrillo de la Plata, Jose Antonio</item></staff>
+<room title="Rooms">
+<item>HXLY 144 (Week 15)</item>
+<item>HXLY 145 (Weeks 16-24)</item></room>
+<module title="Module">
+<item>M2AM - Non-linear Waves</item></module></resources>
+<eventname>M2AM - Lecture 2</eventname></event>
+<event id="1287225" timesort="16001700" colour="FFFFBF" date="07/01/2019 - 11/03/2019">
+<day>4</day>
+<prettytimes>16:00-17:00 Lecture</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item>
+<item>M2 - Maths Year 2 (2)</item>
+<item>M2S2 - Stats Modelling I (2)</item></group>
+<staff title="Staff">
+<item>Calderhead, Ben</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M2S2 - Statistical Modelling I (2)</item></module></resources>
+<eventname>M2S2 - Lecture 2</eventname></event>
+<event id="1054301" timesort="16001700" colour="FFBFFF" date="17/06/2019">
+<day>4</day>
+<prettytimes>16:00-17:00 Social Event</prettytimes>
+<starttime>16:00</starttime>
+<endtime>17:00</endtime>
+<category>Social Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO-BEng/MEng Computing Year 2 (2)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 2</item></group>
+<staff title="Staff">
+<item>Wheelhouse, Mark J</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Year 2 End of Term Social</item></module></resources>
+<eventname>CO Year 2 End of Year Social</eventname></event></timetable>

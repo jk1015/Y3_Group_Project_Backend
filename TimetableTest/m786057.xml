@@ -1,0 +1,1386 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m786057.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - CO Timetabling</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1286253" timesort="09001800" colour="7F7FBF" date="01/10/2018">
+<day>0</day>
+<prettytimes>09:00-18:00 Registration</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Registration</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Saha, Rituparna</item></staff>
+<room title="Room">
+<item>HXLY 140</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder - Right to Work</eventname></event>
+<event id="790400" timesort="09001300" colour="DFDFDF" date="20/05/2019 ... 24/06/2019">
+<day>0</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNYNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790845" timesort="09001300" colour="DFDFDF" date="20/05/2019 ... 24/06/2019">
+<day>0</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNYNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790914" timesort="09001300" colour="DFDFDF" date="20/05/2019 ... 24/06/2019">
+<day>0</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNYNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791208" timesort="09001300" colour="DFDFDF" date="03/06/2019 - 10/06/2019">
+<day>0</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="800755" timesort="09001000" colour="DFDFDF" date="10/06/2019">
+<day>0</day>
+<prettytimes>09:00-10:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="800760" timesort="09001000" colour="DFDFDF" date="10/06/2019">
+<day>0</day>
+<prettytimes>09:00-10:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="800770" timesort="09001000" colour="DFDFDF" date="10/06/2019">
+<day>0</day>
+<prettytimes>09:00-10:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791136" timesort="09001300" colour="DFDFDF" date="17/06/2019">
+<day>0</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1286265" timesort="14001500" colour="D77FAB" date="01/10/2018">
+<day>0</day>
+<prettytimes>14:00-15:00 Laboratory Session</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:00</endtime>
+<category>Laboratory Session</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Perkonigg, Fidelis</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO550 Lab Support</eventname></event>
+<event id="791218" timesort="14001800" colour="DFDFDF" date="03/06/2019 - 10/06/2019">
+<day>0</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790442" timesort="14001800" colour="DFDFDF" date="17/06/2019 - 24/06/2019">
+<day>0</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790898" timesort="14001800" colour="DFDFDF" date="17/06/2019 - 24/06/2019">
+<day>0</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790955" timesort="14001800" colour="DFDFDF" date="17/06/2019 - 24/06/2019">
+<day>0</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1286497" timesort="16001800" colour="FF7FBF" date="14/01/2019 - 11/03/2019">
+<day>0</day>
+<prettytimes>16:00-18:00 For Information Only</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder for Horizons</eventname></event>
+<event id="1333364" timesort="16001800" colour="FF7FBF" date="14/01/2019 - 11/03/2019">
+<day>0</day>
+<prettytimes>16:00-18:00 For Information Only</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 140</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder for Horizons</eventname></event>
+<event id="790405" timesort="17001800" colour="DFDFDF" date="20/05/2019 ... 10/06/2019">
+<day>0</day>
+<prettytimes>17:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790875" timesort="17001800" colour="DFDFDF" date="20/05/2019 ... 10/06/2019">
+<day>0</day>
+<prettytimes>17:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790925" timesort="17001800" colour="DFDFDF" date="20/05/2019 ... 10/06/2019">
+<day>0</day>
+<prettytimes>17:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1354744" timesort="09001400" colour="7F7FBF" date="01/10/2018">
+<day>1</day>
+<prettytimes>09:00-14:00 Registration</prettytimes>
+<starttime>09:00</starttime>
+<endtime>14:00</endtime>
+<category>Registration</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Saha, Rituparna</item></staff>
+<room title="Room">
+<item>HXLY 140</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder - Right to Work</eventname></event>
+<event id="790408" timesort="09001300" colour="DFDFDF" date="20/05/2019 - 24/06/2019">
+<day>1</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790851" timesort="09001300" colour="DFDFDF" date="20/05/2019 - 24/06/2019">
+<day>1</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790918" timesort="09001300" colour="DFDFDF" date="20/05/2019 - 24/06/2019">
+<day>1</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791188" timesort="09001000" colour="DFDFDF" date="27/05/2019">
+<day>1</day>
+<prettytimes>09:00-10:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791212" timesort="09001300" colour="DFDFDF" date="03/06/2019 - 10/06/2019">
+<day>1</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791109" timesort="09001300" colour="DFDFDF" date="10/06/2019 - 17/06/2019">
+<day>1</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1469960" timesort="12001400" colour="FF7FBF" date="11/02/2019">
+<day>1</day>
+<prettytimes>12:00-14:00 For Information Only</prettytimes>
+<starttime>12:00</starttime>
+<endtime>14:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Option for ACI talk</eventname></event>
+<event id="790881" timesort="14001800" colour="DFDFDF" date="20/05/2019 ... 24/06/2019">
+<day>1</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNYYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790412" timesort="14001800" colour="DFDFDF" date="20/05/2019 ... 24/06/2019">
+<day>1</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790928" timesort="14001800" colour="DFDFDF" date="20/05/2019 ... 24/06/2019">
+<day>1</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791090" timesort="14001800" colour="DFDFDF" date="27/05/2019 - 17/06/2019">
+<day>1</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791191" timesort="14001800" colour="DFDFDF" date="03/06/2019 - 10/06/2019">
+<day>1</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1286483" timesort="16001800" colour="FF7FBF" date="14/01/2019 - 11/03/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 For Information Only</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder</eventname></event>
+<event id="1388061" timesort="16001800" colour="FF7FBF" date="14/01/2019 - 11/03/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 For Information Only</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 140</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder for Horizons</eventname></event>
+<event id="790432" timesort="16001800" colour="DFDFDF" date="27/05/2019 - 03/06/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790894" timesort="16001800" colour="DFDFDF" date="27/05/2019 - 03/06/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790940" timesort="16001800" colour="DFDFDF" date="27/05/2019 - 03/06/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1286482" timesort="17001800" colour="FF7FBF" date="14/01/2019 - 11/03/2019">
+<day>1</day>
+<prettytimes>17:00-18:00 For Information Only</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder</eventname></event>
+<event id="790435" timesort="09001000" colour="DFDFDF" date="27/05/2019">
+<day>2</day>
+<prettytimes>09:00-10:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790892" timesort="09001000" colour="DFDFDF" date="27/05/2019">
+<day>2</day>
+<prettytimes>09:00-10:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790943" timesort="09001000" colour="DFDFDF" date="27/05/2019">
+<day>2</day>
+<prettytimes>09:00-10:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791204" timesort="09001300" colour="DFDFDF" date="27/05/2019">
+<day>2</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790438" timesort="09001300" colour="DFDFDF" date="03/06/2019 - 17/06/2019">
+<day>2</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790950" timesort="09001300" colour="DFDFDF" date="03/06/2019 - 17/06/2019">
+<day>2</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790896" timesort="09001300" colour="DFDFDF" date="03/06/2019 - 10/06/2019">
+<day>2</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="878058" timesort="09001700" colour="DFDFDF" date="03/06/2019">
+<day>2</day>
+<prettytimes>09:00-17:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>17:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Saha, Rituparna</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791194" timesort="09001300" colour="DFDFDF" date="10/06/2019">
+<day>2</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="791096" timesort="09001200" colour="DFDFDF" date="17/06/2019">
+<day>2</day>
+<prettytimes>09:00-12:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>12:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790902" timesort="09001300" colour="DFDFDF" date="17/06/2019">
+<day>2</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1416204" timesort="14001600" colour="F7FFFF" date="08/10/2018 ... 19/11/2018">
+<day>2</day>
+<prettytimes>14:00-16:00 Resource Non-Availability (Not Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Resource Non-Availability (Not Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO Machine Learning Seminar [tbc]</eventname></event>
+<event id="1426066" timesort="14001600" colour="F7FFFF" date="14/01/2019 - 11/03/2019">
+<day>2</day>
+<prettytimes>14:00-16:00 Resource Non-Availability (Not Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Resource Non-Availability (Not Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO Machine Learning Seminar TBC</eventname></event>
+<event id="1286240" timesort="09001000" colour="FF7FBF" date="08/10/2018 - 03/12/2018">
+<day>3</day>
+<prettytimes>09:00-10:00 For Information Only</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder</eventname></event>
+<event id="1319484" timesort="09001100" colour="FF7FBF" date="29/10/2018 - 03/12/2018">
+<day>3</day>
+<prettytimes>09:00-11:00 For Information Only</prettytimes>
+<starttime>09:00</starttime>
+<endtime>11:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Placeholder [move for 406H?]</eventname></event>
+<event id="790416" timesort="09001300" colour="DFDFDF" date="20/05/2019 - 17/06/2019">
+<day>3</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790859" timesort="09001300" colour="DFDFDF" date="20/05/2019 - 17/06/2019">
+<day>3</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790922" timesort="09001300" colour="DFDFDF" date="20/05/2019 - 17/06/2019">
+<day>3</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1286241" timesort="10001100" colour="FF7FBF" date="08/10/2018 - 03/12/2018">
+<day>3</day>
+<prettytimes>10:00-11:00 For Information Only</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 130</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder</eventname></event>
+<event id="1286212" timesort="11001200" colour="FF7FBF" date="08/10/2018 - 03/12/2018">
+<day>3</day>
+<prettytimes>11:00-12:00 For Information Only</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Damian's place holder</eventname></event>
+<event id="1365924" timesort="13001400" colour="FF7FBF" date="22/10/2018 ... 12/11/2018">
+<day>3</day>
+<prettytimes>13:00-14:00 For Information Only</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNYYNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Provisional for CO iPr0gram</eventname></event>
+<event id="1291096" timesort="13001400" colour="FF7FBF" date="19/11/2018">
+<day>3</day>
+<prettytimes>13:00-14:00 For Information Only</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO iPr0gram - provisional</eventname></event>
+<event id="790446" timesort="14001800" colour="DFDFDF" date="17/06/2019">
+<day>3</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790905" timesort="14001800" colour="DFDFDF" date="17/06/2019">
+<day>3</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790971" timesort="14001800" colour="DFDFDF" date="17/06/2019">
+<day>3</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1286242" timesort="16001800" colour="FF7FBF" date="08/10/2018 ... 03/12/2018">
+<day>3</day>
+<prettytimes>16:00-18:00 For Information Only</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNYYYYYYNYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO placeholder</eventname></event>
+<event id="790424" timesort="16001800" colour="DFDFDF" date="20/05/2019 - 10/06/2019">
+<day>3</day>
+<prettytimes>16:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790887" timesort="16001800" colour="DFDFDF" date="20/05/2019 - 10/06/2019">
+<day>3</day>
+<prettytimes>16:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790936" timesort="16001800" colour="DFDFDF" date="20/05/2019 - 10/06/2019">
+<day>3</day>
+<prettytimes>16:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1286332" timesort="17001800" colour="D6AEFF" date="07/01/2019">
+<day>3</day>
+<prettytimes>17:00-18:00 Class</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Overspill for CO276 Introduction to Prolog</eventname></event>
+<event id="791103" timesort="09001800" colour="DFDFDF" date="10/06/2019 - 17/06/2019">
+<day>4</day>
+<prettytimes>09:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790365" timesort="09001300" colour="DFDFDF" date="17/06/2019 - 24/06/2019">
+<day>4</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790958" timesort="09001300" colour="DFDFDF" date="17/06/2019 - 24/06/2019">
+<day>4</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790448" timesort="09001300" colour="DFDFDF" date="17/06/2019">
+<day>4</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790908" timesort="09001300" colour="DFDFDF" date="17/06/2019">
+<day>4</day>
+<prettytimes>09:00-13:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="862093" timesort="09001800" colour="DFDFDF" date="24/06/2019">
+<day>4</day>
+<prettytimes>09:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1344784" timesort="10001100" colour="FF7FBF" date="14/01/2019 - 11/03/2019">
+<day>4</day>
+<prettytimes>10:00-11:00 For Information Only</prettytimes>
+<starttime>10:00</starttime>
+<endtime>11:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Placeholder for 233 or 245</eventname></event>
+<event id="1381822" timesort="13001400" colour="FF7FFF" date="03/12/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Careers Event</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Careers Event</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO Careers Talk (backup slot)</eventname></event>
+<event id="1286194" timesort="14001700" colour="7FFF7F" date="12/11/2018">
+<day>4</day>
+<prettytimes>14:00-17:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>17:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO Lexis Test (Java Competency)</eventname></event>
+<event id="790367" timesort="14001800" colour="DFDFDF" date="17/06/2019 - 24/06/2019">
+<day>4</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790963" timesort="14001800" colour="DFDFDF" date="17/06/2019 - 24/06/2019">
+<day>4</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790451" timesort="14001800" colour="DFDFDF" date="17/06/2019">
+<day>4</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 202</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="790910" timesort="14001800" colour="DFDFDF" date="17/06/2019">
+<day>4</day>
+<prettytimes>14:00-18:00 Room Non-Availability (Published)</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Room Non-Availability (Published)</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Course/room placeholder</eventname></event>
+<event id="1394608" timesort="17001800" colour="FF7FBF" date="29/10/2018 - 05/11/2018">
+<day>4</day>
+<prettytimes>17:00-18:00 For Information Only</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNYYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO191 Advanced Programming option</eventname></event>
+<event id="1387532" timesort="17001800" colour="D6AEFF" date="07/01/2019">
+<day>4</day>
+<prettytimes>17:00-18:00 Class</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 311</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>Overspill for CO276 Introduction to Prolog</eventname></event>
+<event id="1328624" timesort="17001800" colour="FF7FBF" date="14/01/2019 - 11/03/2019">
+<day>4</day>
+<prettytimes>17:00-18:00 For Information Only</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:00</endtime>
+<category>For Information Only</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 139</item></room>
+<module title="Module">
+<item>CO Timetabling</item></module></resources>
+<eventname>CO Placeholder 233/245</eventname></event></timetable>

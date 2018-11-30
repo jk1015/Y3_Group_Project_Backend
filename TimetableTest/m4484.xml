@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m4484.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - CO347 Distributed Algorithms</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1286440" timesort="16001800" colour="D6AEFF" date="14/01/2019 - 04/03/2019">
+<day>1</day>
+<prettytimes>16:00-18:00 Class</prettytimes>
+<starttime>16:00</starttime>
+<endtime>18:00</endtime>
+<category>Class</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO347-a5 (MSc)</item>
+<item>CO347-c3 (3)</item>
+<item>CO347-j3 (3)</item>
+<item>CO347-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C347DA (3)</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Gopalan, Anandha</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 340</item></room>
+<module title="Module">
+<item>CO347 Distributed Algorithms</item></module></resources>
+<eventname>CO347 Distributed Algorithms</eventname></event>
+<event id="1286404" timesort="11001300" colour="FFFFBF" date="14/01/2019 - 04/03/2019">
+<day>4</day>
+<prettytimes>11:00-13:00 Lecture</prettytimes>
+<starttime>11:00</starttime>
+<endtime>13:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Groups">
+<item>CO347-a5 (MSc)</item>
+<item>CO347-c3 (3)</item>
+<item>CO347-j3 (3)</item>
+<item>CO347-s5 (MSc)</item>
+<item>CO-BEng/MEng Computing Year 3 (3)</item>
+<item>CO-BEng/MEng Joint Maths &amp; Computing Year 3</item>
+<item>CO-MSc in Advanced Computing (5)</item>
+<item>CO-MSc in Computing (Specialism)</item>
+<item>EE-EIE3 - C347DA (3)</item></group>
+<staff title="Staff">
+<item>Dulay, Naranker</item>
+<item>Gopalan, Anandha</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO347 Distributed Algorithms</item></module></resources>
+<eventname>CO347 Distributed Algorithms</eventname></event></timetable>

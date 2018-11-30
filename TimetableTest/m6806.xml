@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m6806.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - M1R - First Year Project</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1326035" timesort="08002359" colour="B49980" date="03/06/2019 - 10/06/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Project Work</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Project Work</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Haines, Helen C</item></staff>
+<room title="Rooms">
+<item>HXLY 340</item>
+<item>HXLY 341</item>
+<item>HXLY 342</item>
+<item>HXLY 408</item>
+<item>HXLY 410</item></room>
+<module title="Module">
+<item>M1R - First Year Project (1)</item></module></resources>
+<eventname>M1R 1st Year Projects</eventname></event>
+<event id="1325852" timesort="08002359" colour="B49980" date="03/06/2019 - 10/06/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Project Work</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Project Work</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Haines, Helen C</item></staff>
+<room title="Rooms">
+<item>HXLY 340</item>
+<item>HXLY 341</item>
+<item>HXLY 342</item>
+<item>HXLY 408</item>
+<item>HXLY 410</item></room>
+<module title="Module">
+<item>M1R - First Year Project (1)</item></module></resources>
+<eventname>M1R 1st Year Projects</eventname></event>
+<event id="1326004" timesort="09001800" colour="FFFFBF" date="27/05/2019">
+<day>1</day>
+<prettytimes>09:00-18:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Haines, Helen C</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Modules">
+<item>M1R - First Year Project (1)</item>
+<item>M2R - Second Year Project (2)</item></module></resources>
+<eventname>Pending M1R Presentation Lecture and M2R Lecture</eventname></event>
+<event id="1325855" timesort="08002359" colour="B49980" date="03/06/2019 - 10/06/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Project Work</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Project Work</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Haines, Helen C</item></staff>
+<room title="Rooms">
+<item>HXLY 340</item>
+<item>HXLY 341</item>
+<item>HXLY 342</item>
+<item>HXLY 408</item>
+<item>HXLY 410</item></room>
+<module title="Module">
+<item>M1R - First Year Project (1)</item></module></resources>
+<eventname>M1R 1st Year Projects</eventname></event>
+<event id="1326007" timesort="09001800" colour="FFFFBF" date="27/05/2019">
+<day>2</day>
+<prettytimes>09:00-18:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Haines, Helen C</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M1R - First Year Project (1)</item></module></resources>
+<eventname>Pending M1R Presentation Lecture</eventname></event>
+<event id="1325861" timesort="08002359" colour="B49980" date="03/06/2019 - 17/06/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Project Work</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Project Work</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Haines, Helen C</item></staff>
+<room title="Rooms">
+<item>HXLY 340 (Weeks 36-37)</item>
+<item>HXLY 341</item>
+<item>HXLY 342</item>
+<item>HXLY 408 (Weeks 36-37)</item>
+<item>HXLY 410 (Weeks 36-37)</item></room>
+<module title="Module">
+<item>M1R - First Year Project (1)</item></module></resources>
+<eventname>M1R 1st Year Projects</eventname></event>
+<event id="1326010" timesort="09001800" colour="FFFFBF" date="27/05/2019">
+<day>3</day>
+<prettytimes>09:00-18:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Haines, Helen C</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M1R - First Year Project (1)</item></module></resources>
+<eventname>Pending M1R Presentation Lecture</eventname></event>
+<event id="1325866" timesort="08002359" colour="B49980" date="03/06/2019 - 17/06/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Project Work</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Project Work</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Haines, Helen C</item></staff>
+<room title="Rooms">
+<item>HXLY 340 (Weeks 36-37)</item>
+<item>HXLY 341</item>
+<item>HXLY 342</item>
+<item>HXLY 408 (Weeks 36-37)</item>
+<item>HXLY 410 (Weeks 36-37)</item></room>
+<module title="Module">
+<item>M1R - First Year Project (1)</item></module></resources>
+<eventname>M1R 1st Year Projects</eventname></event>
+<event id="1326013" timesort="09001800" colour="FFFFBF" date="27/05/2019">
+<day>4</day>
+<prettytimes>09:00-18:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Haines, Helen C</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Module">
+<item>M1R - First Year Project (1)</item></module></resources>
+<eventname>Pending M1R Presentation Lecture</eventname></event></timetable>

@@ -1,0 +1,1864 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m121776.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - CO Exams</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="886928" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887030" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887093" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="459784" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exams</eventname></event>
+<event id="1038315" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 341</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exams</eventname></event>
+<event id="887410" timesort="08001400" colour="7FFF7F" date="29/04/2019">
+<day>0</day>
+<prettytimes>08:00-14:00 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>14:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887479" timesort="08001400" colour="7FFF7F" date="29/04/2019">
+<day>0</day>
+<prettytimes>08:00-14:00 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>14:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887514" timesort="08001400" colour="7FFF7F" date="29/04/2019">
+<day>0</day>
+<prettytimes>08:00-14:00 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>14:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887746" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887767" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887811" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1056828" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 341</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1056832" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>0</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="581306" timesort="09001800" colour="7FFF7F" date="03/09/2018">
+<day>0</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1157414" timesort="09001800" colour="7FFF7F" date="10/09/2018">
+<day>0</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1286233" timesort="10001300" colour="7FFF7F" date="10/12/2018">
+<day>0</day>
+<prettytimes>10:00-13:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt;  C382</eventname></event>
+<event id="1286215" timesort="10001300" colour="7FFF7F" date="10/12/2018">
+<day>0</day>
+<prettytimes>10:00-13:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt; C496</eventname></event>
+<event id="1386294" timesort="14001700" colour="7FFF7F" date="10/12/2018">
+<day>0</day>
+<prettytimes>14:00-17:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>17:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>EENG 403A</item>
+<item>EENG 403B</item>
+<item>EENG 406</item>
+<item>EENG 407A</item>
+<item>EENG 407B</item>
+<item>EENG 508</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt; C572 / C484 / C471</eventname></event>
+<event id="1286237" timesort="14001800" colour="7FFF7F" date="10/12/2018">
+<day>0</day>
+<prettytimes>14:00-18:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt;  C572/C484/C471 in EEE</eventname></event>
+<event id="886990" timesort="08001000" colour="FFB096" date="18/03/2019">
+<day>1</day>
+<prettytimes>08:00-10:00 Set up/take down</prettytimes>
+<starttime>08:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="459785" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exams</eventname></event>
+<event id="1038316" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 341</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exams</eventname></event>
+<event id="459829" timesort="08002359" colour="7FFF7F" date="29/04/2019 - 13/05/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1038321" timesort="08002359" colour="7FFF7F" date="29/04/2019 - 13/05/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 341</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887380" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887444" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887491" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887619" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887638" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887649" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887748" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887781" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887814" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>1</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="829421" timesort="09001800" colour="7FFF7F" date="03/09/2018">
+<day>1</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1157416" timesort="09001800" colour="7FFF7F" date="10/09/2018">
+<day>1</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1286234" timesort="10001300" colour="7FFF7F" date="10/12/2018">
+<day>1</day>
+<prettytimes>10:00-13:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt;  C406H; C404H</eventname></event>
+<event id="1381885" timesort="10001300" colour="7FFF7F" date="10/12/2018">
+<day>1</day>
+<prettytimes>10:00-13:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt; C316 &amp; C410</eventname></event>
+<event id="886934" timesort="13452359" colour="7FFF7F" date="18/03/2019">
+<day>1</day>
+<prettytimes>13:45-23:59 Examination</prettytimes>
+<starttime>13:45</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="459786" timesort="08001700" colour="7FFF7F" date="18/03/2019">
+<day>2</day>
+<prettytimes>08:00-17:00 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>17:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exam</eventname></event>
+<event id="1038317" timesort="08001700" colour="7FFF7F" date="18/03/2019">
+<day>2</day>
+<prettytimes>08:00-17:00 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>17:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 341</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exam</eventname></event>
+<event id="886996" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887088" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887118" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="459830" timesort="08002359" colour="7FFF7F" date="29/04/2019 - 13/05/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1038322" timesort="08002359" colour="7FFF7F" date="29/04/2019 - 13/05/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 341</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887387" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887461" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887494" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887627" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887640" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887684" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887756" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887783" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887816" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="755355" timesort="08002359" colour="9FBFBF" date="24/06/2019">
+<day>2</day>
+<prettytimes>08:00-23:59 Meeting</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exam Board Meeting</eventname></event>
+<event id="1157405" timesort="09001800" colour="7FFF7F" date="27/08/2018">
+<day>2</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="829423" timesort="09001800" colour="7FFF7F" date="03/09/2018">
+<day>2</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1384148" timesort="09001330" colour="7FFF7F" date="10/12/2018">
+<day>2</day>
+<prettytimes>09:00-13:30 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:30</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams - special arrangements</eventname></event>
+<event id="1286235" timesort="10001300" colour="7FFF7F" date="10/12/2018">
+<day>2</day>
+<prettytimes>10:00-13:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt;  C445H &amp; EE2-13</eventname></event>
+<event id="1384123" timesort="13301700" colour="7FFF7F" date="10/12/2018">
+<day>2</day>
+<prettytimes>13:30-17:00 Examination</prettytimes>
+<starttime>13:30</starttime>
+<endtime>17:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 642</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams - special arrangements</eventname></event>
+<event id="1383608" timesort="14001800" colour="7FFF7F" date="10/12/2018">
+<day>2</day>
+<prettytimes>14:00-18:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt;  C474/C343 in QTR</eventname></event>
+<event id="1286217" timesort="14001800" colour="7FFF7F" date="10/12/2018">
+<day>2</day>
+<prettytimes>14:00-18:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt; C408</eventname></event>
+<event id="886951" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887064" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887108" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="459787" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exam</eventname></event>
+<event id="1038318" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 341</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exam</eventname></event>
+<event id="459831" timesort="08002359" colour="7FFF7F" date="29/04/2019 - 13/05/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1038323" timesort="08002359" colour="7FFF7F" date="29/04/2019 - 13/05/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 341</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887390" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887465" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887496" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887632" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887642" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887688" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887758" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887789" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887819" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="755358" timesort="08002359" colour="9FBFBF" date="24/06/2019">
+<day>3</day>
+<prettytimes>08:00-23:59 Meeting</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exam Board Meeting</eventname></event>
+<event id="1157410" timesort="09001800" colour="7FFF7F" date="27/08/2018">
+<day>3</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="829425" timesort="09001800" colour="7FFF7F" date="03/09/2018">
+<day>3</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1384097" timesort="09001330" colour="7FFF7F" date="10/12/2018">
+<day>3</day>
+<prettytimes>09:00-13:30 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:30</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 642</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams - special arrangements</eventname></event>
+<event id="1384154" timesort="09001330" colour="7FFF7F" date="10/12/2018">
+<day>3</day>
+<prettytimes>09:00-13:30 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:30</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams - special arrangements</eventname></event>
+<event id="1286236" timesort="10001300" colour="7FFF7F" date="10/12/2018">
+<day>3</day>
+<prettytimes>10:00-13:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt;  C424H</eventname></event>
+<event id="1381875" timesort="10001300" colour="7FFF7F" date="10/12/2018">
+<day>3</day>
+<prettytimes>10:00-13:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt; C349</eventname></event>
+<event id="886962" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887073" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887103" timesort="08002359" colour="7FFF7F" date="18/03/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="459832" timesort="08002359" colour="7FFF7F" date="29/04/2019 - 13/05/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1038324" timesort="08002359" colour="7FFF7F" date="29/04/2019 - 13/05/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 341</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887404" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887469" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887505" timesort="08002359" colour="7FFF7F" date="29/04/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887636" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887644" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887690" timesort="08002359" colour="7FFF7F" date="06/05/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887761" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887796" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="887827" timesort="08002359" colour="7FFF7F" date="13/05/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Examination</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="755359" timesort="08002359" colour="9FBFBF" date="24/06/2019">
+<day>4</day>
+<prettytimes>08:00-23:59 Meeting</prettytimes>
+<starttime>08:00</starttime>
+<endtime>23:59</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exam Board Meeting</eventname></event>
+<event id="1157412" timesort="09001800" colour="7FFF7F" date="27/08/2018">
+<day>4</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="829427" timesort="09001800" colour="7FFF7F" date="03/09/2018">
+<day>4</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams</eventname></event>
+<event id="1384117" timesort="09001330" colour="7FFF7F" date="10/12/2018">
+<day>4</day>
+<prettytimes>09:00-13:30 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:30</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 642</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams - special arrangements</eventname></event>
+<event id="1384130" timesort="09001330" colour="7FFF7F" date="10/12/2018">
+<day>4</day>
+<prettytimes>09:00-13:30 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>13:30</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Room">
+<item>HXLY 658</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams - special arrangements</eventname></event>
+<event id="960306" timesort="09001800" colour="7FFF7F" date="24/06/2019">
+<day>4</day>
+<prettytimes>09:00-18:00 Examination</prettytimes>
+<starttime>09:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNY</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Cerase, Damian S</item></staff>
+<room title="Room">
+<item>HXLY 308</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>Exam Board placeholder</eventname></event>
+<event id="1327248" timesort="10001300" colour="7FFF7F" date="10/12/2018">
+<day>4</day>
+<prettytimes>10:00-13:00 Examination</prettytimes>
+<starttime>10:00</starttime>
+<endtime>13:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt;  C477 &amp; C499H</eventname></event>
+<event id="1294453" timesort="12001600" colour="9FBFBF" date="01/10/2018">
+<day>4</day>
+<prettytimes>12:00-16:00 Meeting</prettytimes>
+<starttime>12:00</starttime>
+<endtime>16:00</endtime>
+<category>Meeting</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Sadri, Fariba</item></staff>
+<room title="Room">
+<item>HXLY 145</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>MSc Final Exam Board</eventname></event>
+<event id="1386351" timesort="14001700" colour="7FFF7F" date="10/12/2018">
+<day>4</day>
+<prettytimes>14:00-17:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>17:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>EENG 403A</item>
+<item>EENG 403B</item>
+<item>EENG 406</item>
+<item>EENG 407A</item>
+<item>EENG 407B</item>
+<item>EENG 508</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt; C333 / C438</eventname></event>
+<event id="1038314" timesort="14001800" colour="7FFF7F" date="10/12/2018">
+<day>4</day>
+<prettytimes>14:00-18:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt; C333/C438 in EEE</eventname></event>
+<event id="1389816" timesort="14001800" colour="7FFF7F" date="10/12/2018">
+<day>4</day>
+<prettytimes>14:00-18:00 Examination</prettytimes>
+<starttime>14:00</starttime>
+<endtime>18:00</endtime>
+<category>Examination</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Exams</item></module></resources>
+<eventname>CO Exams &gt;&gt; placeholder</eventname></event></timetable>

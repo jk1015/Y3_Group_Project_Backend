@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m847910.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - M4M12 -Advanced Topics in Partial Differential Equations</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1287310" timesort="15001700" colour="FFFFBF" date="14/01/2019 - 18/03/2019">
+<day>1</day>
+<prettytimes>15:00-17:00 Lecture</prettytimes>
+<starttime>15:00</starttime>
+<endtime>17:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Group">
+<item>M12 -Advanced Topics in Partial Differential Equations (All)</item></group>
+<staff title="Staff">
+<item>Degond, Pierre A A</item></staff>
+<room title="Room">
+<item>HXLY 144</item></room>
+<module title="Modules">
+<item>M3M12 -Advanced Topics in Partial Differential Equations (3)</item>
+<item>M4M12 -Advanced Topics in Partial Differential Equations (4)</item>
+<item>M5M12 - Advanced Topics in Partial Differential Equations (5)</item></module></resources>
+<eventname>M12 Advanced Topics in Partial Differential Equations Lecture 1</eventname></event>
+<event id="1287311" timesort="09001000" colour="FFFFBF" date="07/01/2019 - 11/03/2019">
+<day>3</day>
+<prettytimes>09:00-10:00 Lecture</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Lecture</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group title="Group">
+<item>M12 -Advanced Topics in Partial Differential Equations (All)</item></group>
+<staff title="Staff">
+<item>Degond, Pierre A A</item></staff>
+<room title="Room">
+<item>HXLY 213 - Clore Lecture Theatre</item></room>
+<module title="Modules">
+<item>M3M12 -Advanced Topics in Partial Differential Equations (3)</item>
+<item>M4M12 -Advanced Topics in Partial Differential Equations (4)</item>
+<item>M5M12 - Advanced Topics in Partial Differential Equations (5)</item></module></resources>
+<eventname>M12 Advanced Topics in Partial Differential Equations Lecture 2</eventname></event></timetable>

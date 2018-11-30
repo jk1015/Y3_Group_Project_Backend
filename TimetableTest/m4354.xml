@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="1" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="m4354.xml" class="xml">Printable HTML version</link>
+<weeks>Weeks</weeks>
+<dates>Dates</dates>
+<week>Week</week>
+<date>Date</date>
+<all>All weeks</all>
+<notes>Notes</notes>
+<id>ID</id>
+<eventname>Event name</eventname>
+<selectwk>Select week</selectwk>
+<day>Day</day>
+<timeevent>Time / Event</timeevent>
+<weekind>Week(s)</weekind>
+<details>Details</details>
+<custom1>Custom 1</custom1>
+<custom2>Panopto</custom2>
+<custom3>Published Notes</custom3>
+<footer>Published 25/10/2018 16:02:39 - Imperial College London<br />Created by 
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Module timetable - CO Events Setup</subheading></option>
+<property />
+<span rawix="1" rawlen="52">
+<description>Weeks P1-39, 02/07/2018 - 24/06/2019</description>
+<title>P1-39</title>
+<alleventweeks>YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY</alleventweeks>
+<day id="0">
+<name>Monday</name></day>
+<day id="1">
+<name>Tuesday</name></day>
+<day id="2">
+<name>Wednesday</name></day>
+<day id="3">
+<name>Thursday</name></day>
+<day id="4">
+<name>Friday</name></day></span>
+<event id="1327182" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>0</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1327289" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>0</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1131543" timesort="09001000" colour="FFB096" date="10/06/2019">
+<day>0</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Lexis Test (C) - setup</eventname></event>
+<event id="1326952" timesort="13001400" colour="FFB096" date="10/12/2018">
+<day>0</day>
+<prettytimes>13:00-14:00 Set up/take down</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Christmas Test - setup</eventname></event>
+<event id="1327301" timesort="13001400" colour="FFB096" date="10/12/2018">
+<day>0</day>
+<prettytimes>13:00-14:00 Set up/take down</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1286468" timesort="13001400" colour="FFB096" date="07/01/2019">
+<day>0</day>
+<prettytimes>13:00-14:00 Set up/take down</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Perkonigg, Fidelis</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Lexis Test (CO551 C++)</eventname></event>
+<event id="1131558" timesort="13001400" colour="FFB096" date="29/04/2019">
+<day>0</day>
+<prettytimes>13:00-14:00 Set up/take down</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Lexis Test (Java) - setup</eventname></event>
+<event id="1381888" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>1</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1383598" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>1</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1286471" timesort="09001000" colour="FFB096" date="18/03/2019">
+<day>1</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Lexis Test (Java Interim)</eventname></event>
+<event id="1286467" timesort="13001400" colour="FFB096" date="07/01/2019">
+<day>1</day>
+<prettytimes>13:00-14:00 Set up/take down</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Kimber, Timothy</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Lexis Test (CO531 Prolog)</eventname></event>
+<event id="1383604" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>2</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1286175" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>2</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Lexis Test (Java Practice)</eventname></event>
+<event id="1286470" timesort="09001000" colour="FFB096" date="07/01/2019">
+<day>2</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Lexis Test (Haskell Final)</eventname></event>
+<event id="1383606" timesort="13001400" colour="FFB096" date="10/12/2018">
+<day>2</day>
+<prettytimes>13:00-14:00 Set up/take down</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1381878" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>3</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1383611" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>3</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1131610" timesort="13001400" colour="FFB096" date="10/12/2018">
+<day>3</day>
+<prettytimes>13:00-14:00 Set up/take down</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Perkonigg, Fidelis</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Lexis Test (CO551) - setup</eventname></event>
+<event id="1131553" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>4</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Gkoutzis, Konstantinos</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Christmas Test (142/145l) - setup</eventname></event>
+<event id="1383616" timesort="09001000" colour="FFB096" date="10/12/2018">
+<day>4</day>
+<prettytimes>09:00-10:00 Set up/take down</prettytimes>
+<starttime>09:00</starttime>
+<endtime>10:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1381881" timesort="13001400" colour="FFB096" date="10/12/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Set up/take down</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 202</item>
+<item>HXLY 206</item>
+<item>HXLY 210</item>
+<item>HXLY 219</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event>
+<event id="1383619" timesort="13001400" colour="FFB096" date="10/12/2018">
+<day>4</day>
+<prettytimes>13:00-14:00 Set up/take down</prettytimes>
+<starttime>13:00</starttime>
+<endtime>14:00</endtime>
+<category>Set up/take down</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<staff title="Staff">
+<item>Phillips, Iain C C</item></staff>
+<room title="Rooms">
+<item>HXLY 341</item>
+<item>HXLY 342</item></room>
+<module title="Module">
+<item>CO Events Setup</item></module></resources>
+<eventname>CO Exams setup</eventname></event></timetable>

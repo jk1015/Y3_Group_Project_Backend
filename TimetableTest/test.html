@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script>
+      var xhttp = new XMLHttpRequest();
+      var modules = {modules: []};
+      var filenames = [];
+      let filesRead = 0;
+      let readAllMode = false;
+
+      xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+              readTimetableData(this);
+          }
+      };
+
+      function openXmlFile(filename) {
+        xhttp.open("GET", filename, true);
+        xhttp.send();
+      }
+
+      function readTimetableData(xml) {
+          var xmlDoc = xml.responseXML;
+          let module = newModule();
+          module.description =
+            xmlDoc.getElementsByTagName("description").length > 0 ?
+            xmlDoc.getElementsByTagName("description")[0].childNodes[0].nodeValue : null;
+          module.subheading =
+            xmlDoc.getElementsByTagName("subheading").length > 0 ?
+            xmlDoc.getElementsByTagName("subheading")[0].childNodes[0].nodeValue : null;
+          let events = xmlDoc.getElementsByTagName("event");
+          module.events = constructEvent(events);
+          //showResult(JSON.stringify(constructEvent(events)));
+          modules.modules.push(module);
+          if (readAllMode) {
+            filesRead++;
+            if (filenames.length <= filesRead) {
+              readAllMode = false;
+              showResult("Finished!");
+            }
+            openXmlFile(filenames[filesRead]);
+          }
+      }
+
+      function constructEvent(events) {
+        let i, event, newEvents = [];
+        for (i = 0; i < events.length; i++) {
+          event = newEvent();
+          event.starttime =
+            events[i].getElementsByTagName("starttime").length > 0 ?
+            events[i].getElementsByTagName("starttime")[0].childNodes[0].nodeValue : null;
+          event.endtime =
+            events[i].getElementsByTagName("endtime").length > 0 ?
+            events[i].getElementsByTagName("endtime")[0].childNodes[0].nodeValue : null;
+          event.day =
+            events[i].getElementsByTagName("day").length > 0 ?
+            parseInt(events[i].getElementsByTagName("day")[0].childNodes[0].nodeValue) + 1 : null;
+          event.rawweeks =
+            events[i].getElementsByTagName("rawweeks").length > 0 ?
+            events[i].getElementsByTagName("rawweeks")[0].childNodes[0].nodeValue : null;
+          event.category =
+            events[i].getElementsByTagName("category").length > 0 ?
+            events[i].getElementsByTagName("category")[0].childNodes[0].nodeValue : null;
+          event.groups =
+            events[i].getElementsByTagName("group").length > 0 ?
+            getTagItems(events[i].getElementsByTagName("group")[0]) : [];
+          event.staff =
+            events[i].getElementsByTagName("staff").length > 0 ?
+            getTagItems(events[i].getElementsByTagName("staff")[0]) : [];
+          event.room =
+            events[i].getElementsByTagName("room").length > 0 ?
+            getTagItems(events[i].getElementsByTagName("room")[0]) : [];
+          event.module =
+            events[i].getElementsByTagName("module").length > 0 ?
+            getTagItems(events[i].getElementsByTagName("module")[0]) : [];
+          newEvents.push(event);
+        }
+        return newEvents;
+      }
+
+      function getTagItems(tag) {
+        let i, items = tag.getElementsByTagName("item");
+        let values = [];
+        for (i = 0; i < items.length; i++) {
+          values.push(items[i].childNodes[0].nodeValue);
+        }
+        return values;
+      }
+
+      function readXML() {
+        let filename = document.getElementById("form").filename.value;
+        showResult(filename);
+        openXmlFile(filename);
+      }
+
+      function showResult(res) {
+        document.getElementById("demo").innerHTML = res;
+      }
+
+      function newModule() {
+        var module = {
+          subheading: null,
+          description: null,
+          events: []
+        };
+        return module;
+      }
+
+      function newEvent() {
+        let event = {
+          starttime: null,
+          endtime: null,
+          day: null,
+          rawweeks: null,
+          category: null,
+          groups: [],
+          staff: [],
+          room: [],
+          module: []
+        };
+        return event;
+      }
+
+      function showModules() {
+        showResult("Total modules: " + modules.modules.length + "<br>" +
+          JSON.stringify(modules));
+      }
+
+      function readTextFile(file) {
+        var rawFile = new XMLHttpRequest();
+        rawFile.open("GET", file, true);
+        rawFile.onreadystatechange = function ()
+        {
+          if(rawFile.readyState === 4) {
+            if(rawFile.status === 200 || rawFile.status == 0) {
+              var allText = rawFile.responseText;
+              allText = replaceAll(allText, "\n", " ");
+              let i, res = allText.split(" ");
+              for (i = 0; i < res.length; i++) {
+                if (res[i] !== "") {
+                  filenames.push(res[i]);
+                }
+              }
+              showFilenames();
+            }
+          }
+        }
+        rawFile.send(null);
+
+      }
+
+      function showFilenames() {
+        let res = "";
+        for (i = 0; i < filenames.length; i++) {
+          res = res + i + ") " + filenames[i] + "<br>";
+        }
+        showResult(res);
+      }
+
+      function replaceAll(text, searchWord, newWord) {
+        while (text.search(searchWord) >= 0) {
+          text = text.replace(searchWord, newWord);
+        }
+        return text;
+      }
+
+      function readAllFiles() {
+        clean();
+        filesRead = 0;
+        readAllMode = true;
+        showResult("Processing...");
+        openXmlFile(filenames[0]);
+      }
+
+      function clean() {
+        modules = {modules: []};
+      }
+
+    </script>
+    <form id="form">
+      <input type="text" name="filename">
+    </form>
+    <button onclick="readXML()">Read</button>
+    <button onclick="readTextFile('filenames.txt')">Get All Files</button>
+    <button onclick="readAllFiles()">Read All Files</button>
+    <button onclick="showModules()">Show All Modules</button>
+    <button onclick="clean()">Clean</button>
+    <p id="demo"></p>
+  </body>
+</html>
