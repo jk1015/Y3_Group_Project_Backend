@@ -22,9 +22,9 @@
       function readTimetableData(xml) {
           var xmlDoc = xml.responseXML;
           let module = newModule();
-          module.description =
-            xmlDoc.getElementsByTagName("description").length > 0 ?
-            xmlDoc.getElementsByTagName("description")[0].childNodes[0].nodeValue : null;
+          // module.description =
+          //   xmlDoc.getElementsByTagName("description").length > 0 ?
+          //   xmlDoc.getElementsByTagName("description")[0].childNodes[0].nodeValue : null;
           module.subheading =
             xmlDoc.getElementsByTagName("subheading").length > 0 ?
             xmlDoc.getElementsByTagName("subheading")[0].childNodes[0].nodeValue : null;
@@ -58,21 +58,21 @@
           event.rawweeks =
             events[i].getElementsByTagName("rawweeks").length > 0 ?
             events[i].getElementsByTagName("rawweeks")[0].childNodes[0].nodeValue : null;
-          event.category =
-            events[i].getElementsByTagName("category").length > 0 ?
-            events[i].getElementsByTagName("category")[0].childNodes[0].nodeValue : null;
-          event.groups =
-            events[i].getElementsByTagName("group").length > 0 ?
-            getTagItems(events[i].getElementsByTagName("group")[0]) : [];
+          // event.category =
+          //   events[i].getElementsByTagName("category").length > 0 ?
+          //   events[i].getElementsByTagName("category")[0].childNodes[0].nodeValue : null;
+          // event.groups =
+          //   events[i].getElementsByTagName("group").length > 0 ?
+          //   getTagItems(events[i].getElementsByTagName("group")[0]) : [];
           event.staff =
             events[i].getElementsByTagName("staff").length > 0 ?
             getTagItems(events[i].getElementsByTagName("staff")[0]) : [];
-          event.room =
-            events[i].getElementsByTagName("room").length > 0 ?
-            getTagItems(events[i].getElementsByTagName("room")[0]) : [];
-          event.module =
-            events[i].getElementsByTagName("module").length > 0 ?
-            getTagItems(events[i].getElementsByTagName("module")[0]) : [];
+          // event.room =
+          //   events[i].getElementsByTagName("room").length > 0 ?
+          //   getTagItems(events[i].getElementsByTagName("room")[0]) : [];
+          // event.module =
+          //   events[i].getElementsByTagName("module").length > 0 ?
+          //   getTagItems(events[i].getElementsByTagName("module")[0]) : [];
           newEvents.push(event);
         }
         return newEvents;
@@ -100,7 +100,7 @@
       function newModule() {
         var module = {
           subheading: null,
-          description: null,
+          // description: null,
           events: []
         };
         return module;
@@ -112,11 +112,11 @@
           endtime: null,
           day: null,
           rawweeks: null,
-          category: null,
-          groups: [],
-          staff: [],
-          room: [],
-          module: []
+          // category: null,
+          // groups: [],
+          staff: []
+          // room: [],
+          // module: []
         };
         return event;
       }

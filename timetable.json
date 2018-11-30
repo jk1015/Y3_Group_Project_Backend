@@ -1,14 +1,37 @@
-{"modules":[{
-"subheading":"Group timetable - DOCSOC","description":"Weeks P1-39, 02/07/2018 - 24/06/2019","events":[{"starttime":"17:00","endtime":"20:00","day":2,"rawweeks":"NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN","category":"Careers
- Event","groups":["CO PhDS","CO-BEng/MEng Computing Year 1
-(1)","CO-BEng/MEng Computing Year 2 (2)","CO-BEng/MEng Computing Year 3
-(3)","CO-BEng/MEng Joint Maths &amp; Computing Year 1","CO-BEng/MEng
-Joint Maths &amp; Computing Year 2","CO-BEng/MEng Joint Maths &amp;
-Computing Year 3","CO-MEng Computing Year 4 (4)","CO-MEng/MSci Joint
-Maths &amp; Computing Year 4","CO-MSc in Advanced Computing (5)","CO-MSc
- in Computer Science (5)","CO-MSc in Computing
-(Specialism)","DOCSOC"],"staff":["-"],"room":["Non-Standard Room (see
-event details)"],"module":["CO DoCSoc"]}]},{"subheading":"Module
+{
+   "modules":[
+     {
+       "subheading":"Group timetable - DOCSOC",
+       "description":"Weeks P1-39, 02/07/2018 - 24/06/2019",
+       "events": [
+         {
+           "starttime":"17:00",
+           "endtime":"20:00",
+           "day":2,
+           "rawweeks":"NNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN",
+           "category":"Careers Event",
+           "groups":[
+             "CO PhDS",
+             "CO-BEng/MEng Computing Year 1 (1)",
+             "CO-BEng/MEng Computing Year 2 (2)",
+             "CO-BEng/MEng Computing Year 3 (3)",
+             "CO-BEng/MEng Joint Maths &amp; Computing Year 1",
+             "CO-BEng/MEng Joint Maths &amp; Computing Year 2",
+             "CO-BEng/MEng Joint Maths &amp; Computing Year 3",
+             "CO-MEng Computing Year 4 (4)","CO-MEng/MSci Joint Maths &amp; Computing Year 4",
+             "CO-MSc in Advanced Computing (5)",
+             "CO-MSc in Computer Science (5)",
+             "CO-MSc in Computing Specialism)",
+             "DOCSOC"
+           ],
+           "staff":["-"],
+           "room":["Non-Standard Room (see event details)"],
+           "module":["CO DoCSoc"]
+        }
+      ]
+    },
+    {
+      "subheading":"Module
 timetable - CO C Project Presentations","description":"Weeks P1-39,
 02/07/2018 -
 24/06/2019","events":[{"starttime":"09:00","endtime":"14:00","day":3,"rawweeks":"NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYN","category":"Presentation","groups":["CO-BEng/MEng
@@ -24,7 +47,8 @@ Presentations"]},{"starttime":"09:00","endtime":"18:00","day":5,"rawweeks":"NNNN
 1"],"staff":["Valera-Espina, Maria"],"room":["HXLY 145"],"module":["CO C
  Project Presentations"]}]},{"subheading":"Module timetable - M5MR7 -
 Levy Processes: Theory and Applications","description":"Weeks P1-39,
-02/07/2018 - 24/06/2019","events":[]},{"subheading":"Module timetable -
+02/07/2018 - 24/06/2019","events":[]},
+{"subheading":"Module timetable -
 M2AA3 - Intro to Numerical Analysis","description":"Weeks P1-39,
 02/07/2018 -
 24/06/2019","events":[{"starttime":"16:00","endtime":"17:00","day":2,"rawweeks":"NNNNNNNNNNNNNNNNNNNNNNNNNNNNYYYYYYYYYYNNNNNNNNNNNNNN","category":"Lecture","groups":["CO-BEng/MEng
@@ -16944,7 +16968,7 @@ Equations
 Partial Differential Equations (4)","M5M3 - Partial Differential
 Equations
 (MSc)"]},{"starttime":"15:00","endtime":"17:00","day":2,"rawweeks":"NNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNNNNN","category":"Lecture","groups":["M3
- - Intro to PDE's"],"staff":["Delgadino, Matias G"],"room":["HXLY 
+ - Intro to PDE's"],"staff":["Delgadino, Matias G"],"room":["HXLY
 311"],"module":["M3M3 - Partial Differential Equations (3)","M4M3 -
 Partial Differential Equations (4)","M5M3 - Partial Differential
 Equations

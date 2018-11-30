@@ -11,7 +11,7 @@ const ldap = require('ldapjs');
 const assert = require('assert');
 const findSlot = require('./findLecture');
 const questionHandler = require('./questionHandler');
-
+const timetable = require('./new_timetable');
 require('./routes')(router);
 
 app.use('/api', router);
@@ -36,7 +36,7 @@ app.get('/data', (req, res) => {
 });
 
 console.log(`App Runs on ${port}`);
-
+//console.log(timetable.modules[730].subheading);
 let questionMaps = new HashMap();
 //let connections = 0;
 let fake_lacturers = [
