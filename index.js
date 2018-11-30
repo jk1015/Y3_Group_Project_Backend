@@ -258,14 +258,16 @@ io.on('connection', (socket) => {
                             doc_user: "lecturer",
                             login: username,
                             displayName: username,
-                            lecture: findSlot(courses)
+                            lecture: findSlot(courses),
+                            courses: courses
                         });
                     } else if (courses2) {
                         socket.emit('course received', {
                             doc_user: "student",
                             login: username,
                             displayName: username,
-                            lecture: findSlot(courses2)
+                            lecture: findSlot(courses2),
+                            courses: courses2
                         });
                     } else {
                         socket.emit('login error', "Invalid credentials");
@@ -310,7 +312,8 @@ io.on('connection', (socket) => {
                                     doc_user: doc_user,
                                     login: username,
                                     displayName: reorderDisplayName(entry.object.displayName),
-                                    lecture: findSlot(lectures)
+                                    lecture: findSlot(lectures),
+                                    courses: lectures
                                 });
 
                             });
