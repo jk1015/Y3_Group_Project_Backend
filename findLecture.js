@@ -4,7 +4,7 @@ const timetable = require('./new_timetable');
 const slotsMap = new HashMap();
 //'Course', 'day-hour' (where 1 is Monday, 24 hours clock)
 slotsMap.multi(
-  '000', ['4-18', '4-19', '4-20'],
+  '000', ['4-18', '3-19', '3-20'],
   '475', ['1-19', '2-20'],
   '333', ['2-09', '4-12', '4-13'],
   '349', ['1-09', '3-09', '5-12', '5-13'],
@@ -80,17 +80,20 @@ function getCurrentWeekNumber(startDate, currentDate) {
 }
 
 function findSlot(courses){
-  // var d = new Date();
-  // const currentSlot = d.getDay() + "-" + d.getHours();
 
-  let returnCourse = null;
+  var d = new Date();
+  const currentSlot = d.getDay() + "-" + d.getHours();
+
+  let returnCourse = currentSlot; //Testing
 
   courses.forEach(course => {
     if(checkCourseSlot(course, startDate, endDate)){
-      // let timeSlots = slotsMap.get(course);
-      // if(timeSlots.includes(currentSlot)){
-      //   returnCourse = course;
-      // }
+
+       let timeSlots = slotsMap.get(course);
+       if(timeSlots.includes(currentSlot)){
+
+         returnCourse = course;
+       }
       returnCourse = course;
     }
   })
