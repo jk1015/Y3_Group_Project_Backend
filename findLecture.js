@@ -15,6 +15,8 @@ slotsMap.multi(
   'eie2', ['4-09', '4-15'],
   '362', ['5-15', '5-16', '5-17', '4-12'],
   '570', ['5-15', '5-16', '5-17']
+
+
 );
 
 const startDate = new Date(2018, 6, 2);
@@ -83,7 +85,7 @@ function findSlot(courses){
   // var d = new Date();
   // const currentSlot = d.getDay() + "-" + d.getHours();
 
-  let returnCourse = null;
+  let returnCourse;
 
   courses.forEach(course => {
     if(checkCourseSlot(course, startDate, endDate)){

@@ -12,25 +12,28 @@ const assert = require('assert');
 const findSlot = require('./findLecture');
 const questionHandler = require('./questionHandler');
 const timetable = require('./new_timetable');
+const cors = require('cors');
+app.use(cors());
+
 require('./routes')(router);
 
 app.use('/api', router);
 
 server.listen(port);
 
-app.all('/', function(req, res, next) {
- res.header("Access-Control-Allow-Origin", "*");
- res.header("Access-Control-Allow-Headers", "X-Requested-With");
- next();
-});
+// app.all('/', function(req, res, next) {
+//  res.header("Access-Control-Allow-Origin", "*");
+//  res.header("Access-Control-Allow-Headers", "X-Requested-With");
+//  next();
+// });
 
 app.get('/', (req, res) => {
     res.send('Backend');
 });
 
-app.get('/data', (req, res) => {
+app.post('/data/:room', (req, res) => {
 
-  questionHandler.getAllQuestions(410) //req.body.code
+  questionHandler.getAllQuestions(req.params.room)
 
   .then(result =>{
     console.log(result);
