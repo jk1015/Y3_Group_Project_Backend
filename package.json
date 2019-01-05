@@ -5,6 +5,7 @@
     "assert": "^1.4.1",
     "basic-auth": "^2.0.1",
     "cors": "^2.8.5",
+    "crypto-js": "^3.1.9-1",
     "express": "^4.16.4",
     "hashmap": "^2.3.0",
     "ldapjs": "^1.0.2",

@@ -14,6 +14,8 @@ const timetable = require('./new_timetable');
 const cors = require('cors');
 const auth = require('basic-auth');
 const ldapHandler = require('./ldapHandler');
+const CryptoJS = require("crypto-js");
+const SECRET_KEY = "EwWtEuAwByns9uALoH3zUdY5FoTAQzeq";
 
 app.use(cors());
 
@@ -80,38 +82,44 @@ io.on('connection', (socket) => {
 
     socket.on('join room', (credentials, room, userType) => {
 
-      const user = auth.parse(credentials);
-
+      const bytes  = CryptoJS.AES.decrypt(credentials, SECRET_KEY);
+      const plaintext = bytes.toString(CryptoJS.enc.Utf8);
+      const user = auth.parse(plaintext);
       // socket.emit('on rooms lists', new HashMap());
 
-      ldapHandler.login(user.name, user.pass)
-      .then((res) => {
-        socket.emit('on relogin', res);
 
-        //Check if the user has student or lecturer access
-        if(userType == res.doc_user){
-          //Check if user have access to this course
-          if(res.courses.indexOf(room) > -1){
-            socket.join(room);
-            if (!questionMaps.size || !questionMaps.has(room)) {
-                questionMaps.set(room, new HashMap());
+      if(user && user.name && user.pass){
+        ldapHandler.login(user.name, user.pass)
+        .then((res) => {
+          socket.emit('on relogin', res);
+
+          //Check if the user has student or lecturer access
+          if(userType == res.doc_user){
+            //Check if user have access to this course
+            if(res.courses.indexOf(room) > -1){
+              socket.join(room);
+              if (!questionMaps.size || !questionMaps.has(room)) {
+                  questionMaps.set(room, new HashMap());
+              }
+              let rooms = Object.keys(socket.rooms);
+              socket.emit('on rooms lists', rooms);
             }
-            let rooms = Object.keys(socket.rooms);
-            socket.emit('on rooms lists', rooms);
+            else{
+              socket.emit('on join error', 'You are not signed to this course');
+            }
           }
           else{
-            socket.emit('on join error', 'You are not signed to this course');
+            socket.emit('on join error', 'Cannot access this course');
           }
-        }
-        else{
-          socket.emit('on join error', 'Cannot access this course');
-        }
 
-      })
-      .catch((err) => {
-        socket.emit('on join error', err);
-      })
-
+        })
+        .catch((err) => {
+          socket.emit('on join error', err);
+        })
+      }
+      else{
+        socket.emit('login error', 'Invalid token');
+      }
 
     });
 
@@ -220,13 +228,17 @@ io.on('connection', (socket) => {
 
     socket.on('login', (username, password) => {
 
-      // socket.emit('course received', {});
-
       ldapHandler.login(username, password)
       .then((res) => {
+
+        const credentials = username + ':' + password;
+        var ciphertext = CryptoJS.AES.encrypt('Basic ' + Buffer.from(credentials).toString('base64'), SECRET_KEY);
+        res.token = ciphertext.toString();
+
         socket.emit('course received', res);
       })
       .catch((err) => {
+        console.log(err);
         socket.emit('login error', err);
       })
 
@@ -234,15 +246,22 @@ io.on('connection', (socket) => {
 
     socket.on('relogin', credentials => {
 
-      const user = auth.parse(credentials);
+      const bytes  = CryptoJS.AES.decrypt(credentials, SECRET_KEY);
+      const plaintext = bytes.toString(CryptoJS.enc.Utf8);
+      const user = auth.parse(plaintext);
 
-      ldapHandler.login(user.name, user.pass)
-      .then((res) => {
-        socket.emit('course received', res);
-      })
-      .catch((err) => {
-        socket.emit('login error', err);
-      })
+      if(user && user.name && user.pass){
+        ldapHandler.login(user.name, user.pass)
+        .then((res) => {
+          socket.emit('course received', res);
+        })
+        .catch((err) => {
+          socket.emit('login error', err);
+        })
+      }
+      else{
+        socket.emit('login error', 'Invalid token');
+      }
 
     });
 
