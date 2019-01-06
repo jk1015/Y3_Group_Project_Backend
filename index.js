@@ -57,12 +57,6 @@ console.log(`App Runs on ${port}`);
 
 let questionMaps = new HashMap();
 
-//Since LDAP gives us displayName with surnname, firstname format, below
-//function reorder it to firstname surnname format.
-function reorderDisplayName(name) {
-  let name_part = name.split(", ");
-  return name_part[1] + " " + name_part[0];
-}
 
 io.on('connection', (socket) => {
     // socket.on('connect', () => {
