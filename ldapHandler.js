@@ -162,6 +162,13 @@ let fake_lacturers = [
       {user: "stu_2", pass: "123", courses: ['000', '343', '21','22','23', '570']},
     ];
 
+//Since LDAP gives us displayName with surnname, firstname format, below
+//function reorder it to firstname surname format.
+function reorderDisplayName(name) {
+  let name_part = name.split(", ");
+  return name_part[1] + " " + name_part[0];
+}
+
 function searchFakeLecturer(username, password) {
   let lecturer;
   for (let i = 0; i < fake_lacturers.length; i++) {
