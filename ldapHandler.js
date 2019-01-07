@@ -6,7 +6,7 @@ exports.login = (username, password) =>
 	new Promise((resolve,reject) => {
 
 		// USE THIS CODE FOR TESTING
-		/*
+
 		if (username == "" || password == "") {
 			reject("Please enter a username and password");
 			return;
@@ -34,9 +34,7 @@ exports.login = (username, password) =>
 		} else {
 				reject("Invalid credentials");
 		}
-		*/
-
-
+	
 
     if (username == "" || password == "") {
       // socket.emit('login error', "Please enter a username and password");
