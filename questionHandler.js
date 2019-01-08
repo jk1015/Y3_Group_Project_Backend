@@ -27,11 +27,19 @@ exports.create = (question, course) =>
 	});
 
 
-exports.getAllQuestions = (course) =>
+exports.getAllQuestions = (course, start_time, end_time) =>
 
 	new Promise((resolve,reject) => {
 
-	 questionModel.find({course: course})
+		questionModel.find({
+			$and: [
+				{$and: [
+					{ timestamp_added: { $gte: (start_time)}},
+					{ timestamp_added: { $lt: (end_time)} }]
+				},
+			 	{course: course}
+			]})
+	 // questionModel.find({course: course})
 	 //questionModel.find()
 		.then(questions => {
 			// console.log(questionReturned);

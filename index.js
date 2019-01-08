@@ -37,13 +37,16 @@ app.get('/', (req, res) => {
 
 app.post('/data/:room', (req, res) => {
 
-  questionHandler.getAllQuestions(req.params.room)
+  questionHandler.getAllQuestions(
+    req.params.room,
+    req.body.start_time,
+    req.body.end_time)
 
   .then(result =>{
     res.status(200).json(result);
   })
 
-  .catch(err => res.status(err.status).json({ message: "Error" }));
+  .catch(err => res.status(err.status).json(err.message));
 
 });
 
