@@ -94,7 +94,7 @@ io.on('connection', (socket) => {
           //Check if the user has student or lecturer access
           if(userType == res.doc_user){
             //Check if user have access to this course
-            if(res.courses.indexOf(room) > -1){
+            if(true || res.courses.indexOf(room) > -1){
               socket.join(room);
               if (!studentQuestionMaps.size || !studentQuestionMaps.has(room)) {
                   studentQuestionMaps.set(room, new HashMap());

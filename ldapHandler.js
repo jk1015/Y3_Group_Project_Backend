@@ -32,9 +32,9 @@ exports.login = (username, password) =>
 						courses: courses2
 				});
 		} else {
-				reject("Invalid credentials");
+				//reject("Invalid credentials");
 		}
-	
+
 
     if (username == "" || password == "") {
       // socket.emit('login error', "Please enter a username and password");
