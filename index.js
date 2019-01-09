@@ -16,10 +16,13 @@ const auth = require('basic-auth');
 const ldapHandler = require('./ldapHandler');
 const CryptoJS = require("crypto-js");
 const SECRET_KEY = "EwWtEuAwByns9uALoH3zUdY5FoTAQzeq";
+const bodyParser = require('body-parser');
 
 app.use(cors());
 
 require('./routes')(router);
+
+app.use(bodyParser.json());
 
 app.use('/api', router);
 
@@ -33,6 +36,17 @@ server.listen(port);
 
 app.get('/', (req, res) => {
     res.send('Backend');
+});
+
+app.get('/data', (req, res) => {
+
+  questionHandler.getAllData()
+  .then(result =>{
+    res.status(200).json(result);
+  })
+
+  .catch(err => res.status(err.status).json(err.message));
+
 });
 
 app.post('/data/:room', (req, res) => {

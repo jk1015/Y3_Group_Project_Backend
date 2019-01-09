@@ -96,3 +96,19 @@ exports.stopAskingBatch = (ids, reason) =>
 				reject({status: 500, message: 'Internal Server Error !'})
 			})
     });
+
+
+exports.getAllData = () =>
+
+	new Promise((resolve,reject) => {
+
+		questionModel.find()
+		.then(questions => {
+			resolve({ questions: questions})
+		})
+
+		.catch(err => {
+			reject({ status: 500, message: 'Internal Server Error !' })
+		})
+
+	});
