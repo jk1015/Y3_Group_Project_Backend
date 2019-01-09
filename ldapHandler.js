@@ -162,6 +162,7 @@ let fake_lacturers = [
   let fake_students = [
       {user: "stu_1", pass: "123", courses: ['000', '333', '11','12','13', '362']},
       {user: "stu_2", pass: "123", courses: ['000', '343', '21','22','23', '570']},
+			{user: "stu_3", pass: "123", courses: ['000', '343', '21','22','23', '570']}
     ];
 
 function searchFakeLecturer(username, password) {
