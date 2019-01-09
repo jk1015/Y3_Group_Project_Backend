@@ -254,14 +254,16 @@ io.on('connection', (socket) => {
     socket.on('stop asking', (message, user) => {
         //let room = Object.keys(socket.rooms)[1];
         //console.log(user.question_id);
-        questionHandler.stopAsking(user.question_id, "Student withdrew question")
+        questionHandler.stopAsking(user.question_id.id, "Student withdrew question")
         .then(id => {
             let studentQuestionMap = studentQuestionMaps.get(user.room);
 
             if (studentQuestionMap.has(message)) {
                 let question = studentQuestionMap.get(message);
 
-                if (--question.count <= 0) {
+                question.count = question.count - 1;
+
+                if (question.count <= 0) {
                     studentQuestionMap.delete(message);
                 } else {
                     question.users = question.users.filter(x => x.name !== user.name);
@@ -270,7 +272,8 @@ io.on('connection', (socket) => {
             }
             io.in(user.room).emit('question received', {
                 question: message,
-                data: studentQuestionMap.get(message) ? studentQuestionMap.get(message) : null
+                data: studentQuestionMap.has(message) ? studentQuestionMap.get(message) : null,
+                type: "student"
             });
         })
         .catch((err) => {
