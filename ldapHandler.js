@@ -6,7 +6,7 @@ exports.login = (username, password) =>
 	new Promise((resolve,reject) => {
 
 		// USE THIS CODE FOR TESTING
-
+		/*
 		if (username == "" || password == "") {
 			reject("Please enter a username and password");
 			return;
@@ -34,11 +34,11 @@ exports.login = (username, password) =>
 		} else {
 				reject("Invalid credentials");
 		}
+		*/
 
 
 
 
-		/*
     if (username == "" || password == "") {
       // socket.emit('login error', "Please enter a username and password");
       reject("Please enter a username and password");
@@ -129,7 +129,7 @@ exports.login = (username, password) =>
                 resolve({
                     doc_user: doc_user,
                     login: username,
-                    displayName: reorderDisplayName(entry.object.displayName),
+                    displayName: entry.object.displayName,
                     lecture: findSlot(lectures),
                     courses: lectures
                 });
@@ -143,7 +143,7 @@ exports.login = (username, password) =>
 
       });
     });
-		*/
+
 
 });
 
