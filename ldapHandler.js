@@ -95,7 +95,7 @@ exports.login = (username, password) =>
         else {
 
           // Search parameters - return list of all groups the user belongs to
-          var opts = {
+          let opts = {
               attributes: ['displayName', 'memberOf']
           };
 
@@ -114,7 +114,7 @@ exports.login = (username, password) =>
                 //console.log(entry.object);
                 let doc_user = "student";
                 // Return only groups containing 'doc-students' (enrolment groups)
-                for (var i = 0; i < len; i++) {
+                for (let i = 0; i < len; i++) {
                     let str = membership[i];
                     str = str.split(',')[0];
                     if (str.includes("doc-students")) {

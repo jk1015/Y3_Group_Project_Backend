@@ -290,7 +290,7 @@ io.on('connection', (socket) => {
       .then((res) => {
 
         const credentials = username + ':' + password;
-        var ciphertext = CryptoJS.AES.encrypt('Basic ' + Buffer.from(credentials).toString('base64'), SECRET_KEY);
+        let ciphertext = CryptoJS.AES.encrypt('Basic ' + Buffer.from(credentials).toString('base64'), SECRET_KEY);
         res.token = ciphertext.toString();
 
         socket.emit('course received', res);
